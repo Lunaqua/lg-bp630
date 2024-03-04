@@ -1,5 +1,5 @@
 *.ROM filter=lfs diff=lfs merge=lfs -text
-*.BAK filter=lfs diff=lfs merge=lfs -text
+*.bak filter=lfs diff=lfs merge=lfs -text
 *.sqfs filter=lfs diff=lfs merge=lfs -text
 *.gbf filter=lfs diff=lfs merge=lfs -text
 LG_F_ROM/LG_BD_8110M60.ROM.bak filter=lfs diff=lfs merge=lfs -text
