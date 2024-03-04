@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Kontoindstillinger</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Voksenindhold er ikke tilgængeligt.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>For at køre et voksenprogram skal du logge på med det id, du har købt.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Voksengodkendelse fejlede.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>For at få adgang til voksenindhold skal det bekræftes, at du er voksen.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>For at få adgang til denne app skal det bekræftes, at du er voksen.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Kontroller tilgængeligheden af dette ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Du er ikke betalingsmedlem. For at købe dette program skal du registrere som betalingsmedlem på www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>TV'et understøtter ikke dette program.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Bedømmelse er foretaget.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Ikke nok hukommelse til at købe dette program.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Du har allerede bedømt dette program.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Ingen anmeldelser</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Østrig</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Australien</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Belgien</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Brasilien</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Schweiz</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>Kina</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Tjekkiet</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Tyskland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Danmark</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Spanien</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Andre</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Finland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Frankrig</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>UK</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Grækenland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Kroatien</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Ungarn</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Italien</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Sydkorea</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Luxembourg</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Holland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Norge</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Portugal</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Rusland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Sverige</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>USA</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Godkendelse som betalingsmedlem fejlede.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Grundlæggende information</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Besøg venligst www.lgappstv.com for at ændre dine kontoindstillinger.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>dag(e)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>time(r)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Element</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>minut(ter)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>måned(er)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Betalingsanmodning</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>Klokkeslæt</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Samlet betalingsbeløb</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Ubegrænset</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>år</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Rediger</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Køb</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Top gratis</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Top betal </word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Skift bruger</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Kontroller ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Tilbage</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Annuller</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Luk</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Slet</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Exit</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Nej</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Side</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Ja</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Log på autom.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Hjem</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Flyt</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Fødselsdato</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Adgangskode</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Kunne ikke downloade</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Kunne ikke downloade pga. risiko for fejl på disk.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Kunne ikke downloade pga. risiko for fejl på server.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>Download gennemført</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Tot.</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>E-mail</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>USB-enhed frakoblet</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>For at kunne bruge programmer til voksne skal du indtaste ID og adgangskode.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Indtast dit ID og adgangskode for at bekræfte dit betalingsmedlemsskab.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>Alle</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Kunne ikke installere</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Kunne ikke foretage bedømmelse.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>For at afspille dette program skal du bruge nedenstående funktion.</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Køn</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Mand</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Kvinde</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Bedøm</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>ID eller land matcher ikke.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>ID: 6~12 tegn, bogstaver eller tal</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>installér</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Installation er komplet.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Programmet er allerede blevet installeret på 5 TV-apparater.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Installeret</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Installerede programmer</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Installerer</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Du er blevet logget af pga. manglende accept af de nye servicebetingelser.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Enig</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Uenig</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Servicebetingelser</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>LG TV registrering</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Adgangskode stemmer ikke overens.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Se dine kreditkortinformationer på webside. </word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Kreditkortinformationerne er ugyldige. </word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Grænsen for antallet af forkerte kodeord et overskredet. </word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Giv karakterer med det ID hvormed du købte denne app. </word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Afvist - Beløbsgrænse overskredet. </word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Netværks- eller serverforbindelsen er ustabil. Prøv igen senere.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>Login til TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Du kan aktivere op til 5 tv'er med det samme id. Du kan deaktivere dit ID fra et fjernsynsapparat, som du tidligere har logget på, via Smart TV-indstilling &gt; ID-administration.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Hvis du ikke er medlem</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Tryk på denne knap.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>Du kan kun registrere dig om et gratis medlem fra dit TV. Hvis du ønsker at blive et betalende medlem eller ændre på dine informationer, brug venligst din PC og besøg www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Uegnet kodeord. Indtast 4~12 tegn kun ved brug af bogstaver eller tal.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Du er nu registreret som et gratis medlem.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>Uegnet ID. Indtast 6~12 tegn kun ved brug af bogstaver eller tal.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>ID er ledigt.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Du kan aktivere op til 5 TV-apparater med det samme ID. Se dine aktiveringsindstillinger fra din PC ved at besøge www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Forbindelse til server afbrudt. Prøv igen senere.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>Forkert ID og/eller adgangskode</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Vær sikker på, at du har indtastet din ID og adgangskode korrekt.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Login gennemført.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Tilmeld dig med LG TV for at få Premium service, TV-programmer, Mine programmer og meget mere.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Forkert ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Magic Motion-fjernbetjening</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>Mine programmer</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Mine informationer</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Du kan ikke redigere denne app. </word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Der er brug for en opdatering. Vil du opdatere?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Opdater fejl</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Kunne ikke oprette forbindelse til netværket. Angiv netværk?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Andre</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Tjenesten er ikke tilgængelig i det valgte land.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Opdatering er fuldført.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Ingen installerede programmer fundet.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Ingen købshistorik.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Ikke installeret</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>En ny softwareversion er klar. Vil du opdatere?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Netværket er afbrudt. Kontroller forbindelsen.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Land</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Købte programmer</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Kodeord: 4~12 tegn, bogstaver eller tal</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Hvis du sletter, vil det ikke længere være tilgængeligt i Mine porgrammer. Er du sikker på, at du vil slette?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Vil du inslattere?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Vil du købe?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Er du sikker på at du vil slette?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Bedømmelser</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Indtast adgangskode igen</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Registrér</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Kunne ikke registrere.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Dette program kræver følgende enhed/enheder:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Gennemlæsning</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Godkendelsesfejl. Prøv igen senere.</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>Populær</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Medielink</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>NY</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Kommer Snart</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Webbrowser</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Navn</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Voksengodkendelse</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Godkendelse af betalingsmedlem</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Total</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Gratis</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Gå til Mine Apps. </word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Denne app er allerede installeret. </word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Ingen data</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Version </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Kunne ikke opdatere.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Opdateret</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>Opretter forbindelse til USB-enheden</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Der er ikke nok hukommelse til at købe denne app.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Der er ikke nok hukommelse til at købe denne app.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Vil du formatere nu? Når du bruger denne USB som lagerenhed vil al data på USB-enhedens hukommelse blive slettet. </word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Formateringen er fuldendt. Den eksterne lagerenhed kan bruges som ekstra hukommelse til Apps. </word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Formatering er i gang. Tv'et eller USB-forbindelsen må ikke afbrydes under formateringen. </word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Data er blevet gemt på ekstern USB-lagerenhed. </word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Brugt</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Webcam</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Velkommen til Smart TV</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Tilbage</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>Id</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Søg</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Log på</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Log af</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Kommer Snart</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Bemærkning</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Meddelelse</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>En nyere porgramversion er fundet. Ønsker du at opdatere nu?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Softwareopdatering &amp; download igang. SLUK IKKE apparatet og fjern ikke netværkkablet under opdateringen.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Softwareopdateringen er blevet gennemført. </word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Nuværende Lokale Indstillinger</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>TV og netværkstilslutning må ikke afbrydes under opdatering af ny software.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>En nyere softwareversion er blevet fundet og opdateret. </word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Softwareopdatering</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Indlæser...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Opsætning</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Tjenesten er ikke tilgængelig i det valgte land.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Webbrowser</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Medielink</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Aktiver</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Kunne ikke finde landet for tjenesten. Ønsker du at vælge landet nu?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Opdatér software fra indstillingspanelet.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Lokale Indstillinger</word>
+	</item>
+	<item/>
+</BBKR_string>

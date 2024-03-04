@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Zurück</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_FULL_SCREEN</id>
+		<word>Vollbild</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ORIGINAL_SCREEN</id>
+		<word>Just Scan</word>
+	</item>
+	<item>
+		<id>IDSTR_PICASA_BTN_SLIDESHOW</id>
+		<word>Dia-Show</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_CANCEL</id>
+		<word>Abbrechen</word>
+	</item>
+	<item>
+		<id>IDSTR_MEDIALINK_MSG_PLAY_FAIL</id>
+		<word>Die Medien können nicht wiedergegeben werden.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_OPTION</id>
+		<word>Option</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_NETWORK_DISCONNECT</id>
+		<word>Netzwerkverbindung wurde getrennt.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_REQUEST_CANNOT_PROCESS</id>
+		<word>Die Anfrage kann nicht verarbeitet werden.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MSG_SEARCH</id>
+		<word>Jetzt suchen!</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_KEYBOARD_MSG</id>
+		<word>Verwenden Sie die Bildschirmtastatur auf der rechten Seite, um den Text wie mit einer herkömmlichen Tastatur einzugeben.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_INCONVINIENCE</id>
+		<word>Der Dienst ist momentan nicht verfügbar.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Kein Zugriff auf diesen Dienst möglich.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_1</id>
+		<word>Foto anzeigen</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_NEWS</id>
+		<word>Artikel anzeigen</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT</id>
+		<word>Der Zugriff wurde verweigert, da diese Inhalte nicht jugendfrei sind.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_USE_TIME</id>
+		<word>Gültig bis: 01.10.2010, 18:00 Uhr</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD</id>
+		<word>Die Laufzeit des Dienstes ist abgelaufen. Möchten Sie ihn erneut freischalten?</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_FEE</id>
+		<word>Sie nutzen bereits ein 30-Tage-Flatpaket.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_RATE</id>
+		<word>Laufzeit: 30 Tage ab Kauf. Die Nutzung des Dienstes kann während dieses Zeitraums nicht ausgesetzt werden. Sie können über diesen Dienst auch Aktionsinhalte erwerben.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PYMENT_METHOD</id>
+		<word>Um kostenpflichtige Inhalte zu nutzen, melden Sie sich bei LG TV an. Wenn Sie noch kein Mitglied sind, registrieren Sie sich unter www.lgappstv.com. Gehen Sie zu MEINE SEITE &gt; ZAHLUNGSINFORMATIONEN und registrieren Sie Ihre Zahlungsinformationen. Möchten Sie zur Anmeldeseite wechseln?</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT_AUTH</id>
+		<word>Für einen Zugriff auf diese Inhalte müssen Sie zuerst Ihr Alter authentifizieren.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>Tag(e)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>Std.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>Monat(e)</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_PACK</id>
+		<word>30-tägiges Flatpaket für bequemes, preiswertes Einkaufen.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_TERM</id>
+		<word>30-tägiges Flatpaket</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>Gültig bis</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD_2</id>
+		<word>Nutzungszeitraum für Zusatzdienst ist abgelaufen. Zur weiteren Nutzung des Dienstes ist eine Zahlung erforderlich.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Abgelaufen</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Authentifizierung für Erwachsene</word>
+	</item>
+	<item>
+		<id>IDSTR_VALID_DATE</id>
+		<word>Fristablauf.</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_KEYHELP_PAGE_CHANGE</id>
+		<word>Seitenwechsel</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_AUTO</id>
+		<word>Automatisch</word>
+	</item>
+	<item>
+		<id>IDSTR_TIME_ONTIME_PROGRAM</id>
+		<word>Programm</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Seite</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Anmelden</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_KEYHELP_LIST</id>
+		<word>Liste</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_DETAIL_NEED_SIGNIN</id>
+		<word>Melden Sie sich an, um diesen Dienst zu nutzen.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Um auf Inhalte für Erwachsene zuzugreifen, müssen Sie Ihr Alter verifizieren.</word>
+	</item>
+	<item>
+		<id>IDSTR_HOTKEY_INFO</id>
+		<word>Info</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_PLAY</id>
+		<word>Wiedergeben</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>Gültig bis</word>
+	</item>
+	<item>
+		<id>IDSTR_MP_PAYMENT_AMOUNT</id>
+		<word>Zahlungsbetrag</word>
+	</item>
+	<item>
+		<id>IDSTR_3DTV_3DMODE_C</id>
+		<word>3D-Modus</word>
+	</item>
+</BBKR_string>

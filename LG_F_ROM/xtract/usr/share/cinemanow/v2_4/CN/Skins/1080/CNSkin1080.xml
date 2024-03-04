@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin version="1.0" img="CN1080.png">
+  <Bitmap id="dockLogos" x="0" y="0" w="156" h="104" count="2"/>
+  <!-- Back Icons are centered on 72 pixel wide field -->
+  <Bitmap id="back" x="320" y="0" w="72" h="62" count="3"/>
+  <Bitmap id="CNBBLogoLarge" x="0" y="110" w="540" h="94"/>
+  <Bitmap id="merchCNLogo" x="0" y="210" w="384" h="68"/>
+  <Bitmap id="actCNLogo" x="0" y="280" w="278" h="50"/>
+  <Bitmap id="CNBBLogo" x="280" y="280" w="204" h="36"/>
+  <Bitmap id="poweredByRoxioNow" x="0" y="330" w="332" h="48"/>
+</Skin>

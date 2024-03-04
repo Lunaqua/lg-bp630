@@ -1,0 +1,32 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">69K256927P6K2Z7PIOC83887IOC7KPK83N8KZSZIK253OIC98P2ZS2ZJJC367Z9ZNI7873SJK3Z6JJJSKP88S278KSK2NJN7SI2KCJN62J7ISJ63K3JP86996PK6J2I3K3PI5O9KJCOP6IO65NC3N37SP2JOO8338251</Value>
+  <Value Key="UserName">KN59II9NCPC2P36K6S8KPOJKPI89KCZOS3CNIJICN9293J5OZIJ666I778OI332397683968SZ2CZ7OPK8O637SZNI3IP529NC778KZ23P5Z5IPIKS27OI65S88KC97J1513</Value>
+  <Value Key="Password">3O2PZ7S7SNPP3N73CPCIKS3ZS5JSO93O7S5IC2575SSJ86JJ55P5P8S7N89N237CI3O626532IOOSS336959C9ZJZOSIK337P67783IKSJS75Z3636C33K7972629J78KJ86C3C3I9OIK82ZZ5ZNI5K7695ZS7NS2223</Value>
+  <Value Key="DestinationTypeID">726</Value>
+  <Value Key="DeviceTypeName">Ubuntu</Value>
+  <Value Key="StoreName">KNOWHOW Movies</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">20971520</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort">8080</Value>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">400</Value>
+  <Value Key="StoreURL">http://www.knowhowmovies.com</Value>
+  <Value Key="ActivationURL">www.knowhowmovies.com/start</Value>
+  <Value Key="SupportURL">www.knowhowmovies.com/help</Value>
+  <Value Key="BillingURL">www.knowhowmovies.com/billing</Value>
+  <Value Key="ServiceBaseURL"/>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">true</Value>
+  <Value Key="EnableCalcOrderTax">false</Value>
+  <Value Key="NoInternetUpgrade">true</Value>
+  <Value Key="PreferredDRMProvider">DIVX</Value>
+  <Value Key="DPSProvisionBlob">P6233KJK67O56S8C936POJ3SN6SPS7I6SZ7NKIN9SP667OP9Z6P3P366J33J5P8JK72NJCJK779JI2NS2NO295S5ZJ28S652N8799NKNZOP6OZOKP9378939ZIO8Z7N26P875ZC3IJIKZJ3Z7JJIN6ZZOZ3ZCCNS4364</Value>
+  <Value Key="DPSContentID">5S6J2O32KZ735ZOKCPZI9O6OZ63CKJZZI666OSC7C38IKPP5P29IZ2PCZCN5536C7P777PCIS5C6O936259J6C65K5IZ6S28ZK2JSP736IZ6PKN6S9S565J76ZCCO73S7798</Value>
+</Settings>

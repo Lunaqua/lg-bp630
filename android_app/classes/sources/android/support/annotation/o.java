@@ -1,0 +1,18 @@
+package android.support.annotation;
+
+import java.lang.annotation.Documented;
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
+@Target({ElementType.METHOD, ElementType.PARAMETER, ElementType.FIELD, ElementType.LOCAL_VARIABLE, ElementType.ANNOTATION_TYPE})
+@Documented
+@Retention(RetentionPolicy.CLASS)
+/* loaded from: /home/navi/Documents/lg_bp630/android_app/classes.dex */
+public @interface o {
+    public static final int a = 0;
+    public static final int b = 1;
+    public static final int c = 2;
+
+    int a() default 1;
+}

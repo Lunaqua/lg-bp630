@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Tilin asetukset</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Aikuisille tarkoitettu sisältö ei ole käytettävissä.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Jotta voit suorittaa aikuissovelluksen, sinun tulee kirjautua sisään hankkimallasi tunnuksella.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Aikuissisällön todennus epäonnistui.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Aikuissisällön käyttö edellyttää, että olet todistanut olevasi aikuinen.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Tämän sovelluksen käyttö edellyttää, että olet todistanut olevasi aikuinen.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Tarkista, onko tämä tunnus vapaa.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Et ole maksullinen jäsen; voit hankkia tämän sovelluksen rekisteröitymällä maksulliseksi jäseneksi osoitteessa www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>TV ei tue tätä sovellusta.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Arvosana on asetettu.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Muisti ei riitä tämän sovelluksen ostoon.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Olet jo arvostellut tämän sovelluksen.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Ei arvosteluja</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Itävalta</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Australia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Belgia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Brasilia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Sveitsi</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>Kiina</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Tšekki</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Saksa</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Tanska</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Espanja</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Muut</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Suomi</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Ranska</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>Iso-Britannia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Kreikka</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Kroatia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Unkari</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Italia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Etelä-Korea</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Luxemburg</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Hollanti</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Norja</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Portugali</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Venäjä</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Ruotsi</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>USA</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Maksullisen jäsenen todennus epäonnistui.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Perustiedot</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Vaihtaaksesi tilisi asetuksia, käy sivulla www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>päivä(ä)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Erääntynyt</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>tunti(a)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Tuote</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>minuutti(a)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>kuukautta</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Maksukysely</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_RESERVES_CASH</id>
+		<word>Tilin tase</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>kertoja</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Maksettava summa</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Rajaton</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>vuotta</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_PURCHASE_AMOUNT</id>
+		<word>Maksettava summa</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Muokkaa</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Osta</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Top Free</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Top Paid</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Vaihda käyttäjää</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Tarkista tunnus</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Takaisin</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Peruuta</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Sulje</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Poista</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Lopeta</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Ei</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Sivu</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Kyllä</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Kirjaudu autom.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Aloitus</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Siirrä</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_STATUS_NETWORK</id>
+		<word>Verkkoyhteys tai -tila on heikko.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Tämä palvelu ei ole käytettävissä.</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Syntymäpäivä</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Salasana</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Lataus epäonnistui</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Lataus epäonnistui levyvirheen takia.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Lataus epäonnistui palvelinvirheen takia.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>Lataus onnistui</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Yht.</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>Sähköposti</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>USB laite on kytketty pois.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Voit käyttää vain aikuisille tarkoitettuja sovelluksia syöttämällä tunnuksen ja salasanan.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Tarkista maksullinen jäsenyys syöttämällä tunnus ja salasana.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>All</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Asennus epäonnistui</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Arvosanan asetus epäonnistui.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Tämän sovelluksen toistoon tarvitset alla olevat toiminnot,</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Sukupuoli</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Mies</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Nainen</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Anna arvosanoja</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>Tunnus tai maa ei täsmää.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>Tunnus: 6~12 alfanumeerista merkkiä</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>asenna</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Asennus suoritettu.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Sovellus on jo asennettu 5 televisioon.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Asennettu</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Asennetut sovellukset</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Asennetaan</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Sinut on kirjattu ulos, koska et hyväksynyt uusia käyttöehtoja.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Hyväksyn</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>En hyväksy</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Käyttöehdot</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>LG TV rekisteröinti</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Väärä salasana. Syötä 4~12 alfanumeerista merkkiä.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Tarkista luottokorttitietosi nettisivulta.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Luottokorttitiedot eivät ole oikeat.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Salasanan virheiden enimmäismäärä on ylittynyt.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Anna arvosanoja tunnuksella, jota käytit tämän sovelluksen ostoon.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Hylätty - määrän rajoituksen ylitys.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Verkko- tai palvelinyhteys on epävakaa. Yritä uudelleen myöhemmin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>Kirjaudu TV:hen.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Voit aktivoida enintään 5 TV:tä samalla tunnuksella. Voit poistaa tunnuksesi valitsemalla televisiosta, johon olet kirjautunut sisään, Smart TV -asetus &gt; ID Management.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Jos et ole jäsen</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Paina tätä nappia.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>Voit rekisteröityä ilmaiseksi jäseneksi vain televisiosi kautta. Jos haluat tulla maksavaksi jäseneksi tai vaihtaa tietojasi, käytä tietokonettasi ja käy sivulla www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Väärä salasana. Syötä 4~12 alfanumeerista merkkiä.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Olet nyt rekisteröitynyt ilmaiseksi jäseneksi.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>Väärä tunnus. Syötä 6~12 alfanumeerista merkkiä.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>Tunnus on jo käytössä. Yritä toista tunnusta.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>Tunnus on vapaa</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Voit aktivoida jopa 5 televisiovastaanotinta samalla tunnuksella. Tarkista aktivaatioasetuksesi tietokoneeltasi osoitteessa www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Palvelimen yhteys poikki. Yritä uudelleen myöhemmin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>Väärä tunnus ja/tai salasana</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Varmista, että syötit tunnuksesi ja salasanasi oikein.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Kirjautuminen onnistui.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Kirjaudu LG TV:hen nauttiaksesi Premium -palvelusta, TV-sovelluksista, My Appseista ja paljon muusta.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Väärä tunnus.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_INCORRECT_ID_PWD</id>
+		<word>Virheellinen käyttäjätunnus tai salasana.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Magic Motion -kaukosäädin</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>My Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Omat tiedot</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Et voi muokata tätä sovellusta.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Se tarvitsee päivityksen. Haluatko päivittää sen?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Päivitysvirhe</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_APPS</id>
+		<word>Sovellusten lataaminen epäonnistui</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Verkkoyhteyttä ei voi muodostaa. Määritetäänkö verkko?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Muut</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Tämä palvelu ei ole käytettävissä valitussa maassa.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Päivitys on valmis.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Asennettuja sovelluksia ei löytynyt.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Ei hankintahistoriaa.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Ei asennettu</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>Uusi ohjelmistoversio on saatavana. Haluatko päivittää?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Verkkoyhteys on katkaistu. Tarkista yhteys.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Maa</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Ostetut sovellukset</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Salasana: 4~12 alfanumeerista merkkiä</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Jos poistat sen, se ei enää ole tarjolla MyAppsissa. Haluatko varmasti poistaa sen?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Haluatko asentaa?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Haluatko ostaa?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Haluatko varmasti poistaa?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Arvostelut</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Anna salasana uudelleen</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Rekisteröi</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Rekisteröinti epäonnistui.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Tämä sovellus edellyttää seuraavia laitteita:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Tarkasta</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Todennusvirhe. Yritä uudelleen myöhemmin.</word>
+	</item>
+	<item>
+		<id>IDSTR_SEARCH_LABEL_PRICE</id>
+		<word>Hinta</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>HOT</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Medialinkki</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>NEW</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Tulossa pian</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Nettiselain</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Nimi</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_ENTER_TEMP</id>
+		<word>Enter</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_UP</id>
+		<word>Kirjaudu käyttäjäksi</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOM_MSG_1</id>
+		<word>Tervetuloa Social Centeriin</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOME_MSG_3</id>
+		<word>Voit nauttia Social Center -palvelusta valitsemalla [Kirjaudu käyttäjäksi] ja luomalla LG TV -tili tai [Enter] ja aloittamalla käyttö.</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Aikuistodennos</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Maksullisen jäsenen todennus</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Kaikkiaan</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Ilmainen</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Mene My Appsiin</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Tämä sovellus on jo asennettu.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Ei dataa</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Versio </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Päivitys epäonnistui.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Päivitetty</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>Yhteyden muodostus USB-laitteeseen on meneillään.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Ei tarpeeksi muistia tämän sovelluksen ostamiseen.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Ei tarpeeksi muistia tämän sovelluksen ostamiseen.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Haluatko formatoida nyt? Kun käytät tätä USB-muistilaitetta säilytykseen, kaikki USB-muistin data poistetaan.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Formatointi on tehty. Ulkoista muistia voidaan käyttää sovellusten lisämuistina.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Formatointi käynnissä. Älä sammuta TV:tä tai USB-yhteyttä formatoinnin aikana.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Data on tallennettu ulkoiseen USB-muistiin.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Käytössä</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Nettikamera</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Tervetuloa Smart TViin</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Takaisin</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>Tunnus</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Haku</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Kirjaudu sisään</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Kirjaudu ulos</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Tulossa pian</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Huomautus</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Ilmoitus</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Sovellus uudempi versio löydetty. Haluatko päivittää sen nyt?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION_ORIGINAL</id>
+		<word>Ohjelmiston päivitys &amp; lataus käynnissä. ÄLÄ sammuta televisiota tai irrota verkkokaapelia päivityksen aikana.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Ohjelmiston päivitys &amp; lataus käynnissä. ÄLÄ sammuta laitetta tai irrota verkkokaapelia päivityksen aikana.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Ohjelmiston päivitys on päättynyt.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Nykyinen maa-asetus</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>Älä sulje TV:tä ja verkkoyhteyttä kun päivität uutta ohjelmistoa.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Ohjelmiston uudempi versio on huomattu ja päivitetty.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Ohjelmistopäivitys</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Ladataan...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Asetukset</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Tämä palvelu ei ole käytettävissä valitussa maassa.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Nettiselain</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Medialinkki</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Alusta</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Palvelulle ei löydy maata. Haluatko valita maan nyt?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Päivitä ohjelmisto Settings-paneelista.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Maa-asetukset</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_WRONGPASSWD_GUIDE</id>
+		<word>Salasana: 6–12 merkkiä (vain kirjaimia ja numeroita).</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CURRENT_PASSWD</id>
+		<word>Nykyinen salasana</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CONFIRM_NEW_PASSWD</id>
+		<word>Vahvista uusi salasana</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID</id>
+		<word>MUUTA LG TV -TUNNUS JA -SALASANA</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE6</id>
+		<word>Tarvitset vain yhden LG-tilin useiden LG Electronics -palveluiden käyttöön. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE4</id>
+		<word>Syötä LG-tilisi sähköposti.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CURRENT_ID</id>
+		<word>Tämänhetkinen tunnus</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_RECEIVE</id>
+		<word>Vastaanota sähköposti</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_PASSWD_GUIDE</id>
+		<word>Henkilökohtaisten tietojesi suojaamiseksi muuta salasanasi vähintään 6-merkkiseksi.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_EMAIL_CONVERT</id>
+		<word>Tunnuksen muutos on suoritettu loppuun.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_SEND_AUTH_EMAIL</id>
+		<word>Sähköpostitodennus on lähetetty rekisteröityyn sähköpostiosoitteeseen.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_SIGNUP</id>
+		<word>Rekisteröinnin loppuun suorittamiseksi napsauta todennussähköpostin painiketta "Suorita sisään kirjautuminen loppuun". </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_INCOMPLETE_EMAIL_AUTH</id>
+		<word>Sähköpostitodennusprosessia ei ole suoritettu loppuun.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE7</id>
+		<word>Kuluttajan suojelemiseksi tietyt palvelut vaativat lisätietoja. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SINGUP_GUIDE5</id>
+		<word>Syötä voimassa oleva sähköpostiosoite.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE3</id>
+		<word>Syötä LG-tilisi sähköposti ja salasana.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID_PASSWD</id>
+		<word>MUUTA LG TV -TUNNUS JA -SALASANA</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NOW_SHOW_AGAIN</id>
+		<word>Älä näytä uudelleen.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGE_PASSWD</id>
+		<word>Muuta salasanaa</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_OR_ID</id>
+		<word>Tunnus tai sähköposti</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP_1</id>
+		<word>Tarkista tunnus</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL_1</id>
+		<word>Sähköposti</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CHANGE_ID_GUIDE1</id>
+		<word>Kirjaudu sisään sähköpostiosoitteellasi, älä tunnuksellasi.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE1</id>
+		<word>Kun olet hyväksynyt henkilökohtaisia tietojasi koskevat ehdot, syötä sähköpostisi ja salasanasi. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE5</id>
+		<word>Syötä sähköpostiosoitteesi ehtojen hyväksymisen jälkeen. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE8</id>
+		<word>Hyväksy kaikki ehdot käyttääksesi LG SMART TV -palveluja. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_AUTH_GUIDE_3</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_UNAVAILABLE_EMAIL</id>
+		<word>Sähköpostiosoitetta ei ole käytettävissä.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_HOW_TO_CONFIRM_EMAIL</id>
+		<word>Voit kirjautua sisään painamalla "complete change"-painiketta sähköpostissa.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_PURCHASE_NO_RESPONSE</id>
+		<word>Maksua ei voida vahvistaa epävakaan verkon takia.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_MAKE_PURCHASE_TITLE</id>
+		<word>Osta</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_RESULT_CHECK_MYPAGE</id>
+		<word>Katso tulos OMAN SIVUN maksutiedustelusta.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_ACTIVATE_UPTO_5</id>
+		<word>Voit aktivoida enintään 5 TV:tä samalla tunnuksella. Voit poistaa tunnuksesi valitsemalla televisiosta, johon olet kirjautunut sisään, Smart TV -asetus &gt; ID Management.</word>
+	</item>
+	<item>
+		<id>IDSTR_MEMBERJOIN</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_ERROR_ALL_INFO</id>
+		<word>Syötä kaikki tiedot.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_AVAILABLE_EMAIL</id>
+		<word>Sähköpostiosoite on käytettävissä.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_CHECKID_DUP</id>
+		<word>Tarkistetaan tunnusta.</word>
+	</item>
+	<item>
+		<id>VCSTR_PASSWORD_CH</id>
+		<word>Salasana on vaihdettu.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NEW_PASSWD</id>
+		<word>Uusi salasana</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGED</id>
+		<word>Käytä</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_NEXT_CHANGE</id>
+		<word>Vaihda seuraavan kerran.</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_LG_SMART_WORLD</id>
+		<word>LG Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMART_WORLD</id>
+		<word>Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_MUST_CHANGE_PW</id>
+		<word>Vaihda salasana, jotta voit kirjautua sisään.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_LINKED_USING_ID</id>
+		<word>Tämä sähköpostiosoite on jo rekisteröity.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_EMAIL_ALEADY_USE</id>
+		<word>Sähköpostiosoite ei ole käytettävissä.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_CONVERTID_GUIDE1</id>
+		<word>Käytä useita LG Electronics -palveluita samalla tilillä.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_ALREADY_USE_EMAIL</id>
+		<word>Tämä sähköpostiosoite on jo rekisteröity tähän LG-tiliin. </word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AFGHANISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALBANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ANGOLA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARGENTINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARMENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRALIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AZERBAIJAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BAHRAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELGIUM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELIZE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BENIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOLIVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOSNIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BRAZIL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BULGARIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAMEROON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CANADA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAPEVERDE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CENTRALAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHILE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COLUMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COSTRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CROATIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CUBA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CZECH</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DENMARK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DJIBOUTI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DOMONICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ECUADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_EGYPT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ELSALVADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ESTONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ETHIOPIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CONGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FINLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FRANCE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GABON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GAMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GEORGIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GERMANY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GHANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GREECE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUATEMALA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUYANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HOUNDURAS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HONGKONG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HUNGARY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ICELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDONESIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAQ</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ISRAEL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ITALY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JAPAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JORDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KAZAKHSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KENYA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KOREA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KUWAIT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KYRGYZSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LATVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LEBANON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LIBERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LITHUANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LUXEMBOURG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MACEDONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAWI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAYSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MAURITANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MEXICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MONTENEGRO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MOROCO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MYANMAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NETHERLANDS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NEWZEALAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NICARAGUA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NIGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NORWAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_OMAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PAKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PANAMA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PARAGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PERU</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PHILIPINES</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_POLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PORTUGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PUETRORICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_QATAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ROMANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RUSSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RWANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SAUDIARABIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SENEGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SERBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SIERRALEONE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SINGAPORE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVAKIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SOUTHAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SPAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SUDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWEDEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWITZERLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SYRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TAIWAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TANZANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_THAILAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TOGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TRINIDAD</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TUNISIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TURKEY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UGANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UKRAINE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UAE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_USA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_URUGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UZBEKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VIETNAM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VENEZUELA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_YEMEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ZAMBIA</id>
+	</item>
+	<item/>
+</BBKR_string>

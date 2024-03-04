@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin>
+  <Sets>
+    <Set resolution="1080" img="PlatformSkin1080.png"/>
+    <Set resolution="720" img="PlatformSkin720.png"/>
+    <Set resolution="540" img="PlatformSkin540.png"/>
+  </Sets>
+  <Bitmaps>
+    <Bitmap id="playbackControlQMenu" x="0" y="0" w="158" h="70" count="2" direction="vertical"/>
+  </Bitmaps>
+</Skin>

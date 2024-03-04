@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>이전</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_FULL_SCREEN</id>
+		<word>전체화면</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ORIGINAL_SCREEN</id>
+		<word>원본화면</word>
+	</item>
+	<item>
+		<id>IDSTR_PICASA_BTN_SLIDESHOW</id>
+		<word>슬라이드쇼</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_OK</id>
+		<word>확인</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_CANCEL</id>
+		<word>취소</word>
+	</item>
+	<item>
+		<id>IDSTR_MEDIALINK_MSG_PLAY_FAIL</id>
+		<word>재생할 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_OPTION</id>
+		<word>옵션</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_NETWORK_DISCONNECT</id>
+		<word>네트워크 연결이 끊어졌습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_REQUEST_CANNOT_PROCESS</id>
+		<word>요청을 수행할 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MSG_SEARCH</id>
+		<word>검색!</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_KEYBOARD_MSG</id>
+		<word>우측의 스크린키보드를 이용해 텍스트를 입력하십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_INCONVINIENCE</id>
+		<word>서비스 이용에 불편을 드려 죄송합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>해당 서비스에 접속할 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_1</id>
+		<word>사진보기</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_NEWS</id>
+		<word>기사보기</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT</id>
+		<word>성인컨텐츠를 이용하실 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_USE_TIME</id>
+		<word>이용기한: 년 월 일 시 분</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD</id>
+		<word>기간이 만료되었습니다. 구매 후 이용하실 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_FEE</id>
+		<word>현재 정액제 상품 이용중입니다. 기간 만료 후 재구매 해주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_RATE</id>
+		<word>상품이용기간 : 구입일로부터 30일 까지 단, 상품 이용 기간 중에 서비스 일시정지는 불가능합니다. 30일 정액권으로 할인 컨텐츠까지 모두 이용 가능합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PYMENT_METHOD</id>
+		<word>선택하신 컨텐츠를 이용하시려면 LG TV 로그인이 필요합니다. 아직 회원이 아니시면 www.lgappstv.com으로 가셔서 회원가입 후 마이페이지 &gt; 결제수단정보에서 신용카드 정보를 등록해 주세요. 로그인 페이지로 이동하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT_AUTH</id>
+		<word>선택하신 컨텐츠 정보는 성인인증이 필요합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>일</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>시간</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>개월</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_PACK</id>
+		<word>30일 정액권 구매 시, 모든 컨텐츠를 보다 저렴하고 편리하게 이용할 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_TERM</id>
+		<word>30일 정액권</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>이용기한</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD_2</id>
+		<word>기간이 만료되었습니다. 구매 후 이용하실 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>만료</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>성인인증</word>
+	</item>
+	<item>
+		<id>IDSTR_VALID_DATE</id>
+		<word>유효기간</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_KEYHELP_PAGE_CHANGE</id>
+		<word>페이지 이동</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_AUTO</id>
+		<word>자동</word>
+	</item>
+	<item>
+		<id>IDSTR_TIME_ONTIME_PROGRAM</id>
+		<word>채널</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>페이지</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>로그인</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_KEYHELP_LIST</id>
+		<word>목록</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_DETAIL_NEED_SIGNIN</id>
+		<word>로그인이 필요한 서비스 입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>성인 컨텐츠를 이용하시려면 성인 인증 과정을 거쳐야 합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_HOTKEY_INFO</id>
+		<word>정보표시</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_PLAY</id>
+		<word>재생</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>이용기한</word>
+	</item>
+	<item>
+		<id>IDSTR_MP_PAYMENT_AMOUNT</id>
+		<word>결제 금액</word>
+	</item>
+	<item>
+		<id>IDSTR_3DTV_3DMODE_C</id>
+		<word>3D 모드</word>
+	</item>
+</BBKR_string>

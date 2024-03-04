@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keymap>
+  <Key name="UP" code="38"/>
+  <Key name="DOWN" code="40"/>
+  <Key name="LEFT" code="37"/>
+  <Key name="RIGHT" code="39"/>
+  <Key name="ENTER" code="13"/>
+  <Key name="ENTER" code="17"/> <!-- Ctrl -->
+  <Key name="NUM_1" code="49"/>
+  <Key name="NUM_2" code="50"/>
+  <Key name="NUM_3" code="51"/>
+  <Key name="NUM_4" code="52"/>
+  <Key name="NUM_5" code="53"/>
+  <Key name="NUM_6" code="54"/>
+  <Key name="NUM_7" code="55"/>
+  <Key name="NUM_8" code="56"/>
+  <Key name="NUM_9" code="57"/>
+  <Key name="NUM_0" code="48"/>
+  <Key name="CLEAR" code="16777251"/>
+  <Key name="PLAY" code="16777223"/>
+  <Key name="PAUSE" code="16777224"/>
+  <Key name="PLAY_PAUSE" code=""/>
+  <Key name="STOP" code="16777225"/>
+  <Key name="SCAN_FWD" code="16777226"/>
+  <Key name="SCAN_REV" code="16777227"/>
+  <Key name="SKIP_NEXT" code="16777230"/>
+  <Key name="SKIP_PREV" code="16777231"/>
+  <Key name="FULLSCREEN" code="16777235"/>
+  <Key name="HELP" code=""/>
+  <Key name="RETURN" code="8"/><!--Backspace-->
+  <Key name="RETURN" code="16777238"/><!--Return key on remote control-->
+  <Key name="EXIT" code="36"/><!--Home-->
+  <Key name="EXIT" code="16777234"/><!--Home key on remote control-->
+  <Key name="PAGE_UP" code="33"/>
+  <Key name="PAGE_DOWN" code="34"/>
+  <Key name="CC" code="16777240"/>
+  <Key name="CUSTOM_1" code="16777247"/>
+  <Key name="CUSTOM_2" code="16777248"/>
+  <Key name="CUSTOM_3" code="16777250"/>
+  <Key name="CUSTOM_4" code="16777249"/>
+</Keymap>

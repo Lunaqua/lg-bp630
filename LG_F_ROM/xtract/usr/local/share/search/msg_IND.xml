@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <item>
+    <id>IDSTR_CMN_PREV</id>
+    <word>Sebelumnya</word>
+  </item>
+  <item>
+    <id>IDSTR_CMN_CLOSE</id>
+    <word>Tutup</word>
+  </item>
+  <item>
+    <id>IDSTR_RESV_DELETE_ALL</id>
+    <word>Hapus Semua</word>
+  </item>
+  <item>
+    <id>IDSTR_YOUTUBE_SEARCH</id>
+    <word>Pencarian</word>
+  </item>
+  <item>
+    <id>IDSTR_BACK</id>
+    <word>KEMBALI</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_ENTER_A_SEARCH_REQUEST</id>
+    <word>Masukkan permintaan pencarian!</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_SEARCH</id>
+    <word>Pencarian</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_MSG_NO_RESULTS</id>
+    <word>Tiada hasil yang ditemukan.</word>
+  </item>
+  <item>
+    <id>IDSTR_Extend</id>
+    <word>Extend</word>
+  </item>
+</BBKR_string>

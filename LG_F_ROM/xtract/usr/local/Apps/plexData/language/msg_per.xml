@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>برگشت</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_FULL_SCREEN</id>
+		<word>تمام صفحه</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ORIGINAL_SCREEN</id>
+		<word>فقط بررسی</word>
+	</item>
+	<item>
+		<id>IDSTR_PICASA_BTN_SLIDESHOW</id>
+		<word>نمایش اسلاید</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_OK</id>
+		<word>تایید</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_CANCEL</id>
+		<word>لغو</word>
+	</item>
+	<item>
+		<id>IDSTR_MEDIALINK_MSG_PLAY_FAIL</id>
+		<word>پخش رسانه ممکن نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_OPTION</id>
+		<word>گزینه</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_NETWORK_DISCONNECT</id>
+		<word>اتصال شبکه قطع شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_REQUEST_CANNOT_PROCESS</id>
+		<word>پردازش درخواست ممکن نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MSG_SEARCH</id>
+		<word>اکنون جستجو شود!</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_KEYBOARD_MSG</id>
+		<word>با استفاده از صفحه کلید در سمت راست صفحه نمایش، درست مانند صفحه کلید واقعی تایپ کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_INCONVINIENCE</id>
+		<word>متاسفیم، خدمات در حال حاضر موجود نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>دسترسی به این خدمات ممکن نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_1</id>
+		<word>مشاهده عکس</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_NEWS</id>
+		<word>مشاهده مقاله</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT</id>
+		<word>شما نمی توانید از محتوای بزرگسالان استفاده کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_USE_TIME</id>
+		<word>تاریخ انقضا: 2010.10.01 18:00</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD</id>
+		<word>سرویس منقضی شده است. دوباره درخواست می کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_FEE</id>
+		<word>شما قبلا یک سرویس 30 روزه خریداری کرده اید.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_RATE</id>
+		<word>تاریخ موجود: تا 30 روز بعد از خرید. در این مدت، ارائه سرویس متوقف نخواهد شد. شما می توانید با این سرویس، از تخفیف محتوا برخوردار شوید.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PYMENT_METHOD</id>
+		<word>برای استفاده از محتویات پرداخت شده، وارد LG TV شوید. اگر عضو نیستید، در www.lgappstv.com ثبت نام کنید. به صفحه من &gt; اطلاعات پرداخت رفته و اطلاعات پرداخت خود را ثبت کنید. مایلید به صفحه ورود به سیستم بروید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT_AUTH</id>
+		<word>این محتوا به تایید اعتبار بزرگسالان نیاز دارد.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>روز</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>ساعت</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>ماه</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_PACK</id>
+		<word>نرخ ثابت 30 روزه خریدی مقرون به صرفه و راحت فراهم می کند.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_TERM</id>
+		<word>هزینه اصلی 30 روزه</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>تاریخ انقضا</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD_2</id>
+		<word>دوره تکمیلی منقضی شده است. برای از سرگیری سرویس پرداخت کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>منقضی</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>معتبرسازی بالغ</word>
+	</item>
+	<item>
+		<id>IDSTR_VALID_DATE</id>
+		<word>تاریخ انقضا.</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_KEYHELP_PAGE_CHANGE</id>
+		<word>تغییر صفحه</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_AUTO</id>
+		<word>خودکار</word>
+	</item>
+	<item>
+		<id>IDSTR_TIME_ONTIME_PROGRAM</id>
+		<word>برنامه</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>صفحه</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>ورود به سیستم</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_KEYHELP_LIST</id>
+		<word>لیست</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_DETAIL_NEED_SIGNIN</id>
+		<word>جهت استفاده از این سرویس وارد سیستم شوید.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>برای دسترسی به محتوای مربوط به بزرگسالان، تاییدیه بزرگسالان لازم است.</word>
+	</item>
+	<item>
+		<id>IDSTR_HOTKEY_INFO</id>
+		<word>اطلاعات</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_PLAY</id>
+		<word>پخش</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>تاریخ انقضا</word>
+	</item>
+	<item>
+		<id>IDSTR_MP_PAYMENT_AMOUNT</id>
+		<word>مقدار پرداخت</word>
+	</item>
+	<item>
+		<id>IDSTR_3DTV_3DMODE_C</id>
+		<word>حالت 3 بعدی</word>
+	</item>
+</BBKR_string>

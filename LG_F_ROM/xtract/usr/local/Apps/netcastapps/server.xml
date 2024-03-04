@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+	<ip>http://165.244.150.114:5080/</ip>
+	<use_auth>true</use_auth>
+</server>

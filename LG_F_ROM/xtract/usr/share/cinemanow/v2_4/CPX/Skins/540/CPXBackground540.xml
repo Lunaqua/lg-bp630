@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin version="1.0" img="CPXBackground540.png">
+  <Bitmap id="storeBackground" x="0" y="0" w="960" h="540"/>
+</Skin>

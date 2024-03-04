@@ -1,0 +1,5 @@
+#MTKAT 0.xx script
+
+CLI(CLI_exec cp /mnt/sda1/AutoScript/sacd_extract /)
+CLI(CLI_exec /sacd_extract -S &)
+CLI(CLI_drv.ir.rx.sq 0xaf000)

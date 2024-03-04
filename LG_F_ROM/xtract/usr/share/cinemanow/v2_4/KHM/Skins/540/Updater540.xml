@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Layout version="1.0" tweenDur="1" apimode="xml">
+  <!-- optional platform overrides -->
+  <Platform src="UpdaterPlatform540.xml"/>
+  <Skins>
+    <Skin name="orbit" src="UpdaterSkin540.xml"/>
+  </Skins>
+  <AttributeSets>
+    <AttributeSet name="normalFont" font="MuseoSans300"/>
+    <AttributeSet name="semiBoldFont" font="MuseoSans500"/>
+    <!--
+        Measured height for DDT fonts:  33pt = 39.5, 30pt = 35.95 (Add 2+2=4 for top/bottom gutters)
+     -->
+    <AttributeSet name="detailsButtonStyle" attrs="normalFont" h="24" size="16" color="#dadada" autoSize="true"/>
+    <AttributeSet name="titleTextStyle" attrs="semiBoldFont" h="24" size="16" color="#FAA634" align="left"/>
+    <AttributeSet name="normalTextGrey33" attrs="normalFont" h="24" size="16" color="#70818E" align="left"/>
+    <AttributeSet name="normalTextWhite33" attrs="normalFont" h="24" size="16" color="#dadada" align="left"/>
+  </AttributeSets>
+  <Types>
+    <Type name="DetailsButton" w="115" h="27">
+      <Fill name="background" w="115" h="27" color="#303030"/>
+      <Fill name="glow" w="115" h="27" color="#99CA3C"/>
+      <TextField name="label" y="3" w="115" h="18" attrs="detailsButtonStyle"/>
+      <States>
+        <State name="Selected">
+          <Set name="label" color="#000000"/>
+        </State>
+        <State name="Activated">
+          <Set name="label" color="#000000"/>
+        </State>
+      </States>
+    </Type>
+    <Type name="DetailsButton140" inherit="DetailsButton">
+      <Set name="background" w="140"/>
+      <Set name="glow" w="140"/>
+      <Set name="label" w="140"/>
+    </Type>
+    <Type name="MessageButtonNarrowest" inherit="DetailsButton">	<!-- Buttons on Message Dialog, for "Cancel" button beside "Update Payment Information" button-->
+      <Set name="background" w="108"/>
+      <Set name="glow" w="108"/>
+      <Set name="label" w="108"/>
+    </Type>
+    <Type name="MessageButtonWider" inherit="DetailsButton">	<!-- Buttons on Message Dialog, for "Update Payment Information" button-->
+      <Set name="background" w="240"/>
+      <Set name="glow" w="240"/>
+      <Set name="label" w="240"/>
+    </Type>
+  </Types>
+  <View>
+    <View name="splash">
+      <!-- Each SKU will have a unique splash screen according to the retailer brand-->
+      <!-- Splash screen -->
+      <Fill name="background" x="0" y="0" w="960" h="540" color="#151617"/>
+      <Bitmap name="logo" id="CNBBLogoLarge" x="308" y="212"/>
+      <Bitmap name="poweredBy" id="poweredByRoxioNow" x="407" y="467"/>
+      <TextField name="copyright" y="496" w="960" h="18" attrs="semiBoldFont" size="12" color="#dadada">
+        &#169; 2013 RMH All Rights Reserved.
+      </TextField>
+      <TextField name="progressText" x="285" y="271" w="389" attrs="titleTextStyle" color="#99CA3C" align="center" autoSize="true">
+        Initializing, please wait…
+      </TextField>
+    </View>
+    <View name="store"></View>
+    <UpdateDialog name="updateAvailable" x="163" y="185" visible="false" hide="fade">
+      <Fill name="background" x="-162" y="-185" w="960" h="540" color="0" alpha="85"/>
+      <Bitmap name="glowBackground" id="dialogBackground" x="-19" y="-19" w="688" h="189"/>
+      <TextField name="titleText" x="25" y="27" w="575" attrs="normalTextWhite33" align="center" autoSize="true" multi="true">
+        Software update is available.
+      </TextField>
+      <TextField name="commentText" x="25" y="54" w="575" attrs="normalTextGrey33" align="center" autoSize="true" multi="true">
+      </TextField>
+      <Pages name="pages">
+        <Page name="optionalUpdate">
+          <Button name="skip" inherit="DetailsButton140" x="85" y="98" action="skipAction">
+            <Set name="label">No Thanks</Set>
+          </Button>
+          <Button name="remindMeLater" inherit="DetailsButton140" x="250" y="98" action="remindAction">
+            <Set name="label">Remind Me Later</Set>
+          </Button>
+          <Button name="update" inherit="DetailsButton140" x="415" y="98" action="updateAction">
+            <Set name="label">Continue</Set>
+          </Button>
+          <Commands name="show">
+            <Set name="../delegates" default="update" left="update" right="update"/>
+          </Commands>
+          <Routes>
+            <Route name="delegates" default="update"/>
+            <Route name="skip" left="update" right="remindMeLater"/>
+            <Route name="remindMeLater" left="skip" right="update"/>
+            <Route name="update" left="remindMeLater" right="skip"/>
+          </Routes>
+        </Page>
+        <Page name="forcedUpdate">
+          <Button name="update" inherit="DetailsButton140" x="165" y="98" action="updateAction">
+            <Set name="label">Continue</Set>
+          </Button>
+          <Button name="exit" inherit="DetailsButton140" x="330" y="98" action="exitAction">
+            <Set name="label">Exit</Set>
+          </Button>
+          <Commands name="show">
+            <Set name="../delegates" default="update" left="update" right="update"/>
+          </Commands>
+          <Routes>
+            <Route name="delegates" default="update"/>
+            <Route name="update" left="exit" right="exit"/>
+            <Route name="exit" left="update" right="update"/>
+          </Routes>
+        </Page>
+        <Page name="noUpdate">
+          <Button name="close" inherit="DetailsButton140" x="250" y="98" action="closeDialog">
+            <Set name="label">Close</Set>
+          </Button>
+          <Commands name="show">
+            <Set name="../delegates" default="close"/>
+          </Commands>
+          <Routes>
+            <Route name="delegates" default="close"/>
+          </Routes>
+        </Page>
+        <Routes>
+          <Route name="optionalUpdate"/>
+          <Route name="forcedUpdate"/>
+          <Route name="noUpdate"/>
+        </Routes>
+      </Pages>
+      <Routes>
+        <Route name="delegates" default="pages"/>
+        <Route name="pages"/>
+      </Routes>
+      <Listeners>
+        <Listen name="updateAvailable" handler="display"/>
+        <Listen name="updateUnavailable" handler="display"/>
+        <Listen name="updateAction" handler="onUpdateAction"/>
+        <Listen name="remindAction" handler="onRemindAction"/>
+        <Listen name="skipAction" handler="onSkipAction"/>
+        <Listen name="exitAction" handler="onExitAction"/>
+        <Listen name="closeDialog" handler="onCloseDialog"/>
+      </Listeners>
+    </UpdateDialog>
+    <UpdateProgress name="updateProgress" x="0" y="0" visible="false" hide="fade" interval="50">
+      <Fill name="background" x="0" y="0" w="960" h="540" color="#151617"/>
+      <Bitmap name="logo" id="CNBBLogoLarge" x="345" y="212"/>
+      <Bitmap name="poweredBy" id="poweredByRoxioNow" x="407" y="457"/>
+      <TextField name="copyright" y="484" w="960" h="17" attrs="semiBoldFont" size="9" color="#666666">
+        &#169; 2013 RMH All Rights Reserved.
+      </TextField>
+      <Bitmap name="barBackground" id="progressBarBackground" x="345" y="270" w="270" h="18" />
+      <Bitmap name="bar" id="progressBar" x="346" y="270" w="263" h="18" />
+      <TextField name="progressText" x="285" y="311" w="389" attrs="normalTextGrey33" align="center" autoSize="true">
+        Downloading Update...
+      </TextField>
+      <!--Button name="cancel" inherit="DetailsButton" x="420" y="350" action="cancelUpdateProgress">
+        <Set name="label">Cancel</Set>
+      </Button-->
+      <Strings>
+        <String name="downloading">Downloading Update...</String>
+        <String name="installing">Installing Update...</String>
+      </Strings>
+      <!--Routes>
+        <Route name="delegates" default="cancel"/>
+      </Routes-->
+      <Listeners>
+        <Listen name="progressOn" handler="display"/>
+        <Listen name="progress" handler="update"/>
+        <Listen name="progressOff" handler="dismiss"/>
+      </Listeners>
+    </UpdateProgress>
+    <!--Dialog name="updateCancelConfirmation" x="163" y="205" visible="false" hide="fade">
+      <Fill name="background" x="-162" y="-205" w="960" h="540" color="0" alpha="85"/>
+      <Bitmap name="glowBackground" id="dialogBackground" x="-19" y="-19" w="674" h="159"/>
+      <TextField name="titleText" x="25" y="27" w="575" attrs="titleTextStyle" align="center" autoSize="true" multi="true">
+        Are you sure you want to cancel the update progress?
+      </TextField>
+      <Button name="yes" inherit="DetailsButton" x="192" y="68" action="ok">
+        <Set name="label">Yes</Set>
+      </Button>
+      <Button name="no" inherit="DetailsButton" x="328" y="68" action="ok">
+        <Set name="label">No</Set>
+      </Button>
+      <Routes>
+        <Route name="delegates" default="no"/>
+        <Route name="yes" right="no"/>
+        <Route name="no" left="yes"/>
+      </Routes>
+      <Listeners>
+        <Listen name="cancelUpdateProgress" handler="display"/>
+      </Listeners>
+    </Dialog-->
+    
+    <ErrorDialog name="message" x="0" y="0" visible="false" hide="fade" ><!--ErrorDialog Dialog-->
+      <Fill name="background" x="0" y="0" w="960" h="540" color="0" alpha="85"/>
+      <Pages name="pages">
+        <Page name="errorDialog_1">
+          <Bitmap name="glowBackground" id="dialogBackground" x="144" y="100" w="688" h="340"/>
+          <TextField name="bodyText" x="174" y="140" h="152" w="616" attrs="normalTextGrey33" align="center" autoSize="true" multi="true"/>
+          <Button name="button1" inherit="MessageButtonWider" x="366" y="222" action="Button1Action"/>
+          <TextField name="errorText" x="174" y="264" h="170" w="616" attrs="normalTextGrey33" align="center" autoSize="true" multi="true"></TextField>
+          <Routes>
+            <Route name="button1"/>
+          </Routes>
+          <Commands name="show">
+            <Set name="../delegates" default="button1" right="button1" left="button1"/>
+          </Commands>
+        </Page>
+        <Page name="errorDialog_2">
+          <Bitmap name="glowBackground" id="dialogBackground" x="144" y="100" w="688" h="340"/>
+          <TextField name="bodyText" x="174" y="140" h="152" w="616" attrs="normalTextGrey33" align="center" autoSize="true" multi="true"/>
+          <Button name="button1" inherit="MessageButtonNarrowest" x="366" y="222" action="Button1Action"/>
+          <Button name="button2" inherit="MessageButtonNarrowest" x="494" y="222" action="Button2Action"/>
+          <TextField name="errorText" x="174" y="264" h="170" w="616" attrs="normalTextGrey33" align="center" autoSize="true" multi="true"></TextField>
+          <Routes>
+            <Route name="button1" right="button2"/>
+            <Route name="button2" left="button1"/>
+          </Routes>
+          <Commands name="show">
+            <Set name="../delegates" default="button2" right="button2" left="button2"/>
+          </Commands>
+        </Page>
+        <Routes>
+          <Route name="errorDialog_1"/>
+        </Routes>
+      </Pages>
+      <Routes>
+        <Route name="delegates" default="pages"/>
+        <Route name="pages"/>
+      </Routes>
+      <Strings>
+        <String name="error">Still having trouble? Please go to<br/><font size='10'><br/></font><font color='#dadada' size='30'>www.knowhowmovies.com/support</font><br/><font size='6'><br/></font>and type the following error code in the search box:<br/></String>
+      </Strings>
+      <Listeners>
+        <Listen name="ErrorDialog" handler="display"/>
+        <Listen name="Button1Action" handler="button1Action"/>
+        <Listen name="Button2Action" handler="button2Action"/>
+      </Listeners>
+    </ErrorDialog>
+    <RegionDialog name="region" x="0" y="0" visible="false" hide="fade" >
+      <Fill name="background" x="0" y="0" w="960" h="540" color="0" alpha="85"/>
+      <Bitmap name="glowBackground" id="dialogBackground" x="172" y="150" w="616" h="260"/>
+      <TextField name="bodyText" x="208" y="180" h="152" w="533" attrs="normalTextGrey33" align="center" autoSize="true" multi="true"/>
+      <Button name="button1" inherit="DetailsButton" x="319" y="300" action="button1Action"/>
+      <Button name="button2" inherit="DetailsButton" x="319" y="329" action="button2Action"/>
+      <Button name="button3" inherit="DetailsButton" x="319" y="358" action="button3Action"/>
+      <Commands name="show">
+        <Set name="../delegates" default="button1" right="button1" left="button1"/>
+      </Commands>
+      <Routes>
+        <Route name="delegates" default="button1"/>
+      </Routes>
+	  <Strings>
+	  	<String name="storeName">KNOWHOW Movies</String>
+	  </Strings>
+    </RegionDialog>
+  </View>
+  <Keys>
+    <Key code="37" down="true" action="left">Left</Key>
+    <Key code="38" down="true" action="up">Up</Key>
+    <Key code="38" down="false" action="upKeyUp"/>
+    <Key code="39" down="true" action="right">Right</Key>
+    <Key code="40" down="true" action="down">Down</Key>
+    <Key code="40" down="false" action="downKeyUp"/>
+    <Key code="13" action="activate">Enter</Key>
+    <Key code="13" down="true" action="activate">Enter</Key>
+    <Key code="17" action="activate">Ctrl</Key>
+    <Key code="17" down="true" action="activate">Ctrl</Key>
+  </Keys>
+</Layout>

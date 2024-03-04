@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncStatus>	
+	<!-- type is mandatory -->
+	<type>home</type>		<!-- ex) home, inputDevice, smartShare, radio, play, textInput, etc. -->
+	
+	<!-- basic info depends on type -->
+	<basicInformation>		
+		<!-- SmartShare case -->
+		<linkedMediaType>USB</linkedMediaType> <!-- USB, HDD, DISC, etc -->
+		<mediaType>MUSIC</mediaType> <!-- MUSIC, MOVIE, PHOTO -->
+		<title>feel so good</title>
+		<artist>psy</artist>
+		<album>6</album>
+		<initTime>0</initTime>
+		<totalTime>320</totalTime>
+		<coverArt></coverArt>
+		<path>djfj</path>
+		<now>feel so good</now>
+		<numOfContents>100</numOfContents>
+		<offsetIndex>1</offsetIndex>
+		<endIndex>30</endIndex>
+				
+		<!-- radio case -->
+		<freq>101.50</freq>
+		<band>FM</band>
+		<preset>1</preset>
+		<stereo>STEREO</stereo>
+		<station>none</station>
+	</basicInformation>
+	<itemList>
+		<!-- <item>
+			<itemIndex>1</itemIndex>
+			<name>test</name>
+			<status></status> PLAY, DIM, NOR, SEL, etc.
+			<itemType>DISC</itemType> MUSIC, MOVIE, PHOTO, FOLDER, SUBTITLE, DISC, USB, iPOD, DLNA, etc
+		</item>
+		<item>
+			<itemIndex>2</itemIndex>
+			<name>song.mp3</name>
+			<status></status> PLAY, DIM, NOR, SEL, etc.
+			<itemType>USB</itemType>
+		</item>
+		<item>
+			<itemIndex>3</itemIndex>
+			<name>USB</name>
+			<itemType>DLNA</itemType>
+		</item>
+		<item>
+			<itemIndex>5</itemIndex>
+			<name>@#@#$@인혜인혜인혜인혜</name>
+			<status>DIM</status>
+			<itemType>USB</itemType>
+		</item>	 -->
+        <item>
+            <itemIndex>1</itemIndex>
+            <name>Blu-ray Disc</name>
+            <enable>Y</enable>
+            <mdType>MOVIE</mdType>
+            <itemType>DISC</itemType>
+        </item>
+        <item>
+            <itemIndex>2</itemIndex>
+            <name>USB</name>
+            <enable>Y</enable>
+            <mdType>MOVIE</mdType>
+            <itemType>USB</itemType>
+        </item>
+        <item>
+            <itemIndex>3</itemIndex>
+            <name>Device List</name>
+            <enable>Y</enable>
+            <mdType>MOVIE</mdType>
+            <itemType>Device List</itemType>
+        </item>
+        <item>
+            <itemIndex>4</itemIndex>
+            <name>Blu-ray Disc</name>
+            <enable>Y</enable>
+            <mdType>PHOTO</mdType>
+            <itemType>DISC</itemType>
+        </item>
+        <item>
+            <itemIndex>5</itemIndex>
+            <name>Device List</name>
+            <enable>Y</enable>
+            <mdType>PHOTO</mdType>
+            <itemType>Device List</itemType>
+        </item>
+        <item>
+            <itemIndex>6</itemIndex>
+            <name>Blu-ray Disc</name>
+            <enable>N</enable>
+            <mdType>MUSIC</mdType>
+            <itemType>DISC</itemType>
+        </item>
+        <item>
+            <itemIndex>7</itemIndex>
+            <name>USB</name>
+            <enable>Y</enable>
+            <mdType>MUSIC</mdType>
+            <itemType>USB</itemType>
+        </item>
+        <item>
+            <itemIndex>8</itemIndex>
+            <name>test1 dlna</name>
+            <enable>Y</enable>
+            <mdType>MUSIC</mdType>
+            <itemType>DLNA</itemType>
+        </item>
+        <item>
+            <itemIndex>9</itemIndex>
+            <name>test2 dlna</name>
+            <enable>Y</enable>
+            <mdType>MUSIC</mdType>
+            <itemType>DLNA</itemType>
+        </item>
+        <item>
+            <itemIndex>10</itemIndex>
+            <name>test3 dlna</name>
+            <enable>Y</enable>
+            <mdType>MUSIC</mdType>
+            <itemType>DLNA</itemType>
+        </item>
+        <item>
+            <itemIndex>12</itemIndex>
+            <name>test4 dlna</name>
+            <enable>Y</enable>
+            <mdType>MUSIC</mdType>
+            <itemType>DLNA</itemType>
+        </item>
+    </itemList>
+</syncStatus>
+

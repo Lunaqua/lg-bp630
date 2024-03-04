@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncStatus>	
+	<!-- type is mandatory -->
+	<type></type>		<!-- ex) home, inputDevice, smartShare, radio, playback, etc. -->
+	
+	<!-- basic info depends on type -->
+	<basicInformation>		
+		<!-- SmartShare case -->
+		<linkedMediaType></linkedMediaType> <!-- USB, HDD, DISC, etc -->
+		<linkedMediaName></linkedMediaName>
+		<mediaType></mediaType> <!-- MUSIC, MOVIE, PHOTO -->
+		<path></path>
+		<numOfContents></numOfContents>		
+		<now></now>
+		<offsetIndex></offsetIndex>
+		<endIndex></endIndex>
+		<!-- now playing -->
+		<title></title>
+		<artist></artist>
+		<album></album>
+		<initTime></initTime>
+		<totalTime></totalTime>
+		<coverArt></coverArt>				
+		<!-- radio case -->
+		<freq></freq>
+		<band></band>
+		<preset></preset>
+		<stereo></stereo>
+		<station></station>
+	</basicInformation>
+	<itemList>
+	</itemList>	
+</syncStatus>

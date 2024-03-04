@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>아이디관리</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>성인 컨텐츠는 이용 하실 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>성인 앱을 실행하시려면 앱 구매 시 사용한 아이디로 로그인 후 실행해 주십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>성인 인증에 실패하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>성인 컨텐츠를 이용하시려면 성인 인증 과정을 거쳐야 합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>선택하신 앱은 성인 인증이 필요합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>아이디가 유용한지 먼저 검사하세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>유료회원이 아닙니다. 유료앱을 구매하시려면 www.lgappstv.com에서 유료회원으로 가입하십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>TV가 이 앱을 지원하지 않습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>평점이 반영되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>이 앱을 설치하기에 메모리가 부족합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>이미 평가한 앱입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>리뷰 없음</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>오스트리아</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>호주</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>벨기에</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>브라질</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>스위스</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>중국</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>체코공화국</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>독일</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>덴마크</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>스페인</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>기타</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>핀란드</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>프랑스</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>영국</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>그리스</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>크로아티아</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>헝가리</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>이탈리아</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>한국</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>룩셈부르크</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>네덜란드</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>노르웨이</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>포르투갈</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>러시아</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>스웨덴</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>미국</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>유료회원 인증에 실패하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>기본정보</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>회원정보는 www.lgappstv.com에서 수정하실 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>일</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>만료</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>시간</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>아이템</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>분</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>개월</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>결제 내역 조회</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_RESERVES_CASH</id>
+		<word>보유 캐시</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>회</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>총 결제 금액</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>무제한</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>년</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_PURCHASE_AMOUNT</id>
+		<word>결제 금액</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>편집</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>구매</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Top 무료</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Top 유료</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>사용자 전환</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>아이디 검사</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>이전</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>취소</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>닫기</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>삭제</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>나가기</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>아니오</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>페이지</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>예</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>자동 로그인</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>홈</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>이동</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_STATUS_NETWORK</id>
+		<word>네트워크 연결 또는 네트워크의 접속상태가 양호하지 못합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>해당 서비스에 접속할 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>생년월일</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>비밀번호</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>다운로드에 실패하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>디스크 오류입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>서버 오류입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>다운로드에 성공하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>확인</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>총</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>이메일</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>USB 장치가 제거되었습니다. </word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>성인 앱을 실행하시려면 아이디와 비밀번호를 입력해 주세요</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>선택하신 앱 구매를 위해 아이디와 비밀번호를 입력해주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>전체</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>설치에 실패하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>평점 반영에 실패하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>이 앱을 실행하기 위해서는 아래의 기능이 필요합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>성별</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>남자</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>여자</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>평점 주기</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>아이디와 국가가 일치하지 않습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>아이디 6~12자, 영문 또는 숫자 가능</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>설치</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>설치가 완료되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>이미 5대의 TV에 설치하셨습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>설치됨</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>설치된 앱</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>설치중</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>변경된 약관에 동의하지 않아 로그아웃 합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>동의</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>동의하지 않음</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>서비스 이용 약관</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>LG TV 회원가입</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>비밀번호가 일치하지 않습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>웹사이트에서 결제 정보 입력 후 다시 시도해주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>등록된 결제 수단을 확인해 주십시오</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>비밀번호의 오류횟수가 초과하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>구매한 아이디로 평가해 주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>결제 수단의 한도가 초과하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>네트워크 또는 서버 접속 상태가 양호하지 못합니다. 잠시 후 다시 시도해 주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>TV에 로그인해주십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>1개의 아이디로 5대까지 로그인할 수 있습니다. 기존에 로그인했던 TV의 '스마트 TV 설정&gt;아이디 목록'에서 '아이디해제'를 하십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>아직 회원이 아니신 분은</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>을 눌러 주세요</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>TV에서는 무료회원가입만 가능하며, 유료회원 가입 및 회원정보 수정은 PC(www.lgappstv.com)에서 하실 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>적합하지 않은 비밀번호입니다. 영문, 숫자 조합 4~12자로 입력해주세요</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>무료회원 등록이 완료되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>사용하실 수 없는 아이디입니다.영문 또는 숫자 6~12자로 입력해주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>사용중인 아이디입니다. 다시 입력해주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>사용가능한 아이디입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>동일 아이디로는 TV 5대까지 사용하실수 있습니다. PC(www.lgappstv.com)에서 Activation설정내역을 확인하시기 바랍니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>서버와의 연결이 끊어졌습니다. 잠시후 다시 시도해 주십시오</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>아이디와 비밀번호가 일치하지 않습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>아이디와 비밀번호를 확인해 주십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>로그인에 성공하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>LG TV 회원가입을 하시면 프리미엄, LG 앱, 마이 앱의 다양한 기능을 이용하실 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>사용하실 수 없는 아이디입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_INCORRECT_ID_PWD</id>
+		<word>아이디 또는 비밀 번호를 잘못 입력 하셨습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>매직 모션 리모컨</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>마이 앱</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>나의 정보</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>편집 불가능한 앱입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>업데이트가 있습니다. 업데이트 하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>업데이트 오류입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_APPS</id>
+		<word>앱을 읽어오지 못했습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>네트워크 연결을 실패했습니다. 네트워크 설정을 하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>기타 국가</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>현재 설정된 국가에서 지원하지 않는 서비스 입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>업데이트가 완료되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>설치된 앱이 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>구매하신 내역이 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>설치안됨</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>새로운 버전의 소프트웨어 업데이트가 가능합니다. 업데이트 하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>네트워크 연결이 끊어졌습니다. 연결을 확인하세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>국가</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>내가 구매한 앱</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>비밀번호 4~12자, 영문, 숫자 조합</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>삭제하시면 마이 앱에서 더 이상 사용하실 수 없습니다. 삭제하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>설치하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>구매 하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>정말 삭제 하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Ratings</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>비밀번호 확인</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>회원가입</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>등록을 실패하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>현재 앱을 이용하시려면 다음과 같은 장치가 필요합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>리뷰</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>인증 오류입니다. 다시 이용해 주십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_SEARCH_LABEL_PRICE</id>
+		<word>가격</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>인기</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>미디어링크</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>최신</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>프리미엄</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>서비스 준비 중 입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>웹 브라우저</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>이름</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_ENTER_TEMP</id>
+		<word>확인</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_OK</id>
+		<word>확인</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_UP</id>
+		<word>회원가입</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOM_MSG_1</id>
+		<word>Social Center 에 오신 것을 환영합니다</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOME_MSG_3</id>
+		<word>Social Center 서비스를 즐기기 위해 LG TV에 가입하시려면 ‘회원가입’을, 이미 LG TV 계정이 있다면 ‘확인’ 를 선택하세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>성인인증</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>유료 회원 인증</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>총</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG 앱</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>무료</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>마이 앱으로 이동</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>이미 설치된 앱입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>데이터 없음</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>버전</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>업데이트가 실패하였습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>업데이트</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>USB 저장장치와 연결 중입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>저장공간이 부족하여 구매할 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>저장공간이 부족하여 구매할 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>연결된 USB를 저장공간으로 이용 시, USB의자료는 모두 삭제 됩니다. 포맷을 진행하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>포맷이 완료되었습니다. 외부 저장 장치를 앱 추가 공간으로 사용할 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>포맷 진행 중입니다. 포맷중에는 TV전원을 끄거나, USB 연결을 해제하지 마십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>외장 메모리에 저장되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>사용 중</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>웹캠</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>LG TV 로그인</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>이전</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>아이디</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>검색</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>로그인</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>로그아웃</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>준비 중</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>공지사항</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>공지사항</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>최신 버전이 업데이트 되었습니다. 지금 업데이트 하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION_ORIGINAL</id>
+		<word>업데이트 진행 중입니다. TV 전원을 끄거나, 네트워크 연결을 해제하지 마십시오</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>업데이트 진행 중입니다. 전원을 끄거나, 네트워크 연결을 해제하지 마십시오</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>해당 업데이트를 완료했습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>현재 설정된 국가</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>새로운 업데이트가 감지되어 업데이트 중입니다. 업데이트 중에는 TV 전원을 끄거나, 네트워크 연결을 해제하지 마십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>새로운 업데이트가 감지되어 업데이트를 완료했습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>소프트웨어 업데이트</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>잠시만 기다려 주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>설정</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>현재 설정된 국가에서 지원하지 않는 서비스 입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>웹 브라우저</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>미디어링크</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>초기화</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>서비스 국가를 자동으로 찾을 수 없습니다. 지금 바로 국가를 선택하시겠습니까?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>소프트웨어를 업데이트 해주십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>국가설정</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_WRONGPASSWD_GUIDE</id>
+		<word>비밀번호는 6~12자 영문, 숫자 조합으로 구성되어야 합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CURRENT_PASSWD</id>
+		<word>현재 비밀번호</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CONFIRM_NEW_PASSWD</id>
+		<word>새 비밀번호 확인</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID</id>
+		<word>LG TV 아이디 전환</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE6</id>
+		<word>LG 계정 하나로 LG전자의 여러 서비스를 별도의 가입 절차 없이 편리하게 이용하실 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE4</id>
+		<word>LG계정으로 사용하실 이메일을 입력해 주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CURRENT_ID</id>
+		<word>현재 아이디</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_RECEIVE</id>
+		<word>이메일 수신</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_PASSWD_GUIDE</id>
+		<word>고객님의 소중한 개인정보 보호를 위해 비밀 번호를 변경해주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_EMAIL_CONVERT</id>
+		<word>아이디가 전환되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_SEND_AUTH_EMAIL</id>
+		<word>등록하신 이메일로 '인증확인' 메일이 발송 되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_SIGNUP</id>
+		<word>'인증확인' 메일의 '가입 완료하기' 버튼을 클릭하시면 회원가입이 최종 완료됩니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_INCOMPLETE_EMAIL_AUTH</id>
+		<word>이메일 인증 절차가 미완료 되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE7</id>
+		<word>단, 서비스에 따라 추가정보 입력이 필요할 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SINGUP_GUIDE5</id>
+		<word>사용가능한 이메일 주소를 입력해 주시기 바랍니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE3</id>
+		<word>LG 계정으로 사용하실 이메일과 비밀번호를 입력해 주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID_PASSWD</id>
+		<word>LG TV 아이디 전환/비밀번호 변경</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NOW_SHOW_AGAIN</id>
+		<word>다시 보지 않기</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGE_PASSWD</id>
+		<word>비밀번호 변경</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_OR_ID</id>
+		<word>아이디 또는 이메일</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP_1</id>
+		<word>아이디 검사</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL_1</id>
+		<word>이메일</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CHANGE_ID_GUIDE1</id>
+		<word>로그인 체계가 기존 ID방식에서 이메일 방식으로 변경되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE1</id>
+		<word>약관에 동의 후 사용하실 e-mail과 비밀번호를 입력해 주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE5</id>
+		<word>약관에 동의 후 사용하실 이메일을 입력해 주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE8</id>
+		<word>LG계정으로 LG 스마트 TV의 다양한 서비스를 이용하기 위해서는 약관 동의가 필요합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_AUTH_GUIDE_3</id>
+		<word>기존 아이디로 로그인 후 e-mail아이디 전환 절차를 거치시면 e-mail로 로그인 할 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_UNAVAILABLE_EMAIL</id>
+		<word>사용 불가능한 이메일 주소입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_HOW_TO_CONFIRM_EMAIL</id>
+		<word>'인증확인' 메일의 '전환완료하기' 버튼을 클릭하시면 로그인이 가능합니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_PURCHASE_NO_RESPONSE</id>
+		<word>네트워크가 불안정하여 구매 결과를 확인할 수 없습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_MAKE_PURCHASE_TITLE</id>
+		<word>구매 선택</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_RESULT_CHECK_MYPAGE</id>
+		<word>결제 내역은 마이 페이지에서 확인하실 수 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_ACTIVATE_UPTO_5</id>
+		<word>1개의 아이디로 5대까지 로그인할 수 있습니다. 기존에 로그인했던 TV의 '스마트 TV 설정&gt;아이디 목록'에서 '아이디해제'를 하십시오.</word>
+	</item>
+	<item>
+		<id>IDSTR_MEMBERJOIN</id>
+		<word>해당 E-mail은 이미 가입된 ID에 등록되어 있습니다. </word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_ERROR_ALL_INFO</id>
+		<word>모든 정보를 입력해주세요.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_AVAILABLE_EMAIL</id>
+		<word>사용 가능한 이메일 주소입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_CHECKID_DUP</id>
+		<word>중복확인</word>
+	</item>
+	<item>
+		<id>VCSTR_PASSWORD_CH</id>
+		<word>비밀번호가 변경되었습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NEW_PASSWD</id>
+		<word>새 비밀번호 </word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGED</id>
+		<word>변경</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_NEXT_CHANGE</id>
+		<word>다음에 변경</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_LG_SMART_WORLD</id>
+		<word>LG 스마트 월드</word>
+	</item>
+	<item>
+		<id>IDSTR_SMART_WORLD</id>
+		<word>Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_MUST_CHANGE_PW</id>
+		<word>비밀번호를 변경하지 않으면 로그인이 불가능합니다. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_LINKED_USING_ID</id>
+		<word>해당 이메일은 이미 가입된 아이디에 등록되어 있습니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_EMAIL_ALEADY_USE</id>
+		<word>이미 사용중인 이메일 입니다. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_CONVERTID_GUIDE1</id>
+		<word>LG전자의 다양한 서비스를 하나의 계정으로 편리하게 이용 하실 수 있습니다. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_ALREADY_USE_EMAIL</id>
+		<word>이미 LG계정으로 등록된 이메일 입니다.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AFGHANISTAN</id>
+		<word>아프가니스탄</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALBANIA</id>
+		<word>알바니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALGERIA</id>
+		<word>알제리</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ANGOLA</id>
+		<word>앙골라</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARGENTINA</id>
+		<word>아르헨티나</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARMENIA</id>
+		<word>아르메니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRALIA</id>
+		<word>호주</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRIA</id>
+		<word>오스트리아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AZERBAIJAN</id>
+		<word>아제르바이잔</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BAHRAIN</id>
+		<word>바레인</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELGIUM</id>
+		<word>벨기에</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELIZE</id>
+		<word>벨리즈</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BENIN</id>
+		<word>베냉</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOLIVIA</id>
+		<word>볼리비아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOSNIA</id>
+		<word>보스니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BRAZIL</id>
+		<word>브라질</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BULGARIA</id>
+		<word>불가리아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_</id>
+		<word>부르키나파소</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAMEROON</id>
+		<word>카메룬</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CANADA</id>
+		<word>캐나다</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAPEVERDE</id>
+		<word>카보베르데</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CENTRALAFRICA</id>
+		<word>중앙아프리카공화국</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHILE</id>
+		<word>칠레</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHINA</id>
+		<word>중국</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COLUMBIA</id>
+		<word>콜롬비아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COSTRICA</id>
+		<word>코스타리카</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CROATIA</id>
+		<word>크로아티아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CUBA</id>
+		<word>쿠바</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CZECH</id>
+		<word>체코</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DENMARK</id>
+		<word>덴마크</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DJIBOUTI</id>
+		<word>지부티</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DOMONICA</id>
+		<word>도미니카 공화국</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ECUADOR</id>
+		<word>에콰도르</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_EGYPT</id>
+		<word>이집트</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ELSALVADOR</id>
+		<word>엘살바도르</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ESTONIA</id>
+		<word>에스토니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ETHIOPIA</id>
+		<word>에티오피아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CONGO</id>
+		<word>콩고 연맹</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FINLAND</id>
+		<word>핀란드</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FRANCE</id>
+		<word>프랑스</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GABON</id>
+		<word>가봉</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GAMBIA</id>
+		<word>감비아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GEORGIA</id>
+		<word>그루지아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GERMANY</id>
+		<word>독일</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GHANA</id>
+		<word>가나</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GREECE</id>
+		<word>그리스</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUATEMALA</id>
+		<word>과테말라</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUYANA</id>
+		<word>가이아나</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HOUNDURAS</id>
+		<word>온두라스</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HONGKONG</id>
+		<word>홍콩</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HUNGARY</id>
+		<word>헝가리</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ICELAND</id>
+		<word>아이슬란드</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDIA</id>
+		<word>인도</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDONESIA</id>
+		<word>인도네시아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAN</id>
+		<word>이란</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAQ</id>
+		<word>이라크</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRELAND</id>
+		<word>아일랜드</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ISRAEL</id>
+		<word>이스라엘</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ITALY</id>
+		<word>이탈리아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JAPAN</id>
+		<word>일본</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JORDAN</id>
+		<word>요르단</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KAZAKHSTAN</id>
+		<word>카자흐스탄</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KENYA</id>
+		<word>케냐</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KOREA</id>
+		<word>대한민국</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KUWAIT</id>
+		<word>쿠웨이트</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KYRGYZSTAN</id>
+		<word>키르기스스탄</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LATVIA</id>
+		<word>라트비아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LEBANON</id>
+		<word>레바논</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LIBERIA</id>
+		<word>라이베리아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LITHUANIA</id>
+		<word>리투아니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LUXEMBOURG</id>
+		<word>룩셈부르크</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MACEDONIA</id>
+		<word>마케도니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAWI</id>
+		<word>말라위</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAYSIA</id>
+		<word>말레이시아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALI</id>
+		<word>말리</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MAURITANIA</id>
+		<word>모리타니</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MEXICO</id>
+		<word>멕시코</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MONTENEGRO</id>
+		<word>몬테네그로</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MOROCO</id>
+		<word>모로코</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MYANMAR</id>
+		<word>미얀마</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NETHERLANDS</id>
+		<word>네덜란드</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NEWZEALAND</id>
+		<word>뉴질랜드</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NICARAGUA</id>
+		<word>니카라과</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NIGERIA</id>
+		<word>나이지리아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NORWAY</id>
+		<word>노르웨이</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_OMAN</id>
+		<word>오만</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PAKISTAN</id>
+		<word>파키스탄</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PANAMA</id>
+		<word>파나마</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PARAGUAY</id>
+		<word>파라과이</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PERU</id>
+		<word>페루</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PHILIPINES</id>
+		<word>필리핀</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_POLAND</id>
+		<word>폴란드</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PORTUGAL</id>
+		<word>포르투갈</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PUETRORICO</id>
+		<word>푸에르토리코</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_QATAR</id>
+		<word>카타르</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ROMANIA</id>
+		<word>루마니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RUSSIA</id>
+		<word>러시아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RWANDA</id>
+		<word>르완다</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SAUDIARABIA</id>
+		<word>사우디아라비아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SENEGAL</id>
+		<word>세네갈</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SERBIA</id>
+		<word>세르비아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SIERRALEONE</id>
+		<word>시에라리온</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SINGAPORE</id>
+		<word>싱가폴</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVAKIA</id>
+		<word>슬로바키아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVENIA</id>
+		<word>슬로베니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SOUTHAFRICA</id>
+		<word>남아프리카</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SPAIN</id>
+		<word>스페인</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SUDAN</id>
+		<word>수단</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWEDEN</id>
+		<word>스웨덴</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWITZERLAND</id>
+		<word>스위스</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SYRIA</id>
+		<word>시리아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TAIWAN</id>
+		<word>타이완</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TANZANIA</id>
+		<word>탄자니아</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_THAILAND</id>
+		<word>태국</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TOGO</id>
+		<word>토고</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TRINIDAD</id>
+		<word>트리니다드 토바고</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TUNISIA</id>
+		<word>튀니지</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TURKEY</id>
+		<word>터키</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UGANDA</id>
+		<word>우간다</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UKRAINE</id>
+		<word>우크라이나</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UAE</id>
+		<word>아랍에미리트연합</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UK</id>
+		<word>영국</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_USA</id>
+		<word>미국</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_URUGUAY</id>
+		<word>우루과이</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UZBEKISTAN</id>
+		<word>우즈베키스탄</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VIETNAM</id>
+		<word>베트남</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VENEZUELA</id>
+		<word>베네수엘라</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_YEMEN</id>
+		<word>예멘</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ZAMBIA</id>
+		<word>잠비아</word>
+	</item>
+	<item/>
+</BBKR_string>

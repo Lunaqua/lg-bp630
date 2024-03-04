@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>رجوع</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_FULL_SCREEN</id>
+		<word>ملء الشاشة</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ORIGINAL_SCREEN</id>
+		<word>مسح فقط</word>
+	</item>
+	<item>
+		<id>IDSTR_PICASA_BTN_SLIDESHOW</id>
+		<word>عرض شرائح</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_OK</id>
+		<word>موافق</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_CANCEL</id>
+		<word>إلغاء</word>
+	</item>
+	<item>
+		<id>IDSTR_MEDIALINK_MSG_PLAY_FAIL</id>
+		<word>تعذر تشغيل الوسائط.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_OPTION</id>
+		<word>خيارات</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_NETWORK_DISCONNECT</id>
+		<word>تم فصل الشبكة.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_REQUEST_CANNOT_PROCESS</id>
+		<word>تتعذر معالجة الطلب.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MSG_SEARCH</id>
+		<word>البحث الآن!</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_KEYBOARD_MSG</id>
+		<word>استخدم لوحة مفاتيح الشاشة على اليمين للكتابة تماماً كما تكتب نصاً بواسطة لوحة المفاتيح.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_INCONVINIENCE</id>
+		<word>عذراً، الخدمة غير متوفرة حالياً.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>يتعذر الوصول إلى هذه الخدمة.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_1</id>
+		<word>عرض صورة</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_NEWS</id>
+		<word>عرض المقال</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT</id>
+		<word>لا يمكنك استخدام محتوى إباحي.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_USE_TIME</id>
+		<word>تاريخ الانتهاء: 2010.10.01 18:00</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD</id>
+		<word>انتهت فترة الخدمة. هل تريد الاشتراك مرة أخرى؟</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_FEE</id>
+		<word>قمت بالفعل بشراء سعر ثابت لمدة 30 يوماً.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_RATE</id>
+		<word>مدة توافر الخدمة: خلال 30 يوماً من الشراء. لا يمكن قطع الخدمة خلال هذه الفترة. يمكنك شراء محتويات بأسعار مخفضة من خلال هذه الخدمة.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PYMENT_METHOD</id>
+		<word>لاستخدام محتويات غير مجانية، قم بتسجيل الدخول إلى LG TV. إذا لم تكن عضوًا، قم بتسجيل اشتراكك على موقع www.lgappstv.com، واذهب إلى My Page (صفحتي) &gt; Payment Information (معلومات الدفع) وقم بتسجيل معلومات الدفع الخاصة بك. هل تريد الذهاب إلى صفحة تسجيل الدخول؟</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT_AUTH</id>
+		<word>يحتاج هذا المحتوى إلى التحقق من تصريح مشاهدة المواد الإباحية.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>يوم (أيام)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>ساعة</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>شهر</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_PACK</id>
+		<word>رسم ثابت لمدة 30 يومًا يضمن تسوقًا مريحًا واقتصاديًا.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_TERM</id>
+		<word>رسوم ثابتة لمدة 30 يوماً</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>تاريخ انتهاء الصلاحية</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD_2</id>
+		<word>لقد انتهت الفترة المجانية. يرجى سداد الرسوم لمعاودة الحصول على الخدمة.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>منتهي</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>التحقق من البلوغ</word>
+	</item>
+	<item>
+		<id>IDSTR_VALID_DATE</id>
+		<word>تاريخ انتهاء الصلاحية.</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_KEYHELP_PAGE_CHANGE</id>
+		<word>تغيير صفحة</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_AUTO</id>
+		<word>تلقائي</word>
+	</item>
+	<item>
+		<id>IDSTR_TIME_ONTIME_PROGRAM</id>
+		<word>برنامج</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>صفحة</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>تسجيل الدخول</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_KEYHELP_LIST</id>
+		<word>القائمة</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_DETAIL_NEED_SIGNIN</id>
+		<word>قم بتسجيل الدخول لاستخدام هذه الخدمة.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>للوصول إلى محتوى الكبار، يجب التحقق من عمر المستخدم.</word>
+	</item>
+	<item>
+		<id>IDSTR_HOTKEY_INFO</id>
+		<word>معلومات</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_PLAY</id>
+		<word>تشغيل</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>تاريخ انتهاء الصلاحية</word>
+	</item>
+	<item>
+		<id>IDSTR_MP_PAYMENT_AMOUNT</id>
+		<word>مبلغ الدفع</word>
+	</item>
+	<item>
+		<id>IDSTR_3DTV_3DMODE_C</id>
+		<word>الوضع ثلاثي الأبعاد</word>
+	</item>
+</BBKR_string>

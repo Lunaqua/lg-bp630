@@ -1,0 +1,15 @@
+#!/bin/sh
+
+export DEPLOY_DIR=/usr/share/browser
+export PATH=/usr/share/flashlite/bin:/usr/local/bin:$PATH
+export LD_LIBRARY_PATH=/usr/share/flashlite/lib:/usr/share/browser/lib:/usr/local/lib:$LD_LIBRARY_PATH
+export PANGO_FONT_PATH=$DEPLOY_DIR/etc/fonts
+export PANGO_RC_FILE=$DEPLOY_DIR/etc/pango/pangorc
+export FONTCONFIG_FILE=$DEPLOY_DIR/etc/fonts/fonts.conf
+
+echo ""
+echo "----------------------------------------------"
+echo "             Launching Stagecraft1.2          "
+echo " Addon Ver 2.29.00 and Build Date : 2013.03.05 "
+echo "----------------------------------------------"
+/usr/share/flashlite/bin/ex_appstore_launcher $*

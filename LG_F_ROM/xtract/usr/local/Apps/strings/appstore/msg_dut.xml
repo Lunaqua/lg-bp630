@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Account instelling</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Content voor volwassenen is niet beschikbaar.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Wanneer u een toepassing voor volwassenen wilt uitvoeren, moet u zich aanmelden met de ID die u hebt aangeschaft.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Verificatie voor volwassenen mislukt.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Voor toegang tot inhoud voor volwassenen is leeftijdsverificatie vereist.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Voor toegang tot deze app is leeftijdsverificatie vereist.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Controleer de beschikbaarheid van deze ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>U bent geen betalend lid. Als u deze app wilt kopen, dient u zich aan te melden als betalend lid op www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>TV biedt geen ondersteuning voor deze app.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Rang is toegepast.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Onvoldoende geheugen om deze app te installeren.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>U hebt al een beoordeling van deze app gegeven.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Geen recensies</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Oostenrijk</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Australië</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>België</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Brazilië</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Zwitserland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>China</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Tsjechië</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Duitsland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Denemarken</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Spanje</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Overige</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Finland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Frankrijk</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>UK</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Griekenland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Kroatië</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Hongarije</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Italië</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Zuid-Korea</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Luxemburg</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Nederland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Noorwegen</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Portugal</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Rusland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Zweden</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>VS</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Verificatie betalend lid is mislukt.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Basis Informatie</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Voor het wijzigen van uw account instellingen, ga naar www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>dag(en)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Vervallen</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>uur</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Item</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>minuut/minuten</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>maand(en)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Betalingsverzoek</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_RESERVES_CASH</id>
+		<word>Accountsaldo</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>keer</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Totaal betalingsbedrag</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Onbeperkt</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>jaar</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_PURCHASE_AMOUNT</id>
+		<word>Betalingsbedrag</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Bewerken</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Koop</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Top gratis</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Top betaald</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Wijzig gebruiker</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>ID controleren</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Terug</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Annuleren</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Sluiten</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Wissen</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Exit</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Nee</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Pagina</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Ja</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Autom. aanmeld.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Startpagina</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Verplaatsen</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_STATUS_NETWORK</id>
+		<word>Probleem met netwerkverbinding of -status.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Kan geen toegang krijgen tot deze service.</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Geboorte datum</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Wachtwoord</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Download mislukt</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Download mislukt vanwege fout of schijf.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Download mislukt vanwege fout van server.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>Download geslaagd</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Totaal</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>E-mail</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>USB niet meer verbonden.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Voer uw ID en wachtwoord in om apps te gebruiken die alleen voor volwassenen bestemd zijn.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Voer uw ID en wachtwoord in om uw betaalde lidmaatschap te controleren.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>Alle</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Kan niet worden geïnstalleerd</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Toepassen van de rang is mislukt.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Voor het afspelen van deze app heb u de onderstaande functies nodig,</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Geslacht</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Man</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Vrouw</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Geef rangen</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>ID of land komt niet overeen.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>ID: 6~12 karakters, alfabetisch of numeriek</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>installeer</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Installatie is voltooid.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>De App is al op 5 TV's geinstalleerd.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Geinstalleerd</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Geinstalleerde Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Bezig met installeren</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Afgemeld wegens niet-akkoordverklaring met de nieuwe algemene voorwaarden.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Akkoord</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Niet akkoord</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Servicevoorwaarden</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>LG TV Registratie</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Wachtwoord komt niet overeen.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Controleer uw creitcard-gegevens op de website.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Creditcard-gegevens zijn niet geldig.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Het aantal ingevoerde onjuiste wachtwoorden heeft de limiet overschreden.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Geef een beoordeling, gebruik makend van de ID waarmee u deze app heeft aangekocht.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Afgewezen - De limiet werd overschreden.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Netwerk- of serververbinding is instabiel. Probeer het later opnieuw.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>Meld u aan op de TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>U kunt maximaal vijf tv's activeren met dezelfde ID. Diskwalificeer de ID bij Smart TV-instelling &gt; ID beheer op een tv waar u zich eerder hebt aangemeld.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Als u geen lid bent</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Druk op deze toets.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>U kunt alleen van uw tv registreren als gratis lid. Als u een betalend lid wenst te worden of uw informatie wilt wijzigen, gebruik uw PC en ga naar www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Onjuist wachtwoord. Voer 4~12 karakters in en gebruik enkel alfabetische of numerieke karakters.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>U bent nu geregistreerd als een gratis lid.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>Onjuiste ID. Voer 6~12 karakters in; gebruik enkel alfabetische of numerieke karakters.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>ID is al in gebruik. Probeer een andere ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>ID is verkrijgbaar</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>U kunt tot 5 tv sets activeren met dezelfde ID. Controleer uw Activatie Instelling van uw PC door te gaan naar www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Server niet aangesloten Probeer later opnieuw.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>Onjuist ID en/of wachtwoord</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Verzeker dat u uw ID en wachtwoord juist hebt ingevoerd.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Inloggen geslaagd.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Schrijf in bij LG TV voor het genieten van Premium service, LG Apps, Mijn apps en nog veel meer.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Ongeschikt ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_INCORRECT_ID_PWD</id>
+		<word>Gebruikers-ID of wachtwoord onjuist.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Magic Motion-afstandsbediening</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>Mijn Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Mijn gegevens</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>U kan deze app niet bewerken.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Het heeft een update nodig. Wenst u het up te daten?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Update-fout</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_APPS</id>
+		<word>Laden van Apps is mislukt.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Kan geen verbinding maken met het netwerk. Wilt u het netwerk instellen?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Overige</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>De service is niet beschikbaar in het geselecteerde land.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Het updaten is voltooid.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Er zijn geen geïnstalleerde apps gevonden.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Geen aankoopgeschiedenis.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Niet geinstalleerd</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>De nieuwe softwareversie is gereed. Wilt u deze nu bijwerken?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Het netwerk is niet verbonden. Controleer de verbinding.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Land</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Gekochte Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Wachtwoord: 4~12 karakters, alfabetisch en numeriek</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Als u het verwijdert zal het niet langer verkijgbaar zijn in MijApps. Bent u zeker dat u wilt verwijderen?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Wilt u installeren?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Wilt u kopen?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Wilt u echt verwijderen?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Ratings</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Wachtwoord opnieuw invoeren</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Registreer</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Registratie is mislukt.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Voor deze toepassing zijn de volgende apparaten vereist:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Overzicht</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Verificatiefout. Probeer het later opnieuw.</word>
+	</item>
+	<item>
+		<id>IDSTR_SEARCH_LABEL_PRICE</id>
+		<word>Prijs</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>Heet</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Mediakoppeling</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>NIEUW</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Binnenkort</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Webbrowser</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Naam</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_ENTER_TEMP</id>
+		<word>Enter</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_UP</id>
+		<word>Aanmelden</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOM_MSG_1</id>
+		<word>Welkom bij Social Center</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOME_MSG_3</id>
+		<word>Als u de Social Center-service wilt gebruiken, selecteert u [Aanmelden] om een LG TV-account te maken of [Enter] om te beginnen.</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Verificatie voor gebruik van content die alleen voor volwassenen is bestemd</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Verificatie betalend lid</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Totaal</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Vrij</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Ga naar My Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Deze App werd reeds geïnstalleerd.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Geen gegevens</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Versie </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Update mislukt.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Updated</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>Verbinden met USB apparaat</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Onvoldoende geheugen om deze App aan te kopen.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Onvoldoende geheugen om deze App aan te kopen.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Wenst u nu te formatteren? Wanneer u deze USB als geheugen gebruikt, zullen alle gegevens van het USB-geheugen gewist worden.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>De formattering is voltooid. Het  externe geheugen kan gebruikt worden als een extra geheugen voor Apps.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>De formattering wordt uitgevoerd. Schakel de TV of de USB-aansluiting niet uit tijdens de formattering.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>De gegevens werden bewaard op het externe USB-geheugen.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Gebruikt</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Webcam</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Welkom bij Smart TV</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Terug</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Zoeken</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Aanmelden</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Afmelden</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Binnenkort</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Melding</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Bericht</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Een nieuwere versie van App is ontdekt. Wilt u nu updaten?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION_ORIGINAL</id>
+		<word>Software update &amp; download inwerking. SCHAKEL uw tv NIET UIT of trek de netwerk kabel eruit tijdens de update.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Software update &amp; download inwerking. SCHAKEL uw apparaat NIET UIT of trek de netwerk kabel eruit tijdens de update.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>De software-update is voltooid.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Huidige landinstelling</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>De TV en de netwerkaansluiting mogen niet uitgeschakeld worden tijdens het actualiseren van de nieuwe software.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Een nieuwere versie van de software wordt herkend en geactualiseerd.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Sofware update</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Laden...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Instellen</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>De service is niet beschikbaar in het geselecteerde land.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Webbrowser</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Mediakoppeling</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Initialiseren</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Kan het land voor de service niet vinden. Wilt u nu een land selecteren?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Software bijwerken vanuit venster Instellingen.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Landinstelling</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_WRONGPASSWD_GUIDE</id>
+		<word>6~12 tekens, letters of cijfers.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CURRENT_PASSWD</id>
+		<word>Huidig wachtwoord</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CONFIRM_NEW_PASSWD</id>
+		<word>Nieuw wachtwoord bevestigen</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID</id>
+		<word>LG TV-ID EN -WACHTWOORD CONVERTEREN</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE6</id>
+		<word>U heeft maar één LG-account nodig voor meerdere services van LG Electronics.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE4</id>
+		<word>Voer uw e-mailadres voor het LG-account in.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CURRENT_ID</id>
+		<word>Huidige ID</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_RECEIVE</id>
+		<word>E-mail ontvangen</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_PASSWD_GUIDE</id>
+		<word>Kies een wachtwoord met meer dan zes tekens voor de beste bescherming van uw persoonlijke gegevens.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_EMAIL_CONVERT</id>
+		<word>ID-conversie is voltooid.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_SEND_AUTH_EMAIL</id>
+		<word>Er is een verificatie-e-mail naar het geregistreerde e-mailadres gestuurd.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_SIGNUP</id>
+		<word>Klik op 'Aanmelding voltooien' in de verificatie-e-mail om de registratie te voltooien.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_INCOMPLETE_EMAIL_AUTH</id>
+		<word>Verificatie van e-mailadres is niet voltooid.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE7</id>
+		<word>Voor bepaalde services is aanvullende informatie nodig voor bescherming van de klant.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SINGUP_GUIDE5</id>
+		<word>Voer een geldig e-mailadres in.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE3</id>
+		<word>Voer uw e-mailadres en wachtwoord voor het LG-account in.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID_PASSWD</id>
+		<word>LG TV-ID EN -WACHTWOORD CONVERTEREN</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NOW_SHOW_AGAIN</id>
+		<word>Niet meer weergeven.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGE_PASSWD</id>
+		<word>Wachtwoord wijzigen</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_OR_ID</id>
+		<word>ID of e-mailadres</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP_1</id>
+		<word>ID controleren</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL_1</id>
+		<word>E-mail</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CHANGE_ID_GUIDE1</id>
+		<word>Meld u aan met uw e-mailadres, niet met uw ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE1</id>
+		<word>Ga akkoord met de voorwaarden voor uw persoonlijke gegevens en voer uw e-mailadres en wachtwoord in.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE5</id>
+		<word>Ga akkoord met de voorwaarden en voer uw e-mailadres in.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE8</id>
+		<word>Ga akkoord met de voorwaarden voor toegang tot de SMART TV-services van LG.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_AUTH_GUIDE_3</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_UNAVAILABLE_EMAIL</id>
+		<word>E-mailadres is niet beschikbaar.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_HOW_TO_CONFIRM_EMAIL</id>
+		<word>Hoe in te loggen na het voltooien van de wijziging</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_PURCHASE_NO_RESPONSE</id>
+		<word>Kan het betalingsresultaat niet controleren vanwege een instabiel netwerk.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_MAKE_PURCHASE_TITLE</id>
+		<word>Kopen</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_RESULT_CHECK_MYPAGE</id>
+		<word>Controleer het resultaat bij Vraag over betaling op MIJN PAGINA.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_ACTIVATE_UPTO_5</id>
+		<word>U kunt maximaal vijf tv's activeren met dezelfde ID. Schakel de ID uit bij Smart TV-instellingen &gt; ID Beheer van een tv waar u zich eerder hebt aangemeld.</word>
+	</item>
+	<item>
+		<id>IDSTR_MEMBERJOIN</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_ERROR_ALL_INFO</id>
+		<word>Voer alle gegevens in.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_AVAILABLE_EMAIL</id>
+		<word>E-mailadres is beschikbaar.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_CHECKID_DUP</id>
+		<word>Geldigheid controleren.</word>
+	</item>
+	<item>
+		<id>VCSTR_PASSWORD_CH</id>
+		<word>Wachtwoord is gewijzigd.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NEW_PASSWD</id>
+		<word>Nieuw wachtwoord</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGED</id>
+		<word>Toepassen</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_NEXT_CHANGE</id>
+		<word>Volgende wijzigen.</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_LG_SMART_WORLD</id>
+		<word>LG Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMART_WORLD</id>
+		<word>Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_MUST_CHANGE_PW</id>
+		<word>Wijzig wachtwoord om u aan te melden.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_LINKED_USING_ID</id>
+		<word>Dit e-mailadres is al geregistreerd.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_EMAIL_ALEADY_USE</id>
+		<word>Dit e-mailadres is niet beschikbaar.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_CONVERTID_GUIDE1</id>
+		<word>Gebruik meerdere services van LG Electronics met één account.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_ALREADY_USE_EMAIL</id>
+		<word>Dit E-mailadres is al geregistreerd voor dit LG-account.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AFGHANISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALBANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ANGOLA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARGENTINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARMENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRALIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AZERBAIJAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BAHRAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELGIUM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELIZE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BENIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOLIVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOSNIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BRAZIL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BULGARIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAMEROON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CANADA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAPEVERDE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CENTRALAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHILE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COLUMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COSTRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CROATIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CUBA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CZECH</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DENMARK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DJIBOUTI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DOMONICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ECUADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_EGYPT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ELSALVADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ESTONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ETHIOPIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CONGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FINLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FRANCE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GABON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GAMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GEORGIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GERMANY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GHANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GREECE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUATEMALA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUYANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HOUNDURAS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HONGKONG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HUNGARY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ICELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDONESIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAQ</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ISRAEL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ITALY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JAPAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JORDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KAZAKHSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KENYA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KOREA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KUWAIT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KYRGYZSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LATVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LEBANON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LIBERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LITHUANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LUXEMBOURG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MACEDONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAWI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAYSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MAURITANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MEXICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MONTENEGRO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MOROCO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MYANMAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NETHERLANDS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NEWZEALAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NICARAGUA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NIGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NORWAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_OMAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PAKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PANAMA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PARAGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PERU</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PHILIPINES</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_POLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PORTUGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PUETRORICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_QATAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ROMANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RUSSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RWANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SAUDIARABIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SENEGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SERBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SIERRALEONE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SINGAPORE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVAKIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SOUTHAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SPAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SUDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWEDEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWITZERLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SYRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TAIWAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TANZANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_THAILAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TOGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TRINIDAD</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TUNISIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TURKEY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UGANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UKRAINE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UAE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_USA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_URUGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UZBEKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VIETNAM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VENEZUELA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_YEMEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ZAMBIA</id>
+	</item>
+	<item/>
+</BBKR_string>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin version="1.0" img="Updater1080.png">
+  <Bitmap id="CNBBLogoLarge" x="0" y="0" w="540" h="94"/>
+  <Bitmap id="poweredByRoxioNow" x="0" y="100" w="332" h="48"/>
+  <Bitmap id="dialogBackground" x="340" y="100" w="90" h="90" scale9Grid="40 40 10 10" />
+  <Bitmap id="progressBarBackground" x="430" y="100" w="30" h="34" scale9Grid="10 0 10 34"/>
+  <Bitmap id="progressBar" x="462" y="100" w="10" h="34" scale9Grid="0 0 10 34"/>
+</Skin>

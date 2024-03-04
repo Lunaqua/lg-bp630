@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>
+            apps
+        </title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <style type="text/css">
+        .tv_button
+        {
+         font-size: 18px;
+
+        }
+        #tv_control
+        {
+          left: 20px;
+          top : 10px;
+        }
+
+        </style>
+    </head>
+    <script>
+        var widget_loaded;
+
+
+        function widget_moving( e)
+        {
+           console.log("widget_moving " + e.x + " " + e.y + " " + e.width + " " + e.height );
+           var x, y, width, height;
+           width  = 1280 - (e.width + e.x)  - 50 ;
+           height = width * 0.56;
+           x = 1280 - width + 50;
+           y = (720 - height)/2;
+           lgtv.resizeScreen(x, y , width,height);
+        }
+
+
+        function tv_resize(app_num)
+        {
+            console.log("tv_resize  " + app_num);
+            widgets.widgetsRewind();
+            while (widget_loaded = widgets.nextWidget())
+            {
+                console.log("widget ! " + widget_loaded.width);
+                if(widget_loaded.wd_id == app_num )
+                {
+
+                  if(widget_loaded.width >= 1280 && widget_loaded.height >= 720)
+                  {
+                     tv_pip();
+                     return;
+                  }
+
+                  try {
+                      var x, y, width, height;
+                      width  = 1280 - widget_loaded.width - 50 ;
+                      height = width * 0.56;
+                      //x = 1280 - width + 50;
+                      x = 0;
+                      y = (720 - height)/2;
+                      lgtv.resizeScreen(x, y , width,height);
+                      document.getElementById('tv_control').style.display='block';
+                  }
+                  catch (e) {}
+                  break;
+                }
+            }
+            document.body.style.backgroundImage = "url(tv:)";
+
+            window.addEventListener('widget_moving', widget_moving, false);
+        }
+
+        function tv_fullscreen()
+        {
+            console.log("tv_fullscreen");
+            if(widget_loaded.width >= 1280 && widget_loaded.height >= 720)
+                     return;
+            lgtv.resizeScreen(0, 0 , 1920,1080);
+        }
+
+        function tv_halfscreen()
+        {
+                  if(widget_loaded.width  >= 1280 && widget_loaded.height >= 720)
+                  {
+                     return;
+                  }
+                  try {
+                      var x, y, width, height;
+                      width  = 1280 - widget_loaded.width - 50 ;
+                      height = width * 0.56;
+                      //x = 1280 - width + 50;
+                      x = 0;
+                      y = (720 - height)/2;
+                      lgtv.resizeScreen(x, y , width,height);
+
+
+                  }
+                  catch (e) {}
+        }
+
+        function tv_off()
+        {
+            console.log("tv_off");
+            lgtv.resizeScreen(0, 0 , 0,0);
+        }
+
+        function tv_pip()
+        {
+           console.log("tv_pip");
+           //document.getElementById('tv_window').style.backgroundImage = "url(tv:)";
+           //document.body.style.backgroundImage = "url(tv:)";
+           //document.getElementById('tv_window').style.display = 'block';
+           document.body.style.backgroundImage = "url(tv:)";
+
+           //lgtv.resizeScreen(0, 500 , 374,220);
+        }
+
+        function loadWidget(app_num)
+        {
+            console.log("loadWidget widgets.openWidget");
+            widgets.openWidgetURL(app_num);
+            tv_resize(app_num);
+        }
+        
+        function loadStaticWidget()
+        {
+           widget_static = widgets.getStaticWidget();
+           console.log("loadStaticWidget "+widget_static.wd_id );
+           if(widget_loaded.wd_id != widget_static.wd_id)
+             widgets.openWidgetURL(widget_static.wd_id);
+        }
+        
+        var app_num;
+        function go() 
+        {
+            console.log("go");
+            var startupURL = location.search.substring(1);
+			var startURL1;
+            var appStorePath = "file:///mnt/appstore/contents/installed/";
+            var app_num_with_index = startupURL.substring(appStorePath.length);
+            app_num = app_num_with_index.substring(0, app_num_with_index.indexOf('/'));
+            console.log("appStorePath " + appStorePath + " and " +app_num);
+            startURL1=startupURL.substring(appStorePath.length+app_num.length+1);
+            console.log("startURL:"+startURL1);
+            widgets.startURL(startURL1);
+            setTimeout("loadWidget("+app_num+")", 100);
+            //setTimeout("loadStaticWidget()", 1000);
+        }
+
+        function exit() 
+        {
+            window.NetCastExit();
+        }
+    </script>
+    <body class="en" onload="go()">
+    <div id="tv_control" style="display:none;">
+    <input src="./sc.gif" name="scramble" width="60" height="60" alt="Video Off" type="image" onclick="tv_off();">    
+    <input src="./exit.png" name="exit_to_tv" width="60" height="60" alt="exit" type="image" onclick="exit();">   
+    </div>
+    <div id="tv_window" style="position:absolute;  left: 0px;right: 374px; top: 500px;bottom:720px; z-index: 9999;"> 
+    </div>    
+    </body>
+</html>

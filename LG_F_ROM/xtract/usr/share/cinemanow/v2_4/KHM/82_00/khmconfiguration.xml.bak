@@ -1,0 +1,29 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">2JPIS5S73P56J88NPN372SJOPNJPJN5756SISS6O2ZK9NCZIC3P7P65P3KZ9957CJJ22978I7Z2Z379NK66OZ57833C2C7O5KO5CISPN78K6PZ6IO65J29392SI3NOSIJP3KIKS7NNN5878235CNS3Z73P3CPK7J9601</Value>
+  <Value Key="UserName">I6NI755JS5ZZICJ737Z393OP5KKJ9OIK96IO6P7ON7Z3I5NJ3I52J635C75I5KOK893P6C739J83P695Z9C75IPNSZ66SJJKSKOCN2KK25K5OK7Z9Z583PO9K5553Z5I6346</Value>
+  <Value Key="Password">OP256CP732CS3O26JCZS2P7C8PPJOZSP35NK77ZZ7K2C6ZP82CC7P53378IIOS7I8OS28765C23OS6ISS3J5J6C8JSCI8P5J5P382SO573362585J96O2JC97JOCSP6S3SIZ9SJCPION8I2PJ9ZO2NSZKZNS8I2I7633</Value>
+  <Value Key="DestinationTypeID">725</Value>
+  <Value Key="DeviceTypeName">Ubuntu</Value>
+  <Value Key="StoreName">KNOWHOW Movies</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">20971520</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort">8080</Value>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">700</Value>
+  <Value Key="StoreURL">http://www.knowhowmovies.com</Value>
+  <Value Key="ActivationURL">www.knowhowmovies.com/start</Value>
+  <Value Key="SupportURL">www.knowhowmovies.com/help</Value>
+  <Value Key="BillingURL">www.knowhowmovies.com/billing</Value>
+  <Value Key="ServiceBaseURL"/>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">true</Value>
+  <Value Key="EnableCalcOrderTax">false</Value>
+  <Value Key="NoInternetUpgrade">true</Value>    
+</Settings>

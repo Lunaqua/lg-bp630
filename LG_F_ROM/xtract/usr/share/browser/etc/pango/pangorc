@@ -1,0 +1,4 @@
+[Pango]
+ModuleFiles = /usr/local/browser/etc/pango/pango.modules
+ModulesPath = /usr/local/browser/lib/pango/1.6.0/modules
+

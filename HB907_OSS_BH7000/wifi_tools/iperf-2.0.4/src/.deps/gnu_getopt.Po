@@ -1,0 +1,109 @@
+gnu_getopt.o: gnu_getopt.c \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/stdio.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/features.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/cdefs.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/wordsize.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/gnu/stubs.h \
+ /mtktools/mtk-toolchain/gnuarm-4.4.1/cross-tools/usr/local/bin/../lib/gcc/armv6z-mediatek-linux-gnueabi/4.4.1/include/stddef.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/types.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/typesizes.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/libio.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/_G_config.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/wchar.h \
+ /mtktools/mtk-toolchain/gnuarm-4.4.1/cross-tools/usr/local/bin/../lib/gcc/armv6z-mediatek-linux-gnueabi/4.4.1/include/stdarg.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/stdio_lim.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/sys_errlist.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/stdio.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/stdlib.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/types.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/time.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/endian.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/endian.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/byteswap.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/select.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/select.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/sigset.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/time.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/sysmacros.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/pthreadtypes.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/alloca.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/unistd.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/posix_opt.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/confname.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/getopt.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/string.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/string.h \
+ /usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/string2.h \
+ ../include/gnu_getopt.h
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/stdio.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/features.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/cdefs.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/wordsize.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/gnu/stubs.h:
+
+/mtktools/mtk-toolchain/gnuarm-4.4.1/cross-tools/usr/local/bin/../lib/gcc/armv6z-mediatek-linux-gnueabi/4.4.1/include/stddef.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/types.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/typesizes.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/libio.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/_G_config.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/wchar.h:
+
+/mtktools/mtk-toolchain/gnuarm-4.4.1/cross-tools/usr/local/bin/../lib/gcc/armv6z-mediatek-linux-gnueabi/4.4.1/include/stdarg.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/stdio_lim.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/sys_errlist.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/stdio.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/stdlib.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/types.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/time.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/endian.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/endian.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/byteswap.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/select.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/select.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/sigset.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/time.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/sys/sysmacros.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/pthreadtypes.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/alloca.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/unistd.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/posix_opt.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/confname.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/getopt.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/string.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/string.h:
+
+/usr/local/mtk-toolchain/gnuarm-4.4.1/sysroot/usr/include/bits/string2.h:
+
+../include/gnu_getopt.h:

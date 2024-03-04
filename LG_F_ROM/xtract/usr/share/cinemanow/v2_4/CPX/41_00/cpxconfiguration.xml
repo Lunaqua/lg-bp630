@@ -1,0 +1,31 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">755Z58J2Z2POJ3328COSZZZ26P68S87I8S9S3CSZK95O8KPIKJP9Z78N9K7596OI7K3PIKI6SCCI6S5OJPKZO5SKPK99IZ7KI99O67K582K37IJPZ6S38KPI6CK5J7PJKNI97KIN33KJPCO6PNI629CPKC85O2O63453</Value>
+  <Value Key="UserName">36276NZ5JN7K33IJ222ZCZ93NNZKN85K3NK2325KJKSC3P6PK97NZ328IC6JK5N9ZKC22O767NN687PJ9I37O27OO6JI7335N7C6I638ISO75J8I779735CCOSIJ8ZN78417</Value>
+  <Value Key="Password">OPJS3O76KOI9NNC5PKNP76Z77773ZCOPSOZPZ7PC9J95677569J3OSK56ICJ86K6PO7JZ85ZN89PP9N67SNI3P67O2KSPNJ888P6SIPCNZOP9232C327PJI7JCNO82PC2II2O7N6CPK5OKCS2OP99CZ9983O5J328131</Value>
+  <Value Key="DestinationTypeID">1074</Value>
+  <Value Key="DeviceTypeName">LG Blu-ray Player</Value>
+  <Value Key="StoreName">Cineplex</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">10485760</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort"/>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">700</Value>
+  <Value Key="StoreURL">http://www.cineplex.com/store</Value>
+  <Value Key="ActivationURL">www.cineplex.com/store/start</Value>
+  <Value Key="SupportURL">www.cineplex.com/store/support</Value>
+  <Value Key="BillingURL">www.cineplex.com/store/billing</Value>
+  <Value Key="ServiceBaseURL"/>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">false</Value>
+  <Value Key="EnableRedeem">false</Value>
+  <Value Key="IsBillingInfoMandatory">true</Value>
+  <Value Key="NoInternetUpgrade">true</Value>
+  <Value Key="FirstContinuousKeyInterval">2000</Value>
+</Settings>

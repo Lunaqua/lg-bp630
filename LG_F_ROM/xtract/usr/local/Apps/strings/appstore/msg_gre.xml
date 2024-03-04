@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Ρύθμιση λογαριασμού</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Το περιεχόμενο για ενήλικες δεν είναι διαθέσιμο.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Για να εκτελέσετε μία εφαρμογή για ενηλίκους, συνδεθείτε με το αναγνωριστικό που έχετε αγοράσει.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Αποτυχία επαλήθευσης γονικού ελέγχου.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Για πρόσβαση σε περιεχόμενο για ενηλίκους, απαιτείται επαλήθευση ταυτότητας ως ενηλίκου.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Για πρόσβαση σε αυτή την εφαρμογή, απαιτείται επαλήθευση ταυτότητας ως ενηλίκου.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Έλεγχος διαθεσιμότητας αναγνωριστικού</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Δεν είστε μέλος επί πληρωμή. Για να αγοράσετε αυτή την εφαρμογή, εγγραφείτε ως επί πληρωμή μέλος στη διεύθυνση www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>Η τηλεόραση δεν υποστηρίζει αυτή την εφαρμογή.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Έχει εφαρμοστεί βαθμολογία.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Μη επαρκής μνήμη για την αγορά αυτής της εφαρμογής.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Έχετε ήδη αξιολογήσει αυτή την εφαρμογή.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Δεν υπάρχουν αξιολογήσεις</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Αυστρία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Αυστραλία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Βέλγιο</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Βραζιλία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Ελβετία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>Κίνα</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Τσεχία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Γερμανία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Δανία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Ισπανία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Άλλη</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Φινλανδία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Γαλλία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>Ηνωμένο Βασίλειο</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Ελλάδα</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Κροατία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Ουγγαρία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Ιταλία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Νότια Κορέα</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Λουξεμ.</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Ολλανδία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Νορβηγία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Πορτογαλλία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Ρωσία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Σουηδία</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>ΗΠΑ</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Αποτυχία επαλήθευσης μέλους επί πληρωμή.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Βασικές πληροφορίες</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Για να αλλάξετε τη ρύθμιση του λογαριασμού σας, επισκεφτείτε τη διεύθυνση www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>ημέρα(ες)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Έληξε</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>ώρα(ες)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Στοιχείο</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>λεπτό(α)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>μήνας(ες)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Ερώτηση σχετικά με την πληρωμή</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_RESERVES_CASH</id>
+		<word>Υπόλοιπο λογαριασμού</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>φορά(ες)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Συνολικό ποσό πληρωμής</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Απεριόριστα</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>έτος(η)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_PURCHASE_AMOUNT</id>
+		<word>Ποσό πληρωμής</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Επεξεργασία</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Αγορά</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Top Free</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Top Paid</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Αλλαγή χρήστη</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Έλεγχος αναγνωριστικού</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Πίσω</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Άκυρο</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Κλείσιμο</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Διαγραφή</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Έξοδος </word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Όχι</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Σελίδα</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Ναι</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Αυτόμ. σύνδεση</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Αρχική σελίδα</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Μετακίνηση</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_STATUS_NETWORK</id>
+		<word>Η σύνδεση ή η κατάσταση του δικτύου δεν είναι καλή.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Δεν έχετε πρόσβαση στην υπηρεσία.</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Ημερομηνία γέννησης</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Κωδικός πρόσβασης</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Αποτυχία λήψης</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Αποτυχία λήψης λόγω σφάλματος δίσκου.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Αποτυχία λήψης λόγω σφάλματος διακομιστή.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>Επιτυχής λήψη</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Σύν.</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>E-mail</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>Συσκευή USB αποσυνδέθηκε.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Για να χρησιμοποιήσετε εφαρμογές μόνο για ενηλίκους, εισαγάγετε το αναγνωριστικό και τον κωδικό σας.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Εισαγάγετε το αναγνωριστικό και τον κωδικό σας για να επαληθεύσετε την επί πληρωμή συνδρομή σας.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>All</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Αποτυχία εγκατάστασης</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Αποτυχία εφαρμογής της βαθμολογίας.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Για να εκτελέσετε αυτή την εφαρμογή, χρειάζεστε τις παρακάτω λειτουργίες,</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Φύλο</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Άνδρας</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Γυναίκα</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Παροχή βαθμολογίας</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>Μη αντιστοιχία αναγνωριστικού ή χώρας.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>Αναγνωριστικό: 6~12 χαρακτήρες, αλφάβητος ή αριθμοί</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>εγκατάσταση</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Η εγκατάσταση ολοκληρώθηκε.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Η Εφαρμογή έχει ήδη εγκατασταθεί σε 5 τηλεοράσεις.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Εγκαταστάθηκε</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Εγκατεστημένες Εφαρμογές</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Εγκατάσταση τώρα</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Αποσυνδεθήκατε εξαιτίας του ότι δεν αποδεχτήκατε τους νέους Όρους Χρήσης.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Συμφωνώ</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Διαφωνώ</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Όροι χρήσης υπηρεσίας</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>Εγγραφή τηλεόρασης LG</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Ο κωδικός δεν ταιριάζει.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Ελέγξτε τα στοιχεία της πιστωτικής σας κάρτας στον ιστότοπο.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Τα στοιχεία της πιστωτικής κάρτας δεν ισχύουν.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Υπέρβαση του ορίου αποτυχημένων προσπαθιών εισαγωγής κωδικού πρόσβασης.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Δώστε βαθμούς με το Αναγνωριστικό που αγοράσατε αυτή την εφαρμογή.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Απορρίφθηκε - Υπέρβαση ορίου ποσού.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Η σύνδεση δικτύου ή διακομιστή δεν είναι σταθερή. Προσπαθήστε ξανά αργότερα.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>Είσοδος στην τηλεόραση</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Μπορείτε να ενεργοποιήσετε έως 5 τηλεοράσεις με το ίδιο αναγνωριστικό. Απενεργοποιήστε το αναγνωριστικό στη Ρύθμιση Smart TV &gt; Διαχείριση ΑΝΑΓΝΩΡΙΣΤΙΚΟΥ από μία τηλεόραση στην οποία έχετε ήδη συνδεθεί.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Αν δεν είστε μέλος</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Πατήστε αυτό το κουμπί.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>Μπορείτε να εγγραφείτε μόνο ως δωρεάν μέλος από την τηλεόρασή σας. Αν θέλετε να γίνεται μέλος επί πληρωμή ή να αλλάξετε τα στοιχεία σας, χρησιμοποιήστε τον υπολογιστή σας και επισκεφτείτε τη διεύθυνση www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Ακατάλληλος κωδικός πρόσβασης. Εισάγετε 4~12 χαρακτήρες μόνο από αλφάβητο ή αριθμούς.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Είστε εγγεγραμμένο δωρεάν μέλος.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word> Ακατάλληλος αναγνωριστικά. Εισάγετε 6~12 χαρακτήρες με τη χρήση της αλφαβήτου ή αριθμών.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>Το ΑΝΑΓΝΩΡΙΣΤΙΚΟ χρησιμοποιείται ήδη. Δοκιμάστε άλλο ΑΝΑΓΝΩΡΙΣΤΙΚΟ.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>Το ΑΝΑΓΝΩΡΙΣΤΙΚΟ είναι διαθέσιμο</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Μπορείτε να ενεργοποιήσετε μέχρι 5 τηλεοράσεις με το ίδιο ΑΝΑΓΝΩΡΙΣΤΙΚΟ. Ελέγξτε τη Ρύθμιση ενεργοποίησης από τον υπολογιστή σας στη διεύθυνση www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Απενεργοποίηση διακομιστή. Δοκιμάστε ξανά αργότερα.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>Λανθασμένο ΑΝΑΓΝΩΡΙΣΤΙΚΟ ή/και κωδικός πρόσβασης</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Βεβαιωθείτε ότι εισαγάγατε το ΑΝΑΓΝΩΡΙΣΤΙΚΟ σας και τον κωδικό πρόσβασής σας σωστά.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Επιτυχής σύνδεση.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Εγγραφείτε στην τηλεόραση LG για να απολαύσετε την υπηρεσία Premium, τις Εφαρμογές τηλεόρασης, τη λειτουργία My apps και πολλά περισσότερα.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Ακατάλληλο ΑΝΑΓΝΩΡΙΣΤΙΚΟ.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_INCORRECT_ID_PWD</id>
+		<word>Εσφαλμένος κωδικός ή αναγνωριστικό χρήστη.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Τηλεχειριστήριο Magic Motion</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>My Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Τα Στοιχεία μου</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Δεν μπορείτε να επεξεργαστείτε αυτή την εφαρμογή.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Χρειάζεται ενημέρωση. Θέλετε να την ενημερώσετε;</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Ενημέρωση σφάλματος</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_APPS</id>
+		<word>Αποτυχία φόρτωσης Apps.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Θέλετε να ορίσετε το δίκτυο;</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Άλλη</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Η υπηρεσία δεν είναι διαθέσιμη στην επιλεγμένη χώρα.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Η ενημέρωση ολοκληρώθηκε.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Δεν βρέθηκαν εγκατεστημένες εφαρμογές.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Δεν υπάρχει ιστορικό αγορών.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Δεν είναι εγκατεστημένο</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>Η νέα έκδοση λογισμικού είναι έτοιμη. Θέλετε να την ενημερώσετε;</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Έγινε αποσύνδεση από το δίκτυο. Ελέγξτε τη σύνδεση.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Χώρα</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Αγορασμένες εφαρμογές</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Κωδικός πρόσβασης: 4~12 χαρακτήρες, αλφάβητος και αριθμός</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Αν την διαγράψετε δεν θα είναι πλέον διαθέσιμη στο MyApps. Είστε βέβαιοι ότι θέλετε να την διαγράψετε;</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Θέλετε να πραγματοποιήσετε εγκατάσταση;</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Θέλετε να πραγματοποιήσετε αγορά;</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Θέλετε να πραγματοποιήσετε διαγραφή;</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Βαθμολογίες</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Εισαγάγετε ξανά τον κωδικό</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Εγγραφή</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Αποτυχία καταχώρισης.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Η εφαρμογή αυτή απαιτεί την/τις εξής συσκευή/ές:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Κριτική</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Σφάλμα επαλήθευσης. Προσπαθήστε ξανά αργότερα.</word>
+	</item>
+	<item>
+		<id>IDSTR_SEARCH_LABEL_PRICE</id>
+		<word>Τιμή</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>HOT</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Σύνδεσμος μέσων</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>NEW</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Προσεχώς</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Πρόγραμμα περιήγησης στον ιστό</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Όνομα</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_ENTER_TEMP</id>
+		<word>Εισαγωγή</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_UP</id>
+		<word>Εγγραφή</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOM_MSG_1</id>
+		<word>Καλώς ήλθατε στο Social Center</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOME_MSG_3</id>
+		<word>Για να απολαύσετε την υπηρεσία Social Center, επιλέξτε [Εγγραφή] για να δημιουργήσετε έναν λογαριασμό LG TV ή πατήστε [Εισαγωγή] για να ξεκινήσετε.</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Επαλήθευση χρήστη ως ενήλικα</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Επαλήθευση μέλους επί πληρωμή</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Σύνολο</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>Εφαρμ. LG</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Δωρεάν</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Οι Εφαρμογές μου</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Αυτή η εφαρμογή είναι ήδη εγκατεστημένη.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Χωρίς δεδομένα</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Έκδοση </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Αποτυχία ενημέρωσης.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Ενημερωμένο</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>Σύνδεση USB συσκευής αποθήκευσης τώρα.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Δεν υπάρχει αρκετή μνήμη για την αγορά της εφαρμογής.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Δεν υπάρχει αρκετή μνήμη για την αγορά της εφαρμογής.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Θέλετε να πραγματοποιήσετε μορφοποίηση τώρα; Όταν χρησιμοποιείτε αυτή τη συσκευή USB ως μέσο αποθήκευσης, όλα τα δεδομένα της μνήμης USB θα διαγραφούν.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Η διαδικασία μορφοποίησης ολοκληρώθηκε. Μπορεί να χρησιμοποιηθεί εξωτερική συσκευή αποθήκευσης ως πρόσθετη μνήμη για τις Εφαρμογές.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Μορφοποίηση σε εξέλιξη. Κατά τη διάρκεια της μορφοποίησης, μην απενεργοποιείτε την τηλεόραση ή τη σύνδεση USB.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Τα δεδομένα αποθηκεύτηκαν σε εξωτερική μνήμη USB.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Σε χρήση</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Διαδικτυακή κάμερα</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Καλώς ήρθατε στο Smart TV</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Πίσω</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Αναζήτηση</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Είσοδος</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Έξοδος</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Προσεχώς</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Ειδοποίηση</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Ειδοποίηση</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Εντοπίστηκε νέα έκδοση της Εφαρμογής. Θέλετε να την ενημερώσετε τώρα;</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION_ORIGINAL</id>
+		<word>Ενημέρωση &amp; λήψη λογισμικού σε εξέλιξη. ΜΗΝ απενεργοποιείτε την τηλεόραση ή αποσυνδέετε το καλώδιο δικτύου κατά τη διάρκεια της ενημέρωσης.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Ενημέρωση &amp; λήψη λογισμικού σε εξέλιξη. ΜΗΝ απενεργοποιείτε την συσκευή ή αποσυνδέετε το καλώδιο δικτύου κατά τη διάρκεια της ενημέρωσης.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Η ενημέρωση του λογισμικού ολοκληρώθηκε.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Τρέχουσα χώρα ρύθμισης</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>Μην απενεργοποιείτε την τηλεόραση και τη σύνδεση δικτύου κατά την ενημέρωση του νέου λογισμικού.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Έχει εντοπιστεί και ενημερωθεί νέα έκδοση λογισμικού.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Αναβαθμιση λογισμικού</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Φόρτωση...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Ρύθμιση</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Η υπηρεσία δεν είναι διαθέσιμη στην επιλεγμένη χώρα.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Πρόγραμμα περιήγησης στον ιστό</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Σύνδεσμος μέσων</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Αρχικοποίηση</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Αδυναμία εύρεσης χώρας για την υπηρεσία. Θέλετε να επιλέξετε χώρα τώρα;</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Ενημέρωση λογισμικού από τον πίνακα Ρυθμίσεις.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Ρύθμιση χώρας</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_WRONGPASSWD_GUIDE</id>
+		<word>Κωδικός πρόσβασης: 6~12 χαρακτήρες, γράμματα και αριθμοί μόνο.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CURRENT_PASSWD</id>
+		<word>Τρέχων κωδικός πρόσβασης</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CONFIRM_NEW_PASSWD</id>
+		<word>Επιβεβαίωση νέου κωδικού πρόσβασης</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID</id>
+		<word>ΜΕΤΑΤΡΟΠΗ ΑΝΑΓΝΩΡΙΣΤΙΚΟΥ ΚΑΙ ΚΩΔΙΚΟΥ ΠΡΟΣΒΑΣΗΣ LG TV</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE6</id>
+		<word>Απαιτείται μόνο ένας λογαριασμός LG για τη χρήση πολλαπλών υπηρεσιών LG Electronics. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE4</id>
+		<word>Εισαγάγετε το email σας για το λογαριασμό LG.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CURRENT_ID</id>
+		<word>Τρέχον αναγνωριστικό</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_RECEIVE</id>
+		<word>Λήψη email</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_PASSWD_GUIDE</id>
+		<word>Για την καλύτερη προστασία των προσωπικών στοιχείων, αλλάξτε τον κωδικό πρόσβασης και δημιουργήστε έναν κωδικό με περισσότερα από έξι ψηφία.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_EMAIL_CONVERT</id>
+		<word>Η μετατροπή του αναγνωριστικού ολοκληρώθηκε.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_SEND_AUTH_EMAIL</id>
+		<word>Ο έλεγχος ταυτότητας email έχει σταλεί στο καταχωρημένο email.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_SIGNUP</id>
+		<word>Για να ολοκληρώσετε την εγγραφή, κάντε κλικ στο κουμπί 'Ολοκλήρωση εγγραφής' στο email ελέγχου ταυτότητας. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_INCOMPLETE_EMAIL_AUTH</id>
+		<word>Η διαδικασία ελέγχου ταυτότητας email δεν έχει ολοκληρωθεί.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE7</id>
+		<word>Για την προστασία των καταναλωτών, ορισμένες υπηρεσίες απαιτούν πρόσθετες πληροφορίες. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SINGUP_GUIDE5</id>
+		<word>Εισαγάγετε μια έγκυρη διεύθυνση email.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE3</id>
+		<word>Εισαγάγετε το email και τον κωδικό πρόσβασής σας για το λογαριασμό LG.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID_PASSWD</id>
+		<word>ΜΕΤΑΤΡΟΠΗ ΑΝΑΓΝΩΡΙΣΤΙΚΟΥ ΚΑΙ ΚΩΔΙΚΟΥ ΠΡΟΣΒΑΣΗΣ LG TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NOW_SHOW_AGAIN</id>
+		<word>Να μην εμφανιστεί ξανά.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGE_PASSWD</id>
+		<word>Αλλαγή κωδικού</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_OR_ID</id>
+		<word>Αναγνωριστικό ή email</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP_1</id>
+		<word>Έλεγχος αναγνωριστικού</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL_1</id>
+		<word>E-mail</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CHANGE_ID_GUIDE1</id>
+		<word>Συνδεθείτε χρησιμοποιώντας το email σας και όχι το αναγνωριστικό σας.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE1</id>
+		<word>Αφού αποδεχθείτε τους όρους σχετικά με τα προσωπικά σας στοιχεία, εισαγάγετε το email και τον κωδικό πρόσβασής σας. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE5</id>
+		<word>Αφού αποδεχθείτε τους όρους, εισαγάγετε τη διεύθυνση email σας. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE8</id>
+		<word>Αποδεχθείτε τους όρους πρόσβασης στις υπηρεσίες LG SMART TV. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_AUTH_GUIDE_3</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_UNAVAILABLE_EMAIL</id>
+		<word>Η διεύθυνση email δεν είναι διαθέσιμη.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_HOW_TO_CONFIRM_EMAIL</id>
+		<word>Μπορείτε να πραγματοποιήσετε είσοδο αφού κάνετε κλικ στο κουμπί "πλήρης αλλαγή" στο e-mail.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_PURCHASE_NO_RESPONSE</id>
+		<word>Δεν είναι δυνατή η επαλήθευση του αποτελέσματος πληρωμής εξαιτίας αστάθειας δικτύου.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_MAKE_PURCHASE_TITLE</id>
+		<word>Πραγματοποίηση αγοράς</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_RESULT_CHECK_MYPAGE</id>
+		<word>Ελέγξτε το αποτέλεσμα στο πεδίο [Ερώτηση σχετικά με την πληρωμή] από τη σελίδα Η ΣΕΛΙΔΑ ΜΟΥ.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_ACTIVATE_UPTO_5</id>
+		<word>Μπορείτε να ενεργοποιήσετε έως 5 τηλεοράσεις με το ίδιο αναγνωριστικό. Απενεργοποιήστε το αναγνωριστικό στη Ρύθμιση Smart TV &gt; Διαχείριση ΑΝΑΓΝΩΡΙΣΤΙΚΟΥ από μία τηλεόραση στην οποία έχετε ήδη συνδεθεί.</word>
+	</item>
+	<item>
+		<id>IDSTR_MEMBERJOIN</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_ERROR_ALL_INFO</id>
+		<word>Εισαγάγετε όλες τις πληροφορίες.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_AVAILABLE_EMAIL</id>
+		<word>Η διεύθυνση e-mail είναι διαθέσιμη.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_CHECKID_DUP</id>
+		<word>Ελέγξτε την εγκυρότητα.</word>
+	</item>
+	<item>
+		<id>VCSTR_PASSWORD_CH</id>
+		<word>Ο κωδικός πρόσβασης άλλαξε.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NEW_PASSWD</id>
+		<word>Νέος κωδικός πρόσβασης</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGED</id>
+		<word>Εφαρμογή</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_NEXT_CHANGE</id>
+		<word>Αλλαγή κωδικού πρόσβασης την επόμενη φορά.</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_LG_SMART_WORLD</id>
+		<word>LG Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMART_WORLD</id>
+		<word>Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_MUST_CHANGE_PW</id>
+		<word>Αλλάξτε τον κωδικό πρόσβασης για να πραγματοποιήσετε είσοδο.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_LINKED_USING_ID</id>
+		<word>Αυτή η διεύθυνση email έχει καταχωρηθεί ήδη.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_EMAIL_ALEADY_USE</id>
+		<word>Η διεύθυνση email δεν είναι διαθέσιμη.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_CONVERTID_GUIDE1</id>
+		<word>Μπορείτε να χρησιμοποιήστε πολλές υπηρεσίες της LG Electronics με έναν λογαριασμό.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_ALREADY_USE_EMAIL</id>
+		<word>Αυτή η διεύθυνση E-mail έχει ήδη καταχωρηθεί με αυτόν το λογαριασμό LG. </word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AFGHANISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALBANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ANGOLA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARGENTINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARMENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRALIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AZERBAIJAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BAHRAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELGIUM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELIZE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BENIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOLIVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOSNIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BRAZIL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BULGARIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAMEROON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CANADA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAPEVERDE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CENTRALAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHILE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COLUMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COSTRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CROATIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CUBA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CZECH</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DENMARK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DJIBOUTI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DOMONICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ECUADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_EGYPT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ELSALVADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ESTONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ETHIOPIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CONGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FINLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FRANCE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GABON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GAMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GEORGIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GERMANY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GHANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GREECE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUATEMALA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUYANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HOUNDURAS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HONGKONG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HUNGARY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ICELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDONESIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAQ</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ISRAEL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ITALY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JAPAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JORDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KAZAKHSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KENYA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KOREA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KUWAIT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KYRGYZSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LATVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LEBANON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LIBERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LITHUANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LUXEMBOURG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MACEDONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAWI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAYSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MAURITANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MEXICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MONTENEGRO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MOROCO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MYANMAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NETHERLANDS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NEWZEALAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NICARAGUA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NIGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NORWAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_OMAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PAKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PANAMA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PARAGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PERU</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PHILIPINES</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_POLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PORTUGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PUETRORICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_QATAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ROMANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RUSSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RWANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SAUDIARABIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SENEGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SERBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SIERRALEONE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SINGAPORE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVAKIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SOUTHAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SPAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SUDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWEDEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWITZERLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SYRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TAIWAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TANZANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_THAILAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TOGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TRINIDAD</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TUNISIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TURKEY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UGANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UKRAINE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UAE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_USA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_URUGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UZBEKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VIETNAM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VENEZUELA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_YEMEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ZAMBIA</id>
+	</item>
+	<item/>
+</BBKR_string>

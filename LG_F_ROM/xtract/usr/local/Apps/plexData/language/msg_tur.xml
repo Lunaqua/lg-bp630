@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Geri</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_FULL_SCREEN</id>
+		<word>Tam Ekran</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ORIGINAL_SCREEN</id>
+		<word>Sadece Tarayın</word>
+	</item>
+	<item>
+		<id>IDSTR_PICASA_BTN_SLIDESHOW</id>
+		<word>Slide Göst.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_OK</id>
+		<word>Tamam</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_CANCEL</id>
+		<word>İptal</word>
+	</item>
+	<item>
+		<id>IDSTR_MEDIALINK_MSG_PLAY_FAIL</id>
+		<word>Medya oynatılamıyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_OPTION</id>
+		<word>Opsiyon</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_NETWORK_DISCONNECT</id>
+		<word>Ağ bağlantısı kesildi.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_REQUEST_CANNOT_PROCESS</id>
+		<word>Talep yürürlüğe konamadı.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MSG_SEARCH</id>
+		<word>Şimdi Ara!</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_KEYBOARD_MSG</id>
+		<word>Kendi klavyenizle metin yazıyormuşsunuz gibi yazmak için sağ taraftaki ekran klavyesini kullanın.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_INCONVINIENCE</id>
+		<word>Üzgünüz, şu an için hizmet veremiyoruz.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Bu hizmete erişilemiyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_1</id>
+		<word>Fotoğrafı Görüntüle</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_NEWS</id>
+		<word>Yazıyı Görüntüle</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT</id>
+		<word>Yetişkin içeriğini kullanamazsınız.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_USE_TIME</id>
+		<word>Sona erme tarihi: 2010.10.01 18:00</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD</id>
+		<word>Hizmetin süresi doldu. Yeniden başvurmak istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_FEE</id>
+		<word>30 günlük tek fiyat üzerinden satın alım yaptınız.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_RATE</id>
+		<word>Kullanılabildiği tarih: Satın alım tarihinden itibaren 30 gün içindir. Bu süre boyunca hizmet kesintisi yapılamaz. Bu hizmet ile indirimli içerik satın alabilirsiniz.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PYMENT_METHOD</id>
+		<word>Ödemeli içerik satın almak için LG TV'de oturum açın. Üye değilseniz www.lgappstv.com adresinde kaydolun. Sayfam &gt; Ödeme Bilgileri sayfasına gidin ve ödeme bilgilerinizi kaydettirin. Oturum açma sayfasına gitmek istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT_AUTH</id>
+		<word>Bu içerik yetişkin kimlik doğrulaması gerektiriyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>gün</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>saat</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>ay</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_PACK</id>
+		<word>30 günlük sabit ücret, rahat ve ekonomik alışveriş sağlar.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_TERM</id>
+		<word>30 günlük sabit ücret</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>Sona erme tarihi</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD_2</id>
+		<word>Ücretsiz dönem sona erdi. Hizmeti yeniden başlatmak için ödeme yapın.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Sona eren</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Yetişkin kimliği doğrulama</word>
+	</item>
+	<item>
+		<id>IDSTR_VALID_DATE</id>
+		<word>Sona erme tarihi.</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_KEYHELP_PAGE_CHANGE</id>
+		<word>Sayfa Değişikliği</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_AUTO</id>
+		<word>Oto.</word>
+	</item>
+	<item>
+		<id>IDSTR_TIME_ONTIME_PROGRAM</id>
+		<word>Program</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Sayfa</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Giriş Yap</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_KEYHELP_LIST</id>
+		<word>Liste</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_DETAIL_NEED_SIGNIN</id>
+		<word>Bu hizmeti kullanmak için oturum açın.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Yetişkin içeriklerine erişmek için yetişkin doğrulaması gerekir.</word>
+	</item>
+	<item>
+		<id>IDSTR_HOTKEY_INFO</id>
+		<word>Bilgi.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_PLAY</id>
+		<word>Oynat</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>Sona erme tarihi</word>
+	</item>
+	<item>
+		<id>IDSTR_MP_PAYMENT_AMOUNT</id>
+		<word>Ödeme Tutarı</word>
+	</item>
+	<item>
+		<id>IDSTR_3DTV_3DMODE_C</id>
+		<word>3D modu</word>
+	</item>
+</BBKR_string>

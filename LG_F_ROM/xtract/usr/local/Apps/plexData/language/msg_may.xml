@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Tetapan Akaun</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Kandungan dewasa tidak tersedia.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Untuk menjalankan aplikasi dewasa, daftar masuk dengan ID yang telah anda beli.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Pengesahan dewasa gagal.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Untuk mengakses kandungan dewasa, pengesahan dewasa diperlukan.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Untuk mengakses aplikasi ini, pengesahan dewasa diperlukan.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Semak ketersediaan ID ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Anda bukan ahli berbayar, Untuk membeli aplikasi ini, daftar sebagai ahli berbayar di www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>TV tidak menyokong aplikasi ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Gred telah digunakan.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Tidak cukup memori untuk membeli aplikasi ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Anda sudah memberi gred bagi aplikasi ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Tiada Ulasan</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Austria</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Austrailia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Belgium</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Brazil</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Switzerland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>China</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Czech</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Jerman</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Denmark</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Sepanyol</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Lain-lain</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Finland</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Perancis</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>UK</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Greece</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Croatia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Hungary</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Itali</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Korea Selatan</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Luxembourg</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Netherlands</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Norway</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Portugal</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Rusia</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Sweden</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>AS</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Pengesahan ahli berbayar gagal.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Maklumat Asas</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Untuk menukar tetapan akaun anda, sila layari www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>hari</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>jam</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Item</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>minit</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>bln</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Pertanyaan Pembayaran</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>masa</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Jumlah amaun pembayaran</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Tidak terhad</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>thn</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Edit</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Beli</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Percuma Paling Popular</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Berbayar Paling Popular</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Tukar Pengguna</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Semak ID</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Kembali</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Batal</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Tutup</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Padam</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Keluar</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Tidak</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Halaman</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Ya</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Daftar Msk Auto</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Laman utama</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Pindah</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Tarikh lahir</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Kata laluan</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Gagal memuat turun</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Gagal memuat turun disebabkan ralat cakera.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Gagal memuat turun disebabkan ralat pelayan.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>Muat turun berjaya</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Jum.</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>E-mel</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>Peranti USB ditanggalkan.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Untuk menggunakan aplikasi dewasa sahaja, masukkan ID dan kata laluan anda.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Masukkan ID dan kata laluan anda untuk mengesahkan keahlian berbayar anda.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>Semua</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Gagal memasang</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Gagal untuk menggunakan grednya.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Untuk memainkan aplikasi ini, anda memerlukan fungsi di bawah,</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Jantina</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Lelaki</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Perempuan</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Berikan Gred</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>ID atau negara tidak sepadan.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>ID: 6~12 aksara, abjad atau nombor</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>pasang</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Pemasangan selesai.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Aplikasi telah dipasang pada 5 TV.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Dipasang</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Aplikasi yang Dipasang</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Memasang</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Mendaftar keluar kerana tidak bersetuju dengan Syarat Perkhidmatan baharu.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Setuju</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Tidak setuju</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Syarat Perkhidmatan</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>Pendaftaran LG TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Kata laluan tak sepadan</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Periksa maklumat kad kredit anda di laman web.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Maklumat kad kredit tidak sah.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Beberapa kegagalan kata laluan telah melebihi had.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Beri markah dengan ID yang anda beli aplikasi ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Ditolak- melebihi Had Amaun.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Sambungan rangkaian atau pelayan tidak stabil. Cuba lagi kemudian.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>Daftar Masuk ke TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Anda boleh mengaktifkan sehingga 5 TV dengan ID yang sama. Nyahdayakan ID pada Tetapan Smart TV &gt; Pengurusan ID dari set TV yang anda telah daftar masuk sebelum ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Jika anda bukan ahli</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Tekan butang ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>Anda hanya boleh mendaftar sebagai ahli percuma dari TV anda. Jika anda mahu menjadi ahli berbayar atau menuka maklumat anda, sila gunakan PC anda dan layari www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Katal laluan tidak sesuai. Masukkan 4~12 aksara menggunakan hanya abjad dan nombor.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Anda kini didaftarkan sebagai ahli percuma.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>ID tidak sesuai. Masukkan 6~12 aksara hanya menggunakan abjad atau nombor.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>ID telah wujud. Sila cuba ID lain.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>ID tersedia</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Anda boleh mengaktifkan sehingga 5 set TV dengan ID yang sama. Semak Tetapan Pengaktifan anda dari PC anda dengan melayari www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Pelayan terputus sambungan. Cuba lagi kemudian.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>ID dan/atau kata laluan salah</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Pastikan bahawa anda memasukkan ID dan kata laluan anda dengan betul.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Log masuk Berjaya.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Daftar dengan LG TV untuk menikmati perkhidmatan Premium, Aplikasi TV, Aplikasi saya dan banyak lagi.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>ID yang tidak wajar.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Kawalan Jauh Magic Motion</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>Aplikasi Saya</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Maklumat Saya</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Anda tidak boleh edit apl ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Ia perlu kemas kini. Adakah anda mahu mengemas kini ia?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Ralat kemas kini</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Gagal untuk menyambungkan rangkaian. Adakah anda hendak menetapkan rangkaian?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Lain-lain</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Perkhidmatan tidak tersedia di negara yang dipilih.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Kemas kini selesai.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Tiada aplikasi yang dipasang ditemui.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Tiada sejarah pembelian.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Tidak dipasang</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>Versi perisian baru telah sedia. Adakah anda hendak mengemaskinikannya?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Rangkaian dinyahsambung. Sila periksa sambungan.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Negara</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Apikasi yang Dibeli</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Kata laluan: 4~12 aksara, abjad dan nombor</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Jika anda memadamnya, ia tidak akan lagi tersedia dalam MyApps. Adakah anda pasti hendak memadamnya?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Adakah anda hendak memasang?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Adakah anda hendak membeli?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Adakah anda benar-benar hendak memadam?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Pengadaran</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Masukkan semula kata laluan</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Daftar</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Gagal mendaftar.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Aplikasi ini memerlukan peranti berikut:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Semak semula</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Ralat pengesahan. Cuba lagi kemudian.</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>POPULAR</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Pautan Media</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>BARU</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Akan Tiba</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Penyemak Imbas Web</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Nama</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Pengesahan dewasa</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Pengesahan ahli berbayar</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Jumlah</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Percuma</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Pergi ke App Saya</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Apl ini telah dipasang.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Tiada Data</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Versi </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Gagal mengemas kini.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Dikemas kini</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>Menyambung kepada peranti USB</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Tidak cukup memori untuk membeli apl ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Tidak cukup memori untuk membeli apl ini.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Adakah anda mahu memformat sekarang? Apabila anda menggunakan USB ini sebagai penyimpan, semua data dalam memori USB akan dipadam.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Format telah selesai. Penyimpan luaran boleh digunakan sebagai memori tambahan untuk App.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Format sedang berjalan. Semasa memformat, jangan matikan TV atau sambungan USB.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Data telah disimpan dalam memori USB luaran.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Digunakan</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Kam Web</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Selamat datang ke Smart TV</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Kembali</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Cari</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Daftar Masuk</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Daftar Keluar</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Akan Tiba</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Notis</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Pemberitahuan</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Versi App yang lebih baru dikesan. Adakah anda hendak mengemaskinikannya sekarang?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Kemas kini dan muat turun perisian sedan berjalan. JANGAN matikan peranti atau caut kabel rangkaian semasa kemas kini.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Kemas kini perisian telah dilengkapkan.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Negara Seting Semasa</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>Jangan matikan TV dan sambungan rangkaian semasa mengemas kini perisian baru.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Versi yang lebih baru bagi perisian dikesan dan dikemas kini.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Kemas Kini Perisian</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Memuatkan...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Persediaan</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Perkhidmatan tidak tersedia di negara yang dipilih.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Penyemak Imbas Web</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Pautan Media</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Mulakan</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Tidak dapat mencari negara untuk perkhidmatan. Adakah anda hendak memilih negara sekarang?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Kemas kini perisian dari panel Tetapan</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Seting Negara</word>
+	</item>
+	<item/>
+</BBKR_string>

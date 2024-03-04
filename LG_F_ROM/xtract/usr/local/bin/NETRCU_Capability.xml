@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<envelope>
+	<ROAPError>200</ROAPError>
+	<ROAPErrorDetail>OK</ROAPErrorDetail>
+	<session>session id</session>
+	<device>
+		<name>WakeOnLan</name>
+		<name>WifiDirect</name>
+		<name>InternalStorage</name>
+		<name>ExternalStorage</name>
+	</device>
+	<serviceList>
+		<service>
+			<name>netrcu</name>
+			<feature>
+			</feature>
+		</service>
+	</serviceList>
+</envelope>

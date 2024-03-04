@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin version="1.0" img="Orbit540.png">
+  <Bitmap id="creditCardIcons" x="0" y="0" w="29" h="18" count="4"/>
+  <Bitmap id="eyeIcons" x="0" y="18" w="28" h="28" count="4"/>
+  <Bitmap id="boxartBackground" x="0" y="46" w="107" h="147"/>
+  <Bitmap id="merchTitlesBackground" x="107" y="46" w="10" h="168" scale9Grid="5 5 1 158"/>
+
+  <Bitmap id="dialogBackground" x="0" y="193" w="53" h="52" scale9Grid="24 21 5 5"/>
+  <Bitmap id="backIcon" x="53" y="193" w="23" h="17" count="2" direction="vertical"/>
+
+  <Bitmap id="textFieldGlow" x="76" y="193" w="13" h="30" scale9Grid="4 4 5 22"/>
+  <Bitmap id="textFieldBack" x="89" y="193" w="15" h="30" scale9Grid="5 10 5 10"/>
+
+  <Bitmap id="newCustStart" x="53" y="227" w="19" h="18"/>
+  <Bitmap id="infoIcon" x="72" y="227" w="22" h="22"/>
+  <Bitmap id="loyaltyPointsStar" x="94" y="227" w="15" h="15"/>
+  
+  <Bitmap id="blueGlow" x="0" y="245" w="57" h="57" scale9Grid="28 28 1 1"/>
+
+  <Bitmap id="roundedBoxGray24" x="57" y="250" w="15" h="15" scale9Grid="5 5 5 5"/>
+  <Bitmap id="textEntryBackground" x="72" y="250" w="14" h="14" scale9Grid="9 8 4 4"/>
+
+  <Bitmap id="buttonBackground" x="57" y="265" w="29" h="29" scale9Grid="14 14 2 2"/>
+  <Bitmap id="buttonGlow" x="86" y="265" w="29" h="29" scale9Grid="14 14 2 2"/>
+
+  <Bitmap id="welcomeSeparator" x="117" y="0" w="2" h="205"/>
+  <Bitmap id="welcomeButtonBackground" x="0" y="302" w="69" h="69" scale9Grid="34 34 2 2"/>
+  <Bitmap id="welcomeButtonGlow" x="69" y="302" w="69" h="69" scale9Grid="34 34 2 2"/>
+</Skin>

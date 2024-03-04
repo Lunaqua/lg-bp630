@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>تنظیم حساب</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>محتوای هیجده سال به بالا  قابل دسترس نمیباشد</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>برای اجرای برنامه مربوط به بزرگسالان، با شناسه خریداری شده خود وارد شوید.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>تاييد اعتبار محتواي بزرگسالان انجام نشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>برای دسترسی به مطالب مربوط به بزرگسالان، تاییدیه بزرگسال بودن لازم است.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>برای دسترسی به این برنامه، تاییدیه بزرگسال بودن لازم است.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>میسر بودن این شناسه را بررسی نمایید.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>شما عضوی-پرداختی نمیباشد، برای خریداری این برنامه، مانند یک عضوی-پرداختی در www.lgappstv.com ثبت نام نمایید.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>تلویزیون این برنامه را پشتیبانی نمی کند.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>امتیاز اعمال شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>فضای کافی برای خریداری این برنامه نمیباشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>شما قبلا رتبه این برنامه را مشخص کرده اید.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>مروری نشده است</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>اتریش</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>استرالیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>بلژیک</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>برزیل</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>سوئیس</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>چین</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>چک</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>آلمان</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>دانمارک</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>اسپانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>موارد دیگر</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>فنلاند</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>فرانسه</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>بریتانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>یونان</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>کرواسی</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>مجارستان</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>ایتالیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>کره جنوبی</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>لوگزامبورگ</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>هلند</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>نروژ</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>پرتغال</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>روسیه</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>سوئد</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>آمریکا</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>معتبرسازی عضوی-پرداختی ناموفق شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>اطلاعات اصلی</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>برای تغییر تنظیمات حساب، لطفاً از سایت www.lgappstv.com دیدن کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>روز</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>منقضی</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>ساعت</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>مورد</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>دقیقه</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>ماه</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>درخواست پرداخت</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_RESERVES_CASH</id>
+		<word>مانده حساب</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>مورد</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>کل مبلغ پرداختی</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>نامحدود</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>سال</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_PURCHASE_AMOUNT</id>
+		<word>مبلغ پرداختی</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>ویرایش</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>خرید</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>برترین موارد رایگان</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>برترین موارد غیررایگان</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>تغییر کاربر</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>بررسی شناسه</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>برگشت</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>لغو</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>بستن</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>حذف</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>خروج</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>خیر</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>صفحه</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>بله</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>ورود به سیستم خودکار</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>صفحه اصلی</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>جابجایی</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_STATUS_NETWORK</id>
+		<word>وضعیت یا اتصال شبکه خوب نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>دسترسی به این خدمات ممکن نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>تاریخ تولد</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>رمز عبور</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>بارگیری انجام نشد</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>به دلیل وجود خطای دیسک، بارگیری انجام نشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>به دلیل وجود خطای سرور، بارگیری انجام نشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>بارگیری با موفقیت انجام شد</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>تایید</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>کل</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>ایمیل</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>دستگاه USB جدا شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>برای استفاده از برنامه های فقط-بالغ، شناسه و رمز عبور خود را درج نمایید.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>شناسه و رمز عبور خود را برای تایید نمودن عضویت-پرداختی خود وارد نمایید.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>همه</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>در نصب سازی ناموفق شد</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>امتیاز اعمال نشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>برای پخش اين برنامه، به عملكردهای زير نياز است،</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>جنس</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>مرد</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>زن</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>امتیاز دادن</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>شناسه یا کشور مطابقت ندارد.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>شناسه: 6 تا 12 نویسه، حروف الفبا یا اعداد</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>نصب</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>نصب کامل شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>این برنامه از قبل بر روی 5 تلویزیون نصب شده است.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>نصب شد</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>برنامه های نصب شده</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>نصب سازی</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>به علت عدم پذیرش شرایط و ضوابط جدید خدمات، خارج شدید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>موافقم</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>مخالفم</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>شرایط خدمات</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>ثبت تلویزیون LG</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>رمزعبور مطابقت ندارد</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>اطلاعات کارت اعتباری خود را در سایت بررسی کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>اطلاعات کارت اعتباری معتبر نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>تعداد دفعات ورود رمز عبور اشتباه از مقدار مجاز بیشتر شده است.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>با استفاده از شناسه ای که این دستگاه را خریداری کرده اید، درجه بندی کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>رد شد - مقدار از حد مجاز بیشتر است.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>اتصال سرور یا شبکه ناپایدار است. بعدا دوباره امتحان کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>ورود به برنامه تلویزیون</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>شما می توانید تا 5 تلویزیون را با این ID فعال کنید. از تلویزیونی که قبلا در آن وارد شده اید، ID را در تنظیمات Smart TV &gt; مدیریت شناسه غیرفعال کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>اگر شما یکی از اعضا نیستید</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>این دکمه را فشار دهید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>فقط می توانید از طریق تلویزیون خود به عنوان یک عضو آزاد ثبت نام کنید. اگر می خواهید با پرداخت هزینه عضو شوید یا اطلاعات خود را تغییر دهید، لطفاً از رایانه خود استفاده کرده و از سایت www.lgappstv.com دیدن کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>رمز عبور مناسب نیست. فقط با استفاده از حروف الفبا و اعداد، 4 تا 12 نویسه وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>شما اکنون به عنوان یک عضو رایگان ثبت نام کرده اید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>رمز عبور مناسب نیست. فقط با استفاده از حروف الفبا و اعداد، 6 تا 12 نویسه وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>این شناسه از قبل در حال استفاده است. لطفاً یک شناسه دیگر را امتحان کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>شناسه موجود است</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>حداکثر 5 تلویزیون را می توانید با استفاده از یک شناسه مشابه فعال کنید. با بازدید از سایت www.lgappstv.com، تنظیمات فعالسازی را از رایانه خود بررسی کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>اتصال سرور قطع شد. دوباره امتحان کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>شناسه و/یا رمز عبور اشتباه است</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>بررسی کنید که شناسه و رمز عبور را صحیح وارد کرده باشید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>ورود به سیستم با موفقیت انجام شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>در تلویزیون LG ثبت نام کنید تا بتوانید از سرویس ویژه، برنامه های تلویزیون، نقشه های من و موارد بیشتر استفاده کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>شناسه نامناسب است. تنها با استفاده از حروف الفبا و اعداد، 6 تا 12 نویسه را وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_INCORRECT_ID_PWD</id>
+		<word>ID یا رمز ورود نادرست است.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>كنترل راه دور Magic Motion</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>برنامه های من</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>معلومات من</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>امکان ویرایش این برنامه وجود ندارد.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>لازم است که به روز رسانی انجام دهید. می خواهید آن را به روز کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>خطای به روز رسانی</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_APPS</id>
+		<word>در بارگیری برنامه ها ناموفق شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>اتصال با شبکه انجام نشد. می خواهید شبکه را تنظیم کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>موارد دیگر</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>خدممت در کشور انتخاب شده میسر نمی باشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>بروزرسانی تکمیل شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>هیچ برنامه ی نصب شده پیدا نشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>هیچ تاریخچه ای خریداری نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>نصب نشده</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>نسخه نرم افزار جدید آماده است. به روزآوری شود؟</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>اتصال شبکه قطع است. لطفاً اتصال را بررسی کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>کشور</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>برنامه های خریداری شده</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>رمز عبور: 4 تا 12 نویسه، حروف الفبا و اعداد</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>در صورت حذف آن، دیگر در برنامه های من موجود نخواهد بود. مطمئن هستید که می خواهید آن را حذف کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>می خواهید نصب کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>می خواهید خریداری کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>می خواهید حذف کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>رتبه بندی ها</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>رمز عبور را مجدداً وارد نمایید</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>ثبت</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>در ثبت نام ناموفق شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>اين برنامه به دستگاه/های زير نياز دارد:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>مرور</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>خطای معتبرسازی. بعداً دوباره سعی نمایید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SEARCH_LABEL_PRICE</id>
+		<word>قیمت</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>برتر</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>پیوند رسانه</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>جدید</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>ویژه</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>به زودی</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>مرورگر وب</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>نام</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_ENTER_TEMP</id>
+		<word>ورود</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_OK</id>
+		<word>تأیید</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_UP</id>
+		<word>ثبت نام</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOM_MSG_1</id>
+		<word>به Social Center خوش آمدید</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOME_MSG_3</id>
+		<word>برای استفاده از خدمات Social Center، با انتخاب [ثبت نام]، یک اشتراک LG TV ایجاد کنید یا برای شروع، [ورود]را انتخاب نمایید.</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>معتبرسازی بالغ</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>معتبرسازی عضوی پرداختی</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>مجموع</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word> برنامهLG </word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>رایگان</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>برو به برنامه های من</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>این برنامه از قبل نصب شده است.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>داده موجود نیست</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>نسخه </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>به روز رسانی انجام نشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>به روز شده</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>اتصال به دستگاه USB</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>حافظه کافی برای خرید این برنامه وجود ندارد.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>حافظه کافی برای خرید این برنامه وجود ندارد.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>می خواهید اکنون فرمت کنید؟ هنگامی که از این USB به عنوان دستگاه ذخیره سازی استفاده می کنید، تمام داده های موجود در حافظه USB حذف می شود.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>فرمت کامل شد. از دستگاه ذخیره سازی خارجی می توانید به عنوان یک حافظه اضافی برای برنامه ها استفاده کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>فرمت شدن در حال انجام است. در حین انجام فرمت، تلویزیون را خاموش نکرده و اتصال USB را قطع نکنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>داده ها در حافظه USB خارجی ذخیره شدند.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>استفاده شده</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>وبكم</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>به Smart TV خوش آمدید.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>برگشت</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>جستجو</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>ورود به سیستم</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>خروج از سیستم</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>به زودی</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>توجه</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>اعلان</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>نسخه جدیدتری از برنامه شناسایی شده است. می خواهید اکنون به روز کنید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION_ORIGINAL</id>
+		<word>به روز رسانی نرم افزار و بارگیری در حال انجام است. در حین انجام به روز رسانی، تلویزیون را خاموش نکرده و کابل شبکه را جدا نکنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>به روز رسانی نرم افزار و بارگیری در حال انجام است. در حین انجام به روز رسانی، تلویزیون را خاموش نکرده و کابل شبکه را جدا نکنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>به روز رسانی نرم افزار کامل شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>تنظیمات فعلی کشور</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>در حین به روز رسانی نرم افزار جدید، تلویزیون و اتصال شبکه را خاموش نکنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>یک نسخه جدیدتر از نرم افزار شناسایی و به روز شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>بروز رسانی نرم افزار</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>در حال بارگیری...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>تنظیم</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>خدممت در کشور انتخاب شده میسر نمی باشد.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>مرورگر وب</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>پیوند رسانه</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>راه اندازی نمایید</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>نمیتواند کشور را برای خدمات پیدا کند. آیا میخواهید کشور را حالا انتخاب نمایید؟</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>نرم افزار را از صفحه ی تنظیمات بهروز رسانی نمایید.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>تنظیمات کشور</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_WRONGPASSWD_GUIDE</id>
+		<word> 6 الی 12 نویسه ، الفبا یا عدد</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CURRENT_PASSWD</id>
+		<word>رمز عبور فعلی</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CONFIRM_NEW_PASSWD</id>
+		<word>تأیید رمز عبور جدید</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID</id>
+		<word>تبدیل شناسه و رمز عبور LG TV</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE6</id>
+		<word>تنها یک حساب LG برای استفاده از چند سرویس LG Electronic نیاز است.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE4</id>
+		<word>ایمیل خود را برای حساب LG وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CURRENT_ID</id>
+		<word>شناسه کنونی</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_RECEIVE</id>
+		<word>دریافت ایمیل</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_PASSWD_GUIDE</id>
+		<word>برای محافظت بهتر از اطلاعات شخصی، یک رمز عبور با بیش از شش رقم انتخاب کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_EMAIL_CONVERT</id>
+		<word>تبدیل شناسه کامل شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_SEND_AUTH_EMAIL</id>
+		<word>تأیید ایمیل برای ثبت ایمیل فرستاده شد.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_SIGNUP</id>
+		<word>برای کامل کردن ثبت نام، در ایمیل تأییدیه دکمه 'تکمیل ثبت نام' را کلیک کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_INCOMPLETE_EMAIL_AUTH</id>
+		<word>روند تأیید ایمیل کامل نشده است.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE7</id>
+		<word>برای محافظت از مصرف کننده، برخی از سرویس‌ها به اطلاعات تکمیلی نیاز دارند.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SINGUP_GUIDE5</id>
+		<word>یک آدرس ایمیل معتبر وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE3</id>
+		<word>ایمیل و کلمه عبور خود را برای حساب LG وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID_PASSWD</id>
+		<word>تبدیل شناسه و رمز عبور LG TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NOW_SHOW_AGAIN</id>
+		<word>مجدداً نمایش داده نشود.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGE_PASSWD</id>
+		<word>تغییر رمز عبور</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_OR_ID</id>
+		<word>شناسه یا ایمیل</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP_1</id>
+		<word>بررسی شناسه</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL_1</id>
+		<word>ایمیل</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CHANGE_ID_GUIDE1</id>
+		<word>با ایمیل خود وارد سیستم شوید، نه با شناسه خود.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE1</id>
+		<word>پس از قبول شرایط اطلاعات خود، ایمیل و رمز عبور خود را وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE5</id>
+		<word>پس از قبول شرایط، آدرس ایمیل خود را وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE8</id>
+		<word>شرایط را قبول کنید تا به سرویس‌های LG SMART TV دسترسی پیدا کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_AUTH_GUIDE_3</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_UNAVAILABLE_EMAIL</id>
+		<word>آدرس ایمیل موجود نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_HOW_TO_CONFIRM_EMAIL</id>
+		<word>برای شروع ورود با شناسه جدید خود، بر روی دکمه "کامل کردن تغییر" در ایمیل تأیید کلیک کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_PURCHASE_NO_RESPONSE</id>
+		<word>به دلیل وجود شبکه بدون ثبات، اعتبار نتیجه پرداخت تأیید نمی شود.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_MAKE_PURCHASE_TITLE</id>
+		<word>خرید کنید</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_RESULT_CHECK_MYPAGE</id>
+		<word>نتیجه را در درخواست پرداخت در صفحه من بررسی کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_ACTIVATE_UPTO_5</id>
+		<word>شما می توانید تا 5 تلویزیون را با این ID فعال کنید. از تلویزیونی که قبلا در آن وارد شده اید، ID را در تنظیمات Smart TV &gt; مدیریت شناسه غیرفعال کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_MEMBERJOIN</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_ERROR_ALL_INFO</id>
+		<word>تمام اطلاعات را وارد کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_AVAILABLE_EMAIL</id>
+		<word>آدرس ایمیل موجود است.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_CHECKID_DUP</id>
+		<word>بررسی اعتبار.</word>
+	</item>
+	<item>
+		<id>VCSTR_PASSWORD_CH</id>
+		<word>Password is changed.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NEW_PASSWD</id>
+		<word>رمز عبور جدید</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGED</id>
+		<word>اعمال کردن</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_NEXT_CHANGE</id>
+		<word>تغییر در دفعه بعد.</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_LG_SMART_WORLD</id>
+		<word>LG Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMART_WORLD</id>
+		<word>Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_MUST_CHANGE_PW</id>
+		<word>برای ورود رمز عبور را تغییر دهید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_LINKED_USING_ID</id>
+		<word>این آدرس ایمیل از قبل ثبت شده است.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_EMAIL_ALEADY_USE</id>
+		<word>این آدرس ایمیل موجود نیست.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_CONVERTID_GUIDE1</id>
+		<word>با یک حساب از سرویس های چندتایی LG Electronics استفاده کنید.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_ALREADY_USE_EMAIL</id>
+		<word>این آدرس ایمیل قبلاً برای این حساب LG ثبت شده است.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AFGHANISTAN</id>
+		<word>افغانستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALBANIA</id>
+		<word>آلبانی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALGERIA</id>
+		<word>الجزیره</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ANGOLA</id>
+		<word>آنگولا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARGENTINA</id>
+		<word>آرژانتین</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARMENIA</id>
+		<word>ارمنستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRALIA</id>
+		<word>استرالیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRIA</id>
+		<word>اتریش</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AZERBAIJAN</id>
+		<word>آذربایجان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BAHRAIN</id>
+		<word>بحرین</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELGIUM</id>
+		<word>بلژیک</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELIZE</id>
+		<word>بلیز</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BENIN</id>
+		<word>بنین</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOLIVIA</id>
+		<word>بولیوی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOSNIA</id>
+		<word>بوسنی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BRAZIL</id>
+		<word>برزیل</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BULGARIA</id>
+		<word>بلغارستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_</id>
+		<word>بورکینا فاسو</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAMEROON</id>
+		<word>کامرون</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CANADA</id>
+		<word>کانادا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAPEVERDE</id>
+		<word>کیپ ورد</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CENTRALAFRICA</id>
+		<word>جمهوری آفریقای مرکزی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHILE</id>
+		<word>شیلی </word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHINA</id>
+		<word>چین</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COLUMBIA</id>
+		<word>کلمبیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COSTRICA</id>
+		<word>کوستا ریکا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CROATIA</id>
+		<word>کرواسی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CUBA</id>
+		<word>کوبا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CZECH</id>
+		<word>چک</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DENMARK</id>
+		<word>دانمارک</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DJIBOUTI</id>
+		<word>دیجی بوتی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DOMONICA</id>
+		<word>نماینده دومینیکن</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ECUADOR</id>
+		<word>اکوادور</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_EGYPT</id>
+		<word>مصر</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ELSALVADOR</id>
+		<word>السالوادور</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ESTONIA</id>
+		<word>استونی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ETHIOPIA</id>
+		<word>اتیوپی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CONGO</id>
+		<word>کنگو</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FINLAND</id>
+		<word>فنلاند</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FRANCE</id>
+		<word>فرانسه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GABON</id>
+		<word>گابون</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GAMBIA</id>
+		<word>گامبیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GEORGIA</id>
+		<word>گرجستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GERMANY</id>
+		<word>آلمان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GHANA</id>
+		<word>غنا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GREECE</id>
+		<word>یونان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUATEMALA</id>
+		<word>گواتمالا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUYANA</id>
+		<word>گویان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HOUNDURAS</id>
+		<word>هندوراس</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HONGKONG</id>
+		<word>هنگ کنگ</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HUNGARY</id>
+		<word>مجارستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ICELAND</id>
+		<word>ایسلند</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDIA</id>
+		<word>هند</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDONESIA</id>
+		<word>اندونزی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAN</id>
+		<word>ایران</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAQ</id>
+		<word>عراق</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRELAND</id>
+		<word>ایرلند</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ISRAEL</id>
+		<word>اسرائیل</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ITALY</id>
+		<word>ایتالیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JAPAN</id>
+		<word>ژاپن</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JORDAN</id>
+		<word>اردن</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KAZAKHSTAN</id>
+		<word>قزاقستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KENYA</id>
+		<word>کنیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KOREA</id>
+		<word>کره جنوبی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KUWAIT</id>
+		<word>کویت</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KYRGYZSTAN</id>
+		<word>قرقیزستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LATVIA</id>
+		<word>لتونی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LEBANON</id>
+		<word>لبنان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LIBERIA</id>
+		<word>لیبریا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LITHUANIA</id>
+		<word>لیتوانی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LUXEMBOURG</id>
+		<word>لوگزامبورگ</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MACEDONIA</id>
+		<word>مقدونیه ای</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAWI</id>
+		<word>مالاوی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAYSIA</id>
+		<word>مالزی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALI</id>
+		<word>مالی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MAURITANIA</id>
+		<word>موریتانی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MEXICO</id>
+		<word>مکزیک</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MONTENEGRO</id>
+		<word>مونته نگرو</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MOROCO</id>
+		<word>مراکش</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MYANMAR</id>
+		<word>میانمار</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NETHERLANDS</id>
+		<word>هلند</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NEWZEALAND</id>
+		<word>نیوزلند</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NICARAGUA</id>
+		<word>نیکاراگاوا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NIGERIA</id>
+		<word>نیجریه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NORWAY</id>
+		<word>نروژ</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_OMAN</id>
+		<word>عمان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PAKISTAN</id>
+		<word>پاکستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PANAMA</id>
+		<word>پاناما</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PARAGUAY</id>
+		<word>پاراگوئه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PERU</id>
+		<word>پرو</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PHILIPINES</id>
+		<word>فیلیپین</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_POLAND</id>
+		<word>لهستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PORTUGAL</id>
+		<word>پرتغال</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PUETRORICO</id>
+		<word>پورتوریکو</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_QATAR</id>
+		<word>قطر</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ROMANIA</id>
+		<word>رومانی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RUSSIA</id>
+		<word>روسیه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RWANDA</id>
+		<word>رواندا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SAUDIARABIA</id>
+		<word>عربستان سعودی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SENEGAL</id>
+		<word>سنگال</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SERBIA</id>
+		<word>صربستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SIERRALEONE</id>
+		<word>سیرالئون</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SINGAPORE</id>
+		<word>سنگاپور</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVAKIA</id>
+		<word>اسلواکی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVENIA</id>
+		<word>اسلوونی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SOUTHAFRICA</id>
+		<word>آفریقای جنوبی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SPAIN</id>
+		<word>اسپانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SUDAN</id>
+		<word>سودان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWEDEN</id>
+		<word>سوئد</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWITZERLAND</id>
+		<word>سوئیس</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SYRIA</id>
+		<word>سوریه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TAIWAN</id>
+		<word>تایوان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TANZANIA</id>
+		<word>تانزانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_THAILAND</id>
+		<word>تایلند</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TOGO</id>
+		<word>توگو</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TRINIDAD</id>
+		<word>ترینیداد توباگو سالانه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TUNISIA</id>
+		<word>تونس</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TURKEY</id>
+		<word>ترکیه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UGANDA</id>
+		<word>اوگاندا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UKRAINE</id>
+		<word>اوکراین</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UAE</id>
+		<word>امارات متحده عربی</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UK</id>
+		<word>بریتانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_USA</id>
+		<word>آمریکا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_URUGUAY</id>
+		<word>اروگوئه</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UZBEKISTAN</id>
+		<word>ازبکستان</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VIETNAM</id>
+		<word>ویتنام</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VENEZUELA</id>
+		<word>ونزوئلا</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_YEMEN</id>
+		<word>یمن</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ZAMBIA</id>
+		<word>زامبیا</word>
+	</item>
+	<item/>
+</BBKR_string>

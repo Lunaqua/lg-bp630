@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <item>
+    <id>IDSTR_CMN_PREV</id>
+    <word>Önc.</word>
+  </item>
+  <item>
+    <id>IDSTR_CMN_CLOSE</id>
+    <word>Kapat</word>
+  </item>
+  <item>
+    <id>IDSTR_RESV_DELETE_ALL</id>
+    <word>Tümünü Sil</word>
+  </item>
+  <item>
+    <id>IDSTR_YOUTUBE_SEARCH</id>
+    <word>Ara</word>
+  </item>
+  <item>
+    <id>IDSTR_BACK</id>
+    <word>GERİ</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_ENTER_A_SEARCH_REQUEST</id>
+    <word>Lütfen bir arama isteği giriniz!</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_SEARCH</id>
+    <word>Arama</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_MSG_NO_RESULTS</id>
+    <word>Hiçbir sonuç bulunamadı.</word>
+  </item>
+  <item>
+    <id>IDSTR_Extend</id>
+    <word>Uzat</word>
+  </item>
+</BBKR_string>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin version="1.0" img="RNPlayerSkin1080.png">
+  <Bitmap id="playIcons" x="0" y="0" w="36" h="28" count="7"/>
+  <Bitmap id="positionLocator" x="0" y="28" w="84" h="84" count="2"/>
+  <Bitmap id="hdIcon" x="262" y="0" w="46" h="28"/>
+  <Bitmap id="ddIcon" x="262" y="28" w="42" h="28"/>
+  <Bitmap id="dd51Icon" x="168" y="62" w="88" h="28"/>
+  <Bitmap id="thxIcon" x="168" y="90" w="158" h="32"/>
+
+  <Bitmap id="transportBar" x="168" y="28" w="68" h="34" scale9Grid="56 2 8 30"/>
+  <Bitmap id="transportBarFill" x="236" y="30" w="10" h="30" scale9Grid="0 0 10 20"/>
+  <Bitmap id="transportBarDarkFill" x="246" y="30" w="10" h="30" scale9Grid="0 0 10 20"/>
+
+  <Bitmap id="playbackControlPrev" x="326" y="0" w="158" h="68" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlRew" x="484" y="0" w="154" h="68" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlPause" x="638" y="0" w="154" h="68" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlPlay" x="792" y="0" w="154" h="68" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlStop" x="946" y="0" w="154" h="68" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlFfwd" x="1100" y="0" w="154" h="68" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlNext" x="1254" y="0" w="158" h="68" count="2" direction="vertical"/>
+
+  <Bitmap id="buttonQMenu" x="1412" y="0" w="144" h="68" count="2" direction="vertical"/>
+</Skin>

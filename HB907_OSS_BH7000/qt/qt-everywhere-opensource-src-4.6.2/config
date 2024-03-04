@@ -1,0 +1,82 @@
+#!/bin/sh
+
+sh ./configure \
+-prefix ${DEST_DIR} \
+-prefix-install \
+-release \
+-opensource \
+-confirm-license \
+-shared \
+-fast \
+-no-largefile \
+-no-exceptions \
+-no-accessibility \
+-stl \
+-no-sql-db2 \
+-no-sql-ibase \
+-no-sql-mysql \
+-no-sql-oci \
+-no-sql-odbc \
+-no-sql-psql \
+-no-sql-sqlite \
+-no-sql-sqlite2 \
+-no-sql-sqlite_symbian \
+-no-sql-tds \
+-no-qt3support \
+-no-xmlpatterns \
+-no-multimedia \
+-no-audio-backend \
+-no-phonon \
+-no-phonon-backend \
+-no-svg \
+-no-webkit \
+-no-javascript-jit \
+-no-script \
+-no-scripttools \
+-no-declarative \
+-no-mmx \
+-no-3dnow \
+-no-sse \
+-no-sse2 \
+-qt-zlib \
+-no-gif \
+-no-libtiff \
+-no-libpng \
+-no-libmng \
+-no-libjpeg \
+-nomake docs \
+-nomake examples \
+-no-rpath \
+-no-openssl \
+-silent \
+-optimized-qmake \
+-no-nis \
+-no-cups \
+-no-iconv \
+-no-pch \
+-no-dbus \
+-no-separate-debug-info \
+-xplatform qws/linux-armv6-g++ \
+-embedded armv6 \
+-little-endian \
+-qt-freetype \
+-no-opengl \
+-qt-gfx-directfb \
+-no-gfx-linuxfb \
+-no-gfx-transformed \
+-no-gfx-qvfb \
+-no-gfx-vnc \
+-no-gfx-multiscreen \
+-no-gfx-qnx \
+-no-kbd-tty \
+-no-kbd-linuxinput \
+-no-kbd-qvfb \
+-no-kbd-qnx \
+-no-mouse-pc \
+-no-mouse-linuxtp \
+-no-mouse-linuxinput \
+-no-mouse-tslib \
+-no-mouse-qvfb \
+-no-mouse-qnx \
+-no-neon \
+-no-glib

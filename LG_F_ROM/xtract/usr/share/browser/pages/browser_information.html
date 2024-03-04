@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+        <head>
+                <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+                <title></title>
+                <script type="text/javascript">
+                        function setup() {
+                                var currentFocus = 0;
+                                var links = document.getElementsByTagName("a");
+                                links[currentFocus].focus();
+
+                                window.onkeydown = function(event) {
+                                        if(event.keyCode == 40) { //down
+                                                if(currentFocus == links.length - 1) {
+                                                        currentFocus = 0;
+                                                }
+                                                else {
+                                                        currentFocus++;
+                                                }
+
+                                                links[currentFocus].focus();
+                                                return false;
+                                        }
+
+                                        else if(event.keyCode == 38) { //up
+                                                if(currentFocus == 0) {
+                                                        currentFocus = links.length - 1;
+                                                }
+                                                else {
+                                                        currentFocus--;
+                                                }
+
+                                                links[currentFocus].focus();
+                                                return false;
+                                        }
+                                }
+
+                        }
+
+
+                        function toggleClass(p_element,p_classname) {
+                                p_element = document.getElementById(p_element);
+                                l_classnames = p_element.className;
+                                if (l_classnames.indexOf(p_classname)<0) {
+                                        this.addClass(p_element,p_classname);
+                                } else {
+                                        this.removeClass(p_element,p_classname);
+                                }
+                        }
+
+                        removeClass = function(p_element,p_classname) {
+                                var l_classnames = p_element.className;
+                                var l_re = new RegExp(p_classname);
+                                p_element.className = l_classnames.replace(l_re, "");
+                                if (p_element.className.length===0) {
+                                        p_element.removeAttribute('class');
+                                }
+                        }
+                        addClass = function(p_element,p_classname) {
+                                if (p_element.className.indexOf(p_classname)<0) {
+                                        var l_space = p_element.className.length > 0 ? " " : "";
+                                        p_element.className += l_space + p_classname;
+                                }
+                        }
+                </script>
+                <style type="text/css">
+                        body {
+                                background: #fff;
+                                padding: 0 100px;
+                                font: 24px/24px Arial, sans-serif;
+                        }
+                        div.hr{
+                                border-top:1px solid #999;
+                                margin:20px 0;
+                        }
+                        li {
+                                line-height: 1.5em;
+                        }
+                        a{color:blue;}
+                        a:focus{background:blue;color:#fff;}
+
+                </style>
+        </head>
+
+<body onload="setup()" class="detailsLoading">
+
+<p />
+<p>browser revision 3686</p>
+<p>2.30.02</p>
+
+</body>
+</html>

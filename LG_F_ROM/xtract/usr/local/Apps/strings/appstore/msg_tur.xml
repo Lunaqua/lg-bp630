@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Hesap Ayarı</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Yetişkin içeriği kullanılamıyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Yetişkin uygulamasına devam etmek için satın aldığınız ID'yi girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Yetişkin doğrulaması başarısız.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Yetişkin içeriklerine erişmek için yetişkin doğrulaması gerekir.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Bu uygulamaya erişmek için yetişkin doğrulaması gerekir.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Bu kimliğin kullanılabilirliğini denetleyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Ödemeli üye değilsiniz, bu uygulamayı satın almak için www.lgappstv.com adresinden ödemeli üye olarak kayıt yaptırın.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>Televizyon bu uygulamayı desteklemiyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Puan uygulandı.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Bu uygulamayı satın almak için yeterli bellek yok.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Bu uygulama için zaten değerlendirme yaptınız.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Değerlendirme Yok</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Avusturya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Avustralya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Belçika</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Brezilya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>İsviçre</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>Çin</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Çek Cumhuriyeti</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Almanya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Danimarka</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>İspanya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Diğerleri</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Finlandiya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Fransa</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>UK</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Yunanistan</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Hırvatistan</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Macaristan</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>İtalya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Güney Kore</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Lüksemburg</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Hollanda</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Norveç</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Portekiz</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Rusya</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>İsveç</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>ABD</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Ödemeli üye kimliği doğrulanamadı.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Temel Bilgiler</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Hesap ayarınızı değiştirmek için lütfen www.lgappstv.com adresini ziyaret edin.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>gün</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Sona eren</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>saat</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Öğe</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>dk.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>ay</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Ödeme Sorgulama</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_RESERVES_CASH</id>
+		<word>Hesap bakiyesi</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>kez</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Toplam ödeme tutarı</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Sınırsız</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>yıl</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_PURCHASE_AMOUNT</id>
+		<word>Ödeme tutarı</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Düzelt</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Satın Al</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>En İyi Ücretsiz</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>En İyi Ödemeli</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Kullanıcı Değiştir</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Kimliği Denetle</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Geri</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>İptal</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Kapat</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Sil</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Çıkış</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Hayır</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Sayfa</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Evet</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Oto. Giriş Yap</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Ana Sayfa</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Kaydır</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_STATUS_NETWORK</id>
+		<word>Ağ bağlantısı veya durumu iyi değil.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Bu hizmete erişilemiyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Doğum tarihi</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Parola</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>İndirme başarısız</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Disk hatası nedeniyle indirme başarısız.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Sunucu hatası nedeniyle indirme başarısız.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>İndirme başarılı</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>Tamam</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Toplam</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>E-posta</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>USB aygıtı bağlı değil.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Sadece yetişkinler için olan uygulamaları kullanmak için kimliğinizi ve parolayı girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Ödemeli üyeliğinizi doğrulamak için kimliğinizi ve parolanızı girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>Tümü</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Yüklenemedi</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Puan uygulanamadı.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Bu uygulamayı çalıştırmak için, aşağıdaki fonksiyonlar gereklidir,</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Cinsiyet</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Erkek</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Kadın</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Puan Ver</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>Kimlik veya ülke eşleşmiyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>Kimlik: 6~12 karakter, harf veya sayı</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>kur</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Kurulum tamamlandı.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Uygulama zaten 5 TV üzerine kurulmuş.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Kuruldu</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Kurulan Uygulamalar</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Yükleniyor</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Yeni Servis Koşulları kabul edilmediğinden oturum kapatıldı.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Kabul Ediyorum</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Kabul Etmiyorum</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Hizmet Koşulları</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>LG TV Kayıt</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Parola eşleşmiyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Kredi kartı bilgilerinizi web sitesinden kontrol edin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Kredi kartı bilgileri geçerli değil.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Parolanın birkaç kez başarısız girilmesi sınırı açtı.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Bu uygulamayı satın aldığınız kimlikle dereceler verir.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Reddedildi - Miktar sınırı aşıldı.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Ağ veya sunucu bağlantısı tutarsız. Daha sonra tekrar deneyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>TV'de oturum aç</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Aynı kimlikle en fazla 5 adet televizyon etkinleştirebilirsiniz. Kimliği, daha önce oturum açtığınız bir televizyon setinin Smart TV Ayarı &gt; Kimlik Yönetimi bölümünden devre dışı bırakın.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Üye değilseniz</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Bu düğmeye basın.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>TV'nizden sadece ücretsiz üye olarak kaydolabilirsiniz. Ödemeli üye olmak veya bilgilerinizi değiştirmek istiyorsanız, lütfen PC'nizi kullanarak www.lgappstv.com adresini ziyaret edin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Uygun olmayan parola. Yalnızca harfleri ve sayıları kullanarak 4~12 karakter girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Ücretsiz olarak kaydoldunuz.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>Uygun olmayan kimlik. Yalnızca harfleri veya sayıları kullanarak 6~12 karakter girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>Kimlik zaten kullanılıyor. Lütfen başka bir kimlik deneyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>Kimlik kullanılabilir</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Aynı kimlik ile en fazla 5 TV setini etkinleştirebilirsiniz. PC'nizden www.lgappstv.com adresini ziyaret ederek Etkinleştirme Ayarınızı kontrol edin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Sunucu bağlantısı kesildi. Sonra tekrar deneyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>Yanlış kimlik ve/veya şifre.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Girdiğiniz kimliğin ve şifrenin doğru olduğundan emin olun.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Oturum Açma Başarılı.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Premium hizmeti, TV Uygulamaları, Uygulamalarım ve daha fazlası için LG TV'ye kaydolun.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Yanlış kimlik.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_INCORRECT_ID_PWD</id>
+		<word>Kullanıcı kimliği veya parola yanlış.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Magic Motion Uzaktan Kumanda</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>Uygulamalarım</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Bilgilerim</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Bu uygulamayı düzenleyemezsiniz.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Güncelleştirme gerekiyor. Güncelleştirmek istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Güncelleştirme hatası</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_APPS</id>
+		<word>Uygulamalar yüklenemedi.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Ağa bağlanamadı. Ağı ayarlamak istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Diğerleri</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Bu hizmet seçili ülkede verilmiyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Güncelleme tamamlandı.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Yüklü hiçbir uygulama bulunmadı.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Satınalma geçmişi yok.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Kurulu değil.</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>Yeni yazılım sürümü mevcut. Güncellemek istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Ağ bağlantısı kesildi. Lütfen bağlantıyı kontrol edin.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Ülke</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Satın Alınan Uygulamalar</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Parola: 4~12 karakter harf ve sayı</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Silerseniz, Uygulamalarımda artık kullanılamaz. Silmek istediğinizden emin misiniz?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Kurmak istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Satın almak istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Gerçekten silmek istiyor musunuz?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Derecelendirmeler</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Parolayı yeniden girin</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Kaydol</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Kayıt başarısız.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Bu uygulama için aşağıdaki cihazlar gereklidir:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Gözden Geçirme</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Kimlik doğrulama hatası. Daha sonra tekrar deneyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_SEARCH_LABEL_PRICE</id>
+		<word>Fiyat</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>Popüler</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Medya Bağlantısı</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>YENİ</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Çok Yakında</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Web Tarayıcısı</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Ad</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_ENTER_TEMP</id>
+		<word>Gir</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_OK</id>
+		<word>Tamam</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_UP</id>
+		<word>Üye Ol</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOM_MSG_1</id>
+		<word>Sosyal Merkeze Hoşgeldiniz</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOME_MSG_3</id>
+		<word>Sosyal Merkez servisinden faydalanmak üzere bir LG TV hesabı oluşturmak için [Üye ol] veya LG TV hesabı oluştur veya başlamak için [Gir] seçeneğini belirleyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Yetişkin kimliği doğrulama</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Ödemeli üye kimliği doğrulama</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Toplam</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Ücretsiz</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Uygulamalarım'a git</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Bu uygulama zaten yüklendi.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Veri Yok</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Sürüm </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Güncelleme başarısız.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Güncellendi</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>USB aygıtına bağlanılıyor</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Bu uygulamayı satın almak için yeterli bellek yok.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Bu uygulamayı satın almak için yeterli bellek yok.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Şimdi biçimlendirmek istiyor musunuz? Bu USB'yi depolama alanı olarak kullandığınızda, USB belleğinin tüm verileri silinecek.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Biçimlendirme tamamlandı. Harici depolama alanı Uygulamalar için ek bellek olarak kullanılabilir.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Biçimlendirme sürüyor. Biçimlendirme sırasında, TV'yi veya USB bağlantısını kapatmayın.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Veriler harici bir USB belleğine kaydedildi.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Kullanılan</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Web kamera</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Smart TV'e hoş geldiniz</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Geri</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Ara</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Giriş Yap</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Çıkış Yap</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Çok Yakında</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Hatırlatma</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Duyuru</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Yeni bir Uygulama sürümü algılandı. Şimdi güncellemek ister misiniz?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION_ORIGINAL</id>
+		<word>Yazılım yükseltme ve indirme sürüyor. Güncelleme sırasında TV'nizi kapatmayın veya ağ kablosunu sökmeyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Yazılım yükseltme ve indirme sürüyor. Güncelleme sırasında cihazınızı kapatmayın veya ağ kablosunu sökmeyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Yazılım güncelleştirmesi tamamlandı.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Şu Anki Ülke Ayarı</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>Yeni yazılım güncelleştirilirken TV'yi ve ağ bağlantısını kapatmayın.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Yazılımın daha yeni bir sürümü algılandı ve yüklendi.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Yazılım Güncelleme</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Yükleniyor...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Ayar</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Bu hizmet seçili ülkede verilmiyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Web Tarayıcısı</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Medya Bağlantısı</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Sıfırla</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Hizmet verilecek ülke bulunamıyor. Ülkeyi şimdi seçmek ister misiniz?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Ayarla panelinden yazılımı güncelleyin.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Ülke ayarı.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_WRONGPASSWD_GUIDE</id>
+		<word>6-12 karakter, harf veya sayı.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CURRENT_PASSWD</id>
+		<word>Geçerli parola</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CONFIRM_NEW_PASSWD</id>
+		<word>Yeni parolayı doğrula</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID</id>
+		<word>LG TV KİMLİĞİ VE PAROLASINI DÖNÜŞTÜR</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE6</id>
+		<word>Birden fazla LG Electronics hizmetini kullanmak için, yalnızca tek LG hesabı gereklidir. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE4</id>
+		<word>LG hesabı için e-postanızı girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CURRENT_ID</id>
+		<word>Mevcut Kimlik</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_RECEIVE</id>
+		<word>E-posta alın</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_PASSWD_GUIDE</id>
+		<word>Kişisel bilgilerin en iyi şekilde korunması için, parolayı en az altı rakam olacak şekilde değiştirin.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_EMAIL_CONVERT</id>
+		<word>Kimlik dönüştürme tamamlandı.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_SEND_AUTH_EMAIL</id>
+		<word>E-posta kimlik doğrulaması kayıtlı e-postaya gönderildi.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_SIGNUP</id>
+		<word>Kaydı tamamlamak için, kimlik doğrulama e-postasındaki Kaydı Tamamla düğmesini tıklatın. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_INCOMPLETE_EMAIL_AUTH</id>
+		<word>E-posta kimlik doğrulaması işlemi tamamlanmadı.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE7</id>
+		<word>Tüketicinin korunması için, belirli hizmetler ek bilgi gerektirir. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SINGUP_GUIDE5</id>
+		<word>Geçerli bir e-posta adresi girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE3</id>
+		<word>LG hesabı için e-postanızı ve parolanızı girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID_PASSWD</id>
+		<word>LG TV KİMLİĞİ VE PAROLASINI DÖNÜŞTÜR</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NOW_SHOW_AGAIN</id>
+		<word>Daha sonra tekrar görüntüleme.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGE_PASSWD</id>
+		<word>Parolayı Değiştir</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_OR_ID</id>
+		<word>Kimlik veya e-posta</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP_1</id>
+		<word>Kimliği Denetle</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL_1</id>
+		<word>E-posta</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CHANGE_ID_GUIDE1</id>
+		<word>Kimliğinizle değil e-postanızla oturum açın.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE1</id>
+		<word>Kişisel bilgilerinizin koşullarını kabul ettikten sonra, e-posta ve parolanızı girin. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE5</id>
+		<word>Koşulları kabul ettikten sonra, e-posta adresinizi girin. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE8</id>
+		<word>LG SMART TV hizmetlerine erişmek için koşulları kabul edin. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_AUTH_GUIDE_3</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_UNAVAILABLE_EMAIL</id>
+		<word>E-posta adresi kullanılamıyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_HOW_TO_CONFIRM_EMAIL</id>
+		<word>E-postadaki 'değişikliği tamamla' düğmesini tıklattıktan sonra oturum açabilirsiniz.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_PURCHASE_NO_RESPONSE</id>
+		<word>Kararlı durumda olmayan ağ nedeniyle ödeme sonucu doğrulanamıyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_MAKE_PURCHASE_TITLE</id>
+		<word>Satın Al</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_RESULT_CHECK_MYPAGE</id>
+		<word>SAYFAM'dan Ödeme sorgulamasında sonucu kontrol edin.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_ACTIVATE_UPTO_5</id>
+		<word>Aynı kimlikle en fazla 5 adet televizyon etkinleştirebilirsiniz. Kimliği, daha önce oturum açtığınız bir televizyon setinin Smart TV Ayarı &gt; Kimlik Yönetimi bölümünden devre dışı bırakın.</word>
+	</item>
+	<item>
+		<id>IDSTR_MEMBERJOIN</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_ERROR_ALL_INFO</id>
+		<word>Tüm bilgileri girin.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_AVAILABLE_EMAIL</id>
+		<word>E-posta adresi kullanılabilir.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_CHECKID_DUP</id>
+		<word>Geçerliliği kontrol et.</word>
+	</item>
+	<item>
+		<id>VCSTR_PASSWORD_CH</id>
+		<word>Şifre değiştirildi.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NEW_PASSWD</id>
+		<word>Yeni parola</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGED</id>
+		<word>Uygula</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_NEXT_CHANGE</id>
+		<word>Sonrakini değiştirin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_LG_SMART_WORLD</id>
+		<word>LG Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMART_WORLD</id>
+		<word>Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_MUST_CHANGE_PW</id>
+		<word>Oturum açmak için parolayı değiştirin.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_LINKED_USING_ID</id>
+		<word>Bu e-posta adresi zaten kaydedilmiş.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_EMAIL_ALEADY_USE</id>
+		<word>Bu e-posta adresi kullanılamıyor.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_CONVERTID_GUIDE1</id>
+		<word>Tek hesapla birden çok LG Electronics hizmetini kullanın.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_ALREADY_USE_EMAIL</id>
+		<word>Bu E-posta adresi zaten bu LG hesabıyla kaydedilmiş. </word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AFGHANISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALBANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ANGOLA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARGENTINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARMENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRALIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AZERBAIJAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BAHRAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELGIUM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELIZE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BENIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOLIVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOSNIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BRAZIL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BULGARIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAMEROON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CANADA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAPEVERDE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CENTRALAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHILE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COLUMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COSTRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CROATIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CUBA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CZECH</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DENMARK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DJIBOUTI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DOMONICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ECUADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_EGYPT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ELSALVADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ESTONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ETHIOPIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CONGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FINLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FRANCE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GABON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GAMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GEORGIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GERMANY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GHANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GREECE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUATEMALA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUYANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HOUNDURAS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HONGKONG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HUNGARY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ICELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDONESIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAQ</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ISRAEL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ITALY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JAPAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JORDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KAZAKHSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KENYA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KOREA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KUWAIT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KYRGYZSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LATVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LEBANON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LIBERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LITHUANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LUXEMBOURG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MACEDONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAWI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAYSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MAURITANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MEXICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MONTENEGRO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MOROCO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MYANMAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NETHERLANDS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NEWZEALAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NICARAGUA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NIGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NORWAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_OMAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PAKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PANAMA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PARAGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PERU</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PHILIPINES</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_POLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PORTUGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PUETRORICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_QATAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ROMANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RUSSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RWANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SAUDIARABIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SENEGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SERBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SIERRALEONE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SINGAPORE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVAKIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SOUTHAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SPAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SUDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWEDEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWITZERLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SYRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TAIWAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TANZANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_THAILAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TOGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TRINIDAD</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TUNISIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TURKEY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UGANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UKRAINE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UAE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_USA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_URUGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UZBEKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VIETNAM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VENEZUELA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_YEMEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ZAMBIA</id>
+	</item>
+	<item/>
+</BBKR_string>

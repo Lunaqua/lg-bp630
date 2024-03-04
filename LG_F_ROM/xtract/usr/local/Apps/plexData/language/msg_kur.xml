@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>ڕێککردنی ئه‌ژمێر</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>نێوه‌ڕۆکی گه‌وره‌ساڵ له‌ به‌رده‌ستدا نییه‌. </word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>بۆ بەکارخستنی بەرنامەی تایبەتی گەورەساڵ، بەو IDـەی کە کڕیوتە بچۆ نێو سیستمەکەوە.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>په‌سه‌ندی شوناسی گه‌وره‌ساڵ سه‌رکه‌وتوو نه‌بوو </word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>بۆ دەسگەیشتن بە ناوەرۆکی تایبەت بە گەورەساڵان، پێویستە بیسەلمێنی گەورەساڵی.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>بۆ دەسگەیشتن بەم بەرنامە، پێویستە بیسەلمێنی گەورەساڵی.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>هه‌بوونی ئه‌م پێناسه‌یه‌ بپشکنه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>ته‌له‌ڤیزیۆن له‌م به‌رنامه‌یه‌ پشتگیری ناکات.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>پله‌ی دیاریکراو به‌ کار هێنرا.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>ئێوه‌ پێشتر به‌م به‌رنامه‌ نمره‌تان داوه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>شرۆڤەی نییە</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>نه‌مسا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>ئۆسترالیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>به‌لجیكا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>برازیل</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>سویسرا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>چین</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>چێک</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>ئەڵمانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>دانیمارك</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>ئیسپانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>دیکە</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>فنله‌ندا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>فەرانسە</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>بەریتانیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>یونان</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>كرواتیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>هه‌نغاریا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>ئیتالیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>کوریای باشوور</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>لوگزامبۆرگ</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>ھولەند</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>نه‌رویج</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>پورتغال</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>ڕووسیا</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>سوید</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>ویلایەتە یەکگرتووەکانی ئەمەریکا</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>روونبوونه‌وه‌ی شوناسی ئه‌ندامی پاره‌یی جێبه‌جێ نه‌کرا.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>زانیاری بنه‌ڕه‌تی</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>بۆ گۆڕێنی ڕێککراوه‌کانی ئه‌ژمێره‌که‌ت، تکایه‌ سه‌ردانی ئه‌م ماڵپه‌ڕه‌ بکه‌: www.lgappstv.com</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>ڕۆژ</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>کاتژمێر</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>ئایتم</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>خولەک</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>مانگ</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>لێکۆڵینەوەی پارە</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>جار</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>کۆی پارە</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>بێسنوور</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>ساڵ</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>ده‌ستکاری</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>کڕین</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>تاپ خۆڕایی</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>تاپ به‌پاره‌</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>گۆڕینی به‌کارهێنه‌ر</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>پشکنینی پێناس </word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>دواوە</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>هه‌ڵوه‌شاندنه‌وه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>داخستن</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>سڕینه‌وه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>چوونه‌ده‌ر</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>نه‌خيَر</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>لاپه‌ڕه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>به‌لَىَ</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>چۆنەناوەوەی خۆکار</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>ماڵەوە</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>گواستنه‌وه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>ڕێکه‌وتی له‌دایکبوون</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>ووشەی نهێنی</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>داینه‌به‌زاند.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>به‌ هۆی خه‌تای دیسک داینه‌به‌زاند.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>به‌ هۆی هه‌ڵه‌ی سێرڤێر داینه‌به‌زاند.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>دایبه‌زاند.</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>سەرجەم</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>ئيمه‌يل</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>ئامێرى USB بچڕا.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>بۆ به‌کارهێنانی به‌رنامه‌کانی تایبه‌تی گه‌وره‌ساڵان، پێناس و وشه‌ی نهێنی تێپه‌ڕینی خۆتان بنێرنه‌ناو.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>بۆ په‌سه‌ندی ئه‌ندامه‌تی پاره‌یی خۆتان، پێناس و وشه‌ی نهێنی تێپه‌ڕینی خۆتان بنێرنه‌ناو.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>هەموو</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>دامه‌زراندن جێبه‌جێ نه‌کرا </word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>پله‌ی دیاریکراو به‌ کار نه‌هێنرا.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>بۆ په‌خشی ئه‌م به‌رنامه‌، پێویستت به‌م ئامرازانه‌ی خواره‌وه‌ هه‌یه‌،</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>ره‌گه‌ز</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>پیاو</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>ژن</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>پله‌کانی پێ بده‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>پێناس یان وڵات پێوه‌ندیدار نییه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>ID: ده‌بێت 4 تا 12 کاراکتێری ئه‌لفابێی یا ژماره‌یی بێت</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>دامه‌زراندن</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>دامه‌زراندن ته‌واو بوو</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>ئه‌م به‌رنامه‌ پێشتر له‌سه‌ر 5 تیڤی دامه‌زراوه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>دامه‌زراو</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>به‌رنامه‌ دامه‌زراوه‌کان</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>دامه‌زراندن </word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>بەهۆی ئەوەی کە مەرجە نوێکانی خزمەتکردنت قەبووڵ نەکرد لە سیستەم دەرچووی.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>پەسەندکردن</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>ڕەتکردنەوە</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>مەرجەکانی دابینکردنی خزمەت</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>تۆمارکردنی LG TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>پاسوێرده‌كه‌ وه‌كویه‌ك نیه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>له‌سه‌ر ماڵپه‌ڕه‌که‌ زانیارییه‌کانی کرێدیت کارتی خۆت بپشکنه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>زانیارییه‌کانی کرێدیت کارت بایه‌خی نییه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>ژماره‌ هه‌ڵه‌پێدانی تێپه‌ڕوشه‌ له‌ ئاستی دیاریکراو تێپه‌ڕیوه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>به‌ هه‌مان ID که‌ ئه‌م به‌رنامه‌ت پێ کڕی نمره‌ی پێ بده‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>ڕه‌ت کراوه‌ - له‌ ئاستی دیاریکراو تێپه‌ڕی.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>کانێکشنی تۆڕ یان سێرڤێر ناجێگیرە. تکایە دواتر تاقی بکەوە.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>چۆنه‌ناوه‌وه‌ی سیسته‌می تیڤی</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>ئەتوانی بە یەک ID تا 5 تیڤی چالاک بکەی. لە بەشی Smart TV Setting &gt; ID Management لەسەر ئەو تیڤییە کە پشێتر چویتەتە ناوی Idـەکەت ناچالاک بکە. </word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>ئه‌گه‌ر تۆ ئه‌ندام نیت</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>ئه‌م دوکمه‌ فشار بده‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>تۆ ته‌نیا ده‌توانی له‌ تیڤییه‌که‌ته‌وه‌ وه‌کوو ئه‌ندامێکی خۆڕایی خۆت تۆمار بکه‌ی. ئه‌گه‌ر ئه‌ته‌وێ ببیت به‌ ئه‌ندامێکی پاره‌یی یان زانیارییه‌کانت بگۆڕی، کۆمپیۆتره‌که‌ت به‌ کار بهێنه‌ و سه‌ردانی ئه‌م ماڵپه‌ڕه‌ بکه‌: www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>تێپه‌ڕوشه‌ ناشیاوه‌. ته‌نیا به‌ به‌کارهێنانی ئه‌لفابێ یا ژماره‌ 4 تا 12 کاراکتێری پێ بده‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>ئێستا تۆ وه‌کوو ئه‌ندامێکی خۆڕایی تۆمار کراوی.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>ID ناشیاوه‌. ته‌نیا به‌ به‌کارهێنانی ئه‌لفابێ یا ژماره‌ 6 تا 12 کاراکتێری پێ بده‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>ئه‌م ئای دییـه‌ پێشتر به‌ کار هێنراوه‌. تکایه‌ ئای دییـه‌کی دیکه‌ تاقی بکه‌وه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>ئه‌م ئای دییه‌ بۆ تۆ هه‌یه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>تۆ ده‌توانی به‌ یه‌ک ئای دی تا 5 دانه‌ تیڤی چالاک بکه‌ی. له‌ ڕێگه‌ی کۆمپیۆتره‌که‌ت به‌ سه‌ردانی ماڵپه‌ڕی www.lgappstv.com ڕێککارییه‌کانی چالاکسازیی خۆت بپشکنه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>په‌یوه‌ندی له‌گه‌ڵ سێرڤێربچڕاوه‌. دواتر هه‌وڵ بده‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>ئای دی وه‌/یا تێپه‌ڕوشه‌ هه‌ڵه‌یه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>دڵنیا به‌ که‌ ئای دی و تێپه‌ڕوشه‌که‌ت دروست نووسیبێت.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>چووه ‌ناوه‌وه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>به‌ تیڤی LG ناوی خۆت له‌ سیستم تۆمار بکه‌ بۆ ئه‌وه‌ی چێژ وه‌ربگری له‌ به‌شه‌کانی خزمه‌تی Premium، به‌رنامه‌کانی تیڤی، به‌رنامه‌کانی من و زۆر شتی دیکه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>ئای دی نه‌گونجاوه‌. ته‌نیا به‌ پیت و ژماره‌ 6 تا 12 کاراکتێر بنووسه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>کۆنترۆڵی دووری Magic Motion</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>به‌رنامه‌کانی من</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>زانیاریی من</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>تۆ ناتوانی ئه‌م به‌رنامه‌ ده‌ستکاری بکه‌ی</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>پێویستی به‌ تازه‌کردنه‌وه‌ هه‌یه‌. ده‌ته‌وێ تازه‌ی بکه‌یته‌وه‌؟</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>هه‌ڵه‌ت تازه‌کردنه‌وه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>نەیتوانی تۆڕ بلکێنێت. ئایا دەتەوێت تۆڕ ڕێک بکەیت؟</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>دیکە</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>ئه‌م خزمه‌ته‌ له‌ وڵاتی ده‌سنیشانکراو دا دابین ناکرێت.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>بەڕۆژکردن تەواو بوو.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>به‌رنامه‌ی دامه‌زراو نه‌بینرا.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>پێشینه‌ی کڕین نییه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>دانه‌مه‌زراوه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>وەشانی نوێی نەرمامێر ئامادەیە. ئایا دەتەوێت بەڕۆژی بکەیتەوە؟</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>پەیوەندیی تۆڕ بچڕاوە. تکایە دۆخی لکاندن بپشکنە.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>وولاَت</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>به‌رنامه‌ کڕاوه‌کان</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>تێپه‌ڕوشه‌: ده‌بێت 4 تا 12 کاراکتێری ئه‌لفابێی یا ژماره‌یی بێت</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>ئه‌گه‌ر بیسڕیته‌وه‌، چیتر له‌ به‌شی به‌رنامه‌کانی من دا نامێنێته‌وه‌. دڵنیای که‌ ده‌ته‌وێ بیسڕیته‌وه‌؟</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>ده‌ته‌وێ دایمه‌زرێنی؟</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>ئایا ده‌ته‌وێ بیکڕی؟</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>به‌ڕاستی ده‌ته‌وێ بیسڕیته‌وه‌؟</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>پله‌به‌ندییه‌کان</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>وشه‌ی نهێنی تێپه‌ڕین سه‌رله‌نوێ بنێرنه‌ناو </word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>تۆماره‌کان</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>تۆمارکردن جێبه‌جێ نه‌کرا.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>ئه‌م به‌رنامه‌ پێویستی به‌م ئامێر/انه‌ی خواره‌وه‌ هه‌یه‌:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>پێداچوونه‌وه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>هه‌ڵه‌ی روونکردنه‌وه‌ی شوناس. سه‌رله‌نوێ تێکۆشن.</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>HOT</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>لینکی میدیا</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>نوێن</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>تایبه‌ت</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>بەم زووانە</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>وێبگه‌ڕ</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>ناو </word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>روونکردنه‌وه‌ی شوناسی گه‌وره‌ساڵ </word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>روونکردنه‌وه‌ی شوناسی ئه‌ندامی پاره‌یی </word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>کۆی گشتی</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>به‌تاڵ</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>بچۆ سه‌ر My Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>ئه‌م به‌رنامه‌ پێشتر دامه‌زراوه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>هیچ ده‌یتا نییه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>وه‌شان </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>به‌ڕۆژ نه‌کرا.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>به‌ڕۆژکراو</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>خەریکی لکاندن بە ئامێری USBـە</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>بیرگه‌ی کافی بۆ کڕینی ئه‌م به‌رنامه‌ نییه‌. ئه‌گه‌ر ئامێری خزنی USB پێوه‌ بلکێنی، ده‌توانی بیکڕی.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>بیرگه‌ی کافی بۆ کڕینی ئه‌م به‌رنامه‌ نییه‌. ئامێری خزنی USB یان ئامێری دیکه‌ی خزنی پێوه‌ بلکێنه‌ و دووباره‌ هه‌وڵ بده‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>ده‌ته‌وێ ئێستا فۆرمه‌تی بکه‌ی؟ کاتێ که‌ تۆ ئه‌م USBـه‌ وه‌کوو ئامێری خزن به‌ کار ده‌هێنی، هه‌موو ده‌یتای نێو بیرگه‌ی USB ده‌سڕدرێته‌وه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>فۆرمه‌ت ته‌واو بوو. ده‌توانی ئامێری خزنی ده‌ره‌کی وه‌کوو بیرگه‌ی زیادی بۆ به‌رنامه‌کان به‌ کار بهێنی.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>فۆرمه‌ت له‌ حاڵی ئه‌نجام دایه‌. له‌ ماوه‌ی فۆرمه‌تکردن دا، تیڤییه‌که‌ مه‌کوژێنه‌وه‌ و هه‌روه‌ها ئامێری USB لێ مه‌که‌نه‌وه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>ده‌یتا له‌سه‌ر بیرگه‌ی ده‌ره‌کیی USB خزن کراوه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>به‌کارهێنراو</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>وێبکه‌م</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>به‌خێر بێی بۆ Smart TV</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>دواوە</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>گەڕان</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>چوونەناوەوە</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>ھاتنەدەرەوە</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>بەم زووانە</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>ئاگاداری</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>ئاگاداری</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>وه‌شانێکی نوێتری ئه‌م نه‌رمامێره‌ دۆزرایه‌وه‌. ده‌ته‌وێ هه‌ر ئێستا به‌ڕۆژی بکه‌ی؟</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>خه‌ریکی به‌ڕۆژکردن و دابه‌زاندنی نه‌رمامێره‌. له‌ ماوه‌ی به‌ڕۆژکردن دا تیڤییه‌که‌ مه‌کوژێنه‌وه‌ یان کێبلی تۆڕ ده‌ر مه‌هێنه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>نه‌رمامێر به‌ڕۆژ کرا.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>وڵاتی دیاریکراو</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>له‌ کاتی به‌ڕۆژکردنی نه‌رمامێری نوێ دا تیڤی مه‌کوژێنه‌وه‌ و په‌یوه‌ندیی تۆڕ مه‌پچڕه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>وه‌شانێکی نوێ له‌ نه‌رمامێره‌که‌ په‌یدا کرا و به‌ڕۆژ ده‌کرێته‌وه‌.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>نوێكردنه‌وه‌ى به‌رنامه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>ئیزافەکردن...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>دامەزراندن</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>ئه‌م خزمه‌ته‌ له‌ وڵاتی ده‌سنیشانکراو دا دابین ناکرێت.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>وێبگه‌ڕ</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Media Link</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>ده‌ست پێ بکه‌</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>دۆزینه‌وه‌ی وڵات بۆ خزمه‌تگوزاریی ئیمکانی نییه‌. داخوا ده‌تانه‌وێت وڵاته‌که‌ ئێستا هه‌ڵبژێرن؟</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>ڕێککردنی وڵات</word>
+	</item>
+	<item/>
+</BBKR_string>

@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Бейіндерді күйге келтіру</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Ересектерге арналған мазмұн қол жетімді емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Ересектер бағдарламасын іске қосу үшін сатып алған идентификаторыңызбен кіріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Ересектер расталмады.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Ересектерге арналған мазмұнға өту үшін ересектігін тексеру қажет етіледі.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Бұл бағдарламаға кіру үшін ересектігін тексеру қажет етіледі.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Бұл идентифкатордың бар болуын тексеріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Сіз төленген мүше емессіз. Бұл бағдарламаны сатып алу үшін төленген мүше ретінде www.lgappstv.com сайтына тіркеліңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>Теледидар бұл бағдарламаға қолдау көрсетпейді.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Баға берілді</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Бұл бағдарламаны сатып алуға жад жеткілікті емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Бұл бағдарламаны бағалап қойдыңыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Шолулар жоқ</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Австрия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Австралия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Бельгия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Бразилия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Швейцария</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>Қытай</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Чех</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Алмания</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Дания</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Испания</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Басқа қалалар</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Финляндия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Франция</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>Ұлыбритания</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Грекия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Хорватия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Венгрия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Италия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Оңтүстік Корея</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Люксембург</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Нидерланд</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Норвегия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Португалия</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Ресей</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Швеция</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>АҚШ</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Төленген мүшеліктің түпнұсқалығы расталмады.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Негізгі ақпарат</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Бейіннің күйлеулерін өзгерту үшін www.lgappstv.com сайтына кіріп шығыңыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>күн</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Мерз өткен</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>сағ</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Элемент</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>мин</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>ай</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Төлеуді сұрау</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_RESERVES_CASH</id>
+		<word>Есеп балансы</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>уақыт(тар)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Жалпы төлем мөлшері</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Шексіз</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>жыл</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_PURCHASE_AMOUNT</id>
+		<word>Төлем мөлшері</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Өңдеу</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Сатып алу</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Ақысыз үздіктер</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Ақылы үздіктер</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Пайдаланушыны өзгерту</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Идентификаторын тексеріңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Артқа</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Болдырмау</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Жабу</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Жою</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Шығу</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Жоқ</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Бет</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Иә</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Авто кіру</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Негізгі бет</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Жылжыту</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_STATUS_NETWORK</id>
+		<word>Желі байланысы немесе күйі нашар.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Бұл қызметке кіру мүмкін емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Туған күні</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Құпия сөз</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Көшіру іске аспады</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Дисктің қатесімен байланысты көшіру іске аспады.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Көшіру сервердің қатесіне байланысты жүзеге аспады.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>Көшіру орындалды.</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Қорыт.</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>Электрондық пошта</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>USB құрылғысы ажыратылған.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Тек ересектерге арналған бағдарламаларды пайдалану үшін идентификаторыңыз бен құпиясөзіңізді енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Төленген мүшелікті тексеру үшін идентификаторыңыз бен құпиясөзіңізді енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>Бәрі</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Орнатылмады</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Баға беру іске аспады.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Бұл бағдарламаны ойнату үшін төмендегі функциялар қажет.</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Тек</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Ер</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Әйел</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Баға беру.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>Идентификатор немесе ел сәйкес келмейді.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>Есепке алу жазбасының атауы: 6~12 таңбалар, әріптер немесе сандар</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>орнату</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Орнату аяқталды</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Қосымша 5 ТД орнатылды</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Орнатылды</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Орнатылған қосымшалар</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Орнатылуда</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Жаңа қызмет көрсету туралы шарттармен келіспегендіктен жүйеден шықты.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Келісу</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Келіспеу</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Қызмет ету шарттары</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>LG TV-ға тіркелу</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Құпия сөз сәйкес емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Өзіңіздің несиелік карточкаңыз туралы мәліметтерді веб-сайт арқылы тексеріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Несиелік карточка туралы мәліметтер шынайы емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Қате парольді енгізу саны шектен шығып кетті.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Сіз иемденген қосымша үшін ИД бағаларын беру.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Ауытқу - Шектеулі мөлшері асып кетті.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Желі немесе сервер байланысы тұрақсыз. Кейінірек қайталап көріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>ТА жүйесіне кіріңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Бір идентификатормен 5 теледидарға дейін іске қосуға болады. Бұрын кірген теледидардан Smart TV параметрі &gt; Идентификатор басқару тармағынан идентификаторды өшіріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Егер Сіз </word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Осы түймешікті басыңыз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>Өз ТД баспасаңыз, сіз тегін пайдаланушы ретінде ғана тіркеле аласыз. Егер ақылы пайдаланушы болғыңыз немесе өз деректеріңізді өзгерткіңіз келсе, ЖК қолданып, www.lgappstv.com сайтына кіріп шығыңыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Қате пароль; Тек қана әріптер мен сандарды пайдалана отырып, 4~12 таңбадан тұратын парольды енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Сіз тегін пайдаланушы ретінде тіркелдіңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>Қате ИД; Тек қана әріптер мен сандарды пайдалана отырып, 4~12 таңбадан тұратын ИД енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>Есептік жазба қолданылуда. Басқа есімді енгізіп көріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>Есептік жазба бос</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Бір есептік жазбадан 5 ТД дейін белсендіруге болады. ЖК арқылы www.lgappstv.com сайтына кіріп, активация күйлеулерін тексеріңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Сервер сөндірулі. Талпынысты кешірек қайталап көріңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>Қате есім және/немесе құпия сөз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Есім мен құпия сөздің дұрыстығын тексеріңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Кіріс орындалды</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Premium сервисіне, ТД-қосымшалар және басқаларына LG TV арқылы жазылыңыз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Есептік жазба қате көрсетілген.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_INCORRECT_ID_PWD</id>
+		<word>Пайдаланушы идентификаторы немесе құпиясөз қате.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Magic Motion қашықтан басқару құралы</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>Менің қосымшаларым</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Менің ақпаратым</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Сіз бұл қосымшаны редакциялай алмайсыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Жаңарту қажет  Жаңартуды бастауды қалайсыз ба?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Жаңарту қатесі</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_APPS</id>
+		<word>Бағдарламалар жүктелмеді.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Желі қосылмады. Желі орнатылсын ба?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Басқа қалалар</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Таңдалған елде қызмет қол жетімді емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Жаңарту аяқталды.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Орнатылған бағдарламалар табылмады.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Сатып алу туралы журнал жоқ.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Орнатылған жоқ</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>Бағдарламалық құралдың жаңа нұсқасы дайын. Оны жаңарту керек пе?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Желі ажыратылған. Қосылымды тексеріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>ЕЛ</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Сатып алынған қосымшалар</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Пароль: 4~12 таңбалар, әріптер немесе сандар</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Егер сіз қосымшаны жойсаңыз, ол Менің қосымшаларым бөлімінде қолжетімсіз болады. Сіз қосымшаны шынымен жойғыңыз келе ме?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Сіз шынымен орнатқыңыз келе ме?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Сіз шынымен сатып алғыңыз келе ме?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Сіз шынымен жойғыңыз келе ме?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Беделбелгі</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Құпиясөзді қайта енгізіңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Тіркеу</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Тіркелмеді.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Бұл бағдарламаға төмендегі құрылғы(лар) қажет етіледі:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Қарап шығу </word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Түпнұсқалық растау қатесі. Кейінірек қайталап көріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SEARCH_LABEL_PRICE</id>
+		<word>Баға</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>Ыстық</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Мультимедиалық сілтеме</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>ЖАҢА</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Премиум</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Одан әрі қарау</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Веб-шолушы</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Аты</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_ENTER_TEMP</id>
+		<word>Enter</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_IN_OK</id>
+		<word>OK </word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_SIGN_UP</id>
+		<word>Тіркелу</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOM_MSG_1</id>
+		<word>Social Center қызметіне қош келдіңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_SNS_WELCOME_MSG_3</id>
+		<word>Social Center қызметін қолдану үшін [Тіркелу] опциясын таңдап, LG TV есептік жазбасын жасаңыз немесе [Enter] опциясын таңдап, іске қосыңыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Ересектігін растау</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Төленген мүшелігін растау</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Жалпы</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Тегін</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Менің қосымшаларым тарауына ауысу</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Бұл қосымша орнатылмаған.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Мәліметтер жоқ</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Нұсқа  </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Жаңарту іске аспады</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Жаңартылды</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>USB құрылғысына қосылу</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Бұл қосымшаны иемдену үшін, жадын жеткіліксіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Бұл қосымшаны иемдену үшін, жадын жеткіліксіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Қазір форматтағыңыз келе ме? Есте сақтау құрылғысы ретінде Сіз USB пайдаланған кезде USB жадынындағы барлық мәліметтер жойылып кететін болады.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Форматтау аяқталды. Қосымша үшін қосымша жадын ретінде сыртқы есте сақтау құрылғысын пайдалануға болады.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Форматтау орындалуда. Форматтау кезінде ТА немесе USB-байланычтырғышты ажыратпаңыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Мәліметтер USB сыртқы жадынында сақталған болады.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Пайд.</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Веб-камера</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Smart TV-қа қош келдіңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Артқа</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>Пайдаланушы аты</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Іздеу</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Кіру</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Шығу</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Одан әрі қарау</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Хабарлау</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Хабарлама</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Қосымшаның жаңа нұсқасы табылды. Сіз нұсқаны қазір жаңартқыңыз келе ме?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION_ORIGINAL</id>
+		<word>Бағдарламалық қамтамасыздандыруды жаңарту және көшіру орындалады. Жаңару барысында ТД сөндіруге немесе желілік кабельді суырып алуғы БОЛМАЙДЫ.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Бағдарламалық қамтамасыздандыруды жаңарту және көшіру орындалады. Жаңару барысында ТД сөндіруге немесе желілік кабельді суырып алуғы БОЛМАЙДЫ.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Бағдарламалық қамтамасыздандыруды жаңарту аяқталды</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Елді ағымдық таңдау</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>Бағдарламалық қамтамасыздандырылудың жаңарылу кезінде ТА және желіні ажыратпаңыз</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Бағдарламалық қамтамасыздандырудың анағұрлым жаңа болжамы табылды және жүктелді</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Бағдарламаны жаңарту</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Жүктеу...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Орнату</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Таңдалған елде қызмет қол жетімді емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Веб-шолушы</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Мультимедиалық сілтеме</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Қалпына келтіру</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Қызмет үшін елді табу мүмкін емес. Қазір елді таңдағыңыз келе ме?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Параметрлер тақтасынан бағдарламалық құралды жаңартыңыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Аймақтық күйлеулер </word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_WRONGPASSWD_GUIDE</id>
+		<word>6~12 таңба, әліпби немесе сандар.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CURRENT_PASSWD</id>
+		<word>Ағымдағы құпиясөз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CONFIRM_NEW_PASSWD</id>
+		<word>Жаңа құпиясөзді растаңыз</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID</id>
+		<word>LG TV ИДЕНТИФИКАТОРЫ МЕН ҚҰПИЯСӨЗДІ ТҮРЛЕНДІРУ</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE6</id>
+		<word>Бірнеше LG Electronics қызметін пайдалану үшін бір-ақ LG есептік жазбасы қажет. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE4</id>
+		<word>LG есептік жазбасы үшін электрондық поштаңызды енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CURRENT_ID</id>
+		<word>Ағымдағы идентификатор</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_RECEIVE</id>
+		<word>Электрондық хабар алыңыз</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_PASSWD_GUIDE</id>
+		<word>Жеке ақпаратты жақсы қорғау үшін құпиясөзді алты таңбадан асатынымен өзегртіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_EMAIL_CONVERT</id>
+		<word>Идентификатор түрлендіру аяқталды.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_SEND_AUTH_EMAIL</id>
+		<word>Электрондық пошта түпнұсқалығы тіркелген электрондық поштаға жіберілді.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_COMPLETE_SIGNUP</id>
+		<word>Тіркеуді аяқтау үшін аутентификациялық электрондық пошта хабарындағы "Тіркеуді аяқтау" түймесін басыңыз. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_INCOMPLETE_EMAIL_AUTH</id>
+		<word>Электрондық пошта түпнұсқалығын растау процесі аяқталмады.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE7</id>
+		<word>Тұтынушыны қорғау үшін белгілі бір қызметтерге қосымша ақпарат қажет. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SINGUP_GUIDE5</id>
+		<word>Электрондық пошта мекенжайын дұрыс енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_SIGNUP_GUIDE3</id>
+		<word>LG есептік жазбасы үшін электрондық пошта мен құпиясөзді енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CONVERT_ID_PASSWD</id>
+		<word>LG TV ИДЕНТИФИКАТОРЫ МЕН ҚҰПИЯСӨЗДІ ТҮРЛЕНДІРУ</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NOW_SHOW_AGAIN</id>
+		<word>Қайтадан көрсетпеңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGE_PASSWD</id>
+		<word>Құпиясөзді өзгерту</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_OR_ID</id>
+		<word>Идентификатор немесе электрондық пошта</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP_1</id>
+		<word>Идентификаторын тексеріңіз</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL_1</id>
+		<word>Электрондық пошта</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_CHANGE_ID_GUIDE1</id>
+		<word>Идентификаторыңызбен емес, электрондық поштаңызбен кіріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE1</id>
+		<word>Жеке ақпаратыңыздың шарттарымен келіскеннен кейін, электрондық поштаңыз бен құпиясөзді енгізіңіз. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE5</id>
+		<word>Шарттармен келіскен соң, электрондық поштаңыздың мекенжайын енгізіңіз. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_AGREE_TERMS_GUIDE8</id>
+		<word>LG SMART TV қызметтеріне кіру үшін шарттармен келісіңіз. </word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_AUTH_GUIDE_3</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_UNAVAILABLE_EMAIL</id>
+		<word>Электрондық пошта мекенжайы жоқ.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_HOW_TO_CONFIRM_EMAIL</id>
+		<word>Сіз электрондық поштадағы "өзгеруді тоқтату"  түймесін  басып   жүйеге кіре аласыз</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_PURCHASE_NO_RESPONSE</id>
+		<word>Тұрақсыз желіге байланысты төлем нәтижесін тексеру мүмкін емес.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_MAKE_PURCHASE_TITLE</id>
+		<word>Сауда жасау</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_BILLING_RESULT_CHECK_MYPAGE</id>
+		<word>МЕНІҢ БЕТІМ ішінен алынған төлем сұрауының нәтижесін тексеріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_ACTIVATE_UPTO_5</id>
+		<word>Бір идентификатормен 5 теледидарға дейін іске қосуға болады. Бұрын кірген теледидардан Smart TV параметрі &gt; Идентификатор басқару тармағынан идентификаторды өшіріңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_MEMBERJOIN</id>
+		<word>X</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_ERROR_ALL_INFO</id>
+		<word>Барлық ақпаратты енгізіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_RMEMBER_INFO_AVAILABLE_EMAIL</id>
+		<word>Электрондық пошта мекенжайы бар.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_SIGNUP_CHECKID_DUP</id>
+		<word>Жарамдылығын тексеріңіз.</word>
+	</item>
+	<item>
+		<id>VCSTR_PASSWORD_CH</id>
+		<word>Пароль изменен.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_NEW_PASSWD</id>
+		<word>Жаңа құпиясөз</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_CHANGED</id>
+		<word>Қолдану</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_EMAIL_NEXT_CHANGE</id>
+		<word>Келесі жолы өзгертіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_LG_SMART_WORLD</id>
+		<word>LG Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMART_WORLD</id>
+		<word>Smart World</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_MUST_CHANGE_PW</id>
+		<word>Кіру үшін құпиясөзді өзгертіңіз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_LINKED_USING_ID</id>
+		<word>Бұл электрондық пошта мекенжайы тіркелген.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_EMAIL_ALEADY_USE</id>
+		<word>Бұл электрондық пошта мекенжайы жоқ.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_MBSH_CONVERTID_GUIDE1</id>
+		<word>Бірнеше LG Electronics қызметін бір есептік жазбамен пайдаланыңыз.</word>
+	</item>
+	<item>
+		<id>IDSTR_SMTV_LOGIN_ALREADY_USE_EMAIL</id>
+		<word>Бұл электрондық пошта мекенжайы осы LG есептік жазбасымен тіркеліп қойды. </word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AFGHANISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALBANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ALGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ANGOLA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARGENTINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ARMENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRALIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AUSTRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_AZERBAIJAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BAHRAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELGIUM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BELIZE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BENIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOLIVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BOSNIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BRAZIL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_BULGARIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAMEROON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CANADA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CAPEVERDE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CENTRALAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHILE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CHINA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COLUMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_COSTRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CROATIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CUBA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CZECH</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DENMARK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DJIBOUTI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_DOMONICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ECUADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_EGYPT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ELSALVADOR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ESTONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ETHIOPIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_CONGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FINLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_FRANCE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GABON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GAMBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GEORGIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GERMANY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GHANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GREECE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUATEMALA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_GUYANA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HOUNDURAS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HONGKONG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_HUNGARY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ICELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_INDONESIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRAQ</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_IRELAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ISRAEL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ITALY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JAPAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_JORDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KAZAKHSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KENYA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KOREA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KUWAIT</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_KYRGYZSTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LATVIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LEBANON</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LIBERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LITHUANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_LUXEMBOURG</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MACEDONIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAWI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALAYSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MALI</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MAURITANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MEXICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MONTENEGRO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MOROCO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_MYANMAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NETHERLANDS</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NEWZEALAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NICARAGUA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NIGERIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_NORWAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_OMAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PAKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PANAMA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PARAGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PERU</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PHILIPINES</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_POLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PORTUGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_PUETRORICO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_QATAR</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ROMANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RUSSIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_RWANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SAUDIARABIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SENEGAL</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SERBIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SIERRALEONE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SINGAPORE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVAKIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SLOVENIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SOUTHAFRICA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SPAIN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SUDAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWEDEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SWITZERLAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SYRIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TAIWAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TANZANIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_THAILAND</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TOGO</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TRINIDAD</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TUNISIA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_TURKEY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UGANDA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UKRAINE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UAE</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UK</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_USA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_URUGUAY</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_UZBEKISTAN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VIETNAM</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_VENEZUELA</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_YEMEN</id>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_ZAMBIA</id>
+	</item>
+	<item/>
+</BBKR_string>

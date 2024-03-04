@@ -1,0 +1,28 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">9I5KSPJ35757NPOZP55C86C27S58Z3396NKK39J965JN39J73S33P3I3C8NPK95Z2SP6KKIJP7K79O5I3JJ8ZZJ2985C7939NI7KNZ3676CN3JJ752JZS8OOK3JZPZZ8SK5N93SC2PO2ZZ22786S658ICZNSN6820238</Value>
+  <Value Key="UserName">72II365IS2O86P8NS5P3P29KSNO3N8O57O3KJ7838N9NPNZZJSK7I6IO867I8C88IZP95JN3Z97PS988NP5IKNZ36K55NS37PIJNJNZ5PJ85IJ6CZ2P9N9NSK26876569649</Value>
+  <Value Key="Password">SSKKCKPO77CO7JC56JJI8Z3IZ68998C2ZNN88627J8S982666K283SNNZJ8CC2NK28757K886K8K8I8I338883PNNJ8ZPSIS8SCPN6J7JZ62JZ36I7O5NO96IC3ZJJI973IJZCC77PNP6KJKCSCPOKSSK72I99I58063</Value>
+  <Value Key="DestinationTypeID">573</Value>
+  <Value Key="DeviceTypeName">LG Blu-Ray Player</Value>
+  <Value Key="StoreName">CinemaNow</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">10485760</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort"/>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">700</Value>
+  <Value Key="StoreURL">http://www.cinemanow.com</Value>
+  <Value Key="ActivationURL">www.cinemanow.com/start</Value>
+  <Value Key="SupportURL">www.cinemanow.com/support</Value>
+  <Value Key="BillingURL">www.cinemanow.com/billing</Value>
+  <Value Key="ServiceBaseURL"/>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">false</Value>
+  <Value Key="FirstContinuousKeyInterval">2000</Value>
+</Settings>

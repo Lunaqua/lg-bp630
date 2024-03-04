@@ -1,0 +1,3 @@
+#export TRUSTED_CA_FILE_PATH=/usr/local/etc/devicekey/trusted_cas.pem
+export CLIENT_CERT_KEY_FILE_PATH="/usr/share/browser/devicekey/bbc_device.pem;/usr/share/browser/devicekey/bbc_device.key;"
+

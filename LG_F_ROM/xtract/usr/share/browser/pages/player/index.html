@@ -1,0 +1,70 @@
+<html>
+	<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="styles.css"/>
+	<script type="text/javascript" src="keycode.js"></script>
+	<script type="text/javascript" src="players.js"></script>
+	<script type="text/javascript" src="base64.js"></script>
+</head>
+
+<body background="#000000" onselectstart="return false">
+	<div id="loadingAni"><img src="file:///usr/share/browser/pages/res/loading.gif"/></div>
+
+	<div id="bimg"></div>
+	<div id="container" class="container">
+		<div class="playerArea">
+			<div id="playerDiv" class="player">
+				<div class="video"></div>
+				<div id="controls" class="controls">
+					<div id="controlPlay" class="play"></div>
+					<div id="barDiv" class="bar">
+					<!-- hkyoum
+						<div id="jumpover" class="jumpover" style="left: 0%"></div>
+					-->	
+						<div id="dragDiv" class="drag" style="left: 0%"></div>
+						<div id="bufferBar" class="buffer" style="width:0%"></div>
+						<div id="progressBar" class="progress" style="width:0%"></div>
+					</div>
+					<div class="time">
+						<div id="currentTime" class="currentTime">Loading...</div>
+						<div id="totalTime" class="totalTime"></div>
+					</div>
+					<div id="networkDiv" class="network l1"></div>
+					<div id="title">
+					<!--
+						<div id="tit1"></div>
+						<div id="tit2"></div>
+					-->	
+					</div>
+					<div class="bg"></div>
+				</div>
+			</div>
+		</div>
+
+		<div id="footer" class="footer">
+			<ul>
+<!-- hkyoum
+				<li id="qMenu_bt" class="quickMenu"><span></span>Option</li>
+				<li id="ratio_bt" class="ratio"><span></span>Ratio</li>
+				<li class="blank"><span></span></li>
+-->
+<!-- hkyoum
+				<li id="netCast_bt" class="blue"><span></span>NetCast</li>
+-->
+				<li class="blank"><span></span></li>
+				<li id="return_bt" class="return"><span></span>Back</li>
+			</ul>
+		</div>
+	</div>
+<!--
+	<div id="error_popup" style="position:absolute; visibility:hidden; left:292px; top:184px; width:682px; height:337px; z-index:20; ">
+		<img src='./popup_new.png'/>	
+		<div id='errorTitle' align="center" style="position:absolute; left:0px;top:150px;width:682px; height:57px;">Can not access this service.</div>
+	</div>
+-->
+	<div id="debug"></div>
+	<div id="mediaInfo"></div>
+	<script type="application/javascript">runPlayer();</script>
+</body>
+</html>

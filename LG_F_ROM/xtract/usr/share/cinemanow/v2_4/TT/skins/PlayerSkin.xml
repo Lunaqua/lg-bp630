@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin>
+  <Sets>
+    <Set resolution="1080" img="PlayerSkin1080.png"/>
+    <Set resolution="720" img="PlayerSkin720.png"/>
+    <Set resolution="540" img="PlayerSkin540.png"/>
+  </Sets>
+  <Bitmaps>
+    <Bitmap id="playIcons" x="0" y="0" w="36" h="28" count="7"/>
+    <Bitmap id="playIconsDark" x="322" y="0" w="36" h="28" count="7"/>
+    <Bitmap id="transportModeIndicatorBackground" x="544" y="0" w="64" h="66" scale9Grid="26 28 4 4"/>
+    <Bitmap id="positionLocator" x="0" y="28" w="84" h="84" count="2"/>
+    <Bitmap id="hdIcon" x="266" y="0" w="48" h="28"/>
+    <Bitmap id="51Icon" x="266" y="28" w="48" h="28"/>
+    <Bitmap id="ccIcon" x="266" y="56" w="48" h="28"/>
+    <Bitmap id="thxIcon" x="172" y="90" w="158" h="32"/>
+    <Bitmap id="dd20Logo" x="608" y="32" w="128" h="28"/>
+    <Bitmap id="dd51Logo" x="608" y="0" w="184" h="28"/>
+    <Bitmap id="dtsLogo" x="608" y="66" w="148" h="28"/>
+    <Bitmap id="transportBar" x="172" y="28" w="68" h="34" scale9Grid="56 2 4 30"/>
+    <Bitmap id="transportBarFill" x="240" y="28" w="10" h="34" scale9Grid="0 0 10 20"/>
+    <Bitmap id="transportBarDarkFill" x="250" y="28" w="10" h="34" scale9Grid="0 0 10 20"/>
+    <Bitmap id="playbackControlPrev" x="0" y="124" w="158" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlRew" x="158" y="124" w="154" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlPause" x="312" y="124" w="154" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlPlay" x="466" y="124" w="154" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlStop" x="620" y="124" w="154" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlFfwd" x="774" y="124" w="154" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlNext" x="928" y="124" w="160" h="70" count="2" direction="vertical"/>
+    <Bitmap id="qualityBar" x="346" y="34" w="14" h="66"/>
+    <Bitmap id="qualityBarFill" x="362" y="34" w="14" h="66"/>
+    <Bitmap id="pauseIcon" x="378" y="34" w="34" h="42"/>
+    <Bitmap id="statusBackground" x="1090" y="0" w="4" h="178"/>
+    <Bitmap id="panelBackground" x="1098" y="0" w="4" h="276"/>
+    <Bitmap id="playbackControlClosedCaptioningOn" x="1104" y="124" w="96" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlClosedCaptioningOff" x="1200" y="124" w="96" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlClosedCaptioningUnavailableOn" x="1296" y="124" w="96" h="70" count="2" direction="vertical"/>
+    <Bitmap id="playbackControlClosedCaptioningUnavailableOff" x="1392" y="124" w="96" h="70" count="2" direction="vertical"/>
+  </Bitmaps>
+</Skin>

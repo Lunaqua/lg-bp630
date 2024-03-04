@@ -1,0 +1,6 @@
+LG_F_ROM/LG_BD_8110M60.ROM.bak filter=lfs diff=lfs merge=lfs -text
+LG_F_ROM/LG_BD_8110M60.ROM filter=lfs diff=lfs merge=lfs -text
+LG_F_ROM/LG_BD_8110M60_PATCH.ROM filter=lfs diff=lfs merge=lfs -text
+LG_F_ROM/img_sqfs.sqfs filter=lfs diff=lfs merge=lfs -text
+LG_F_ROM/new.sqfs filter=lfs diff=lfs merge=lfs -text
+ghidra_stuff/bdprog.rep/idata/00/~00000000.db/db.2.gbf filter=lfs diff=lfs merge=lfs -text

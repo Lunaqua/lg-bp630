@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+     <entry>
+        <input type="aekey">AEKEY_PLAYPAUSE</input>
+        <output type="aekey">AEKEY_PAUSE</output>
+    </entry>
+</keymap>
+

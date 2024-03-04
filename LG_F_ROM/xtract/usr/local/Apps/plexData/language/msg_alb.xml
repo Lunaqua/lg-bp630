@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Parametrat e llogarisë</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Përmbajtja për të rritur nuk disponohet.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Për të nisur aplikimin për të rritur, regjistrohuni me ID tuaj që keni blerë.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Vërtetimi për të rriturit dështoi.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Për të patur qasje tek përmbajtjet për të rritur, duhet një verifikim për të rritur.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Për t'iu çasur këtij aplikacioni, duhet një verifikim për të rritur.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Kontrollo disponueshmërinë për këtë ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Nuk jeni anëtar me pagesë. Për ta blerë këtë aplikacion, regjistrohuni si anëtar me pagesë në www.lgappstv.com</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>TV-ja nuk e mbështet këtë aplikacion.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Klasifikimi u aplikua.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Nuk ka memorje të mjaftueshme për ta blerë këtë aplikacion.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Sapo keni dhënë një vlerësim për këtë aplikacion.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Nuk ka Rishikime</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Austri</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Australi</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Belgjikë</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Brazil</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Zvicër</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>Kinë</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Çeki</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Gjermani</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Danimarkë</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Spanjë</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Të tjera</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Finlandë</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Francë</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>Mbretëri e Bashkuar</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Greqi</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Kroaci</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Hungari</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Itali</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Kore e Jugut</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Luksemburg</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Holandë</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Norvegji</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Portugali</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Rusi</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Suedi</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>SHBA</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Autentikimi i anëtarësimit me pagesë dështoi.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Informacion bazë</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Për të ndryshuar parametrat e llogarisë, vizito www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>ditë</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>orë</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Elementi</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>min</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>muaj</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Kërkesë për Pagesë</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>herë</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Shuma totale e pagesës</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>E pakufizuar</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>vit(e)</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Modifiko</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Bli</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Kryesoret falas</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Kryesoret me pagesë</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Ndrysho përdorues</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Kontrolloni ID-në</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Mbrapa</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Anulo</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Mbyll</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Fshi</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Dil</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Jo</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Faqe</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Po</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Lidhje auto.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Faqja bazë</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Zhvendos</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Datëlindja</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Fjalëkalimi</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Shkarkimi dështoi</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Shkarkimi dështoi për shkak të defektit në disk.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Shkarkimi dështoi për shkak të defektit në server.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>U shkarkua me sukses</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Total</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>Emaili</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>Pajisja USB u shkëput.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Për të përdorur aplikacionet vetëm për të rritur, futni ID-në ose fjalëkalimin tuaj.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Futni ID-në dhe fjalëkalimin për të verifikuar anëtarësinë tuaj me pagesë.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>Të Gjitha</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Instalimi dështoi</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Aplikimi i klasifikimit dështoi.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Për ta luajtur këtë aplikacion, juve ju nevojiten funksionet e mëposhtme,</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Gjinia</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Mashkull</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Femër</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Jep klasifikim</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>ID-ja ose shteti nuk përputhet.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>ID: 6~12 karaktere, germa ose numra</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>instalo</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Instalimi u krye.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Aplikacioni është instaluar tashmë në 5 TV.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Instaluar</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Aplikacionet e instaluara</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Po instalohet</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Është çkyçur për shkak të mospajtimit me Kushtet e reja të Shërbimit.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Pranoj</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Nuk pranoj</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Kushtet e Shërbimit</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>Regjistrimi LG TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Fjalëkalimet nuk përputhen.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Kontrollo informacionin e kartës së kreditit në uebsajt.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Informacioni i kartës së kreditit është i pavlefshëm.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Numri i tentativave për vendosjen e fjalëkalimit e ka kaluar limitin.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Jep klasifikim me ID-në me të cilën ke blerë këtë aplikacion.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Refuzohet - Është tejkaluar limiti.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Lidhja me rrjetin ose serverin është e paqëndrueshme. Provo përsëri më vonë.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>Hyr në TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Mund të aktivizosh deri në 5 TV me të njëjtën ID. Çaktivizo ID-në te Cilësimi Smart TV &gt; Menaxhimi i ID-së nga një TV ku je lidhur më parë.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Nëse nuk je anëtar</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Shtyp këtë buton.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>Nga TV yt mund të regjistrohesh vetëm si anëtar pa pagesë. Nëse dëshiron të bëhesh anëtar me pagesë ose të ndryshosh info. personal, përdor PC dhe vizito www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Fjalëkalim i papërshtatshëm. Vendosni 4~12 karaktere duke përdorur vetëm germa dhe numra.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Tani je regjistruar si anëtar pa pagesë.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>ID e papërshtatshme. Vendos 6~12 karaktere duke përdorur vetëm germa ose numra.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>Kjo ID është në përdorim. Zgjidh një ID tjetër.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>ID e disponueshme</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Mund të aktivizosh deri në 5 TV me të njëjtën ID. Kontrollo parametrin e aktivizimit nga PC duke vizituar www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Serveri u shkëput. Provo sërish më vonë.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>ID dhe/ose fjalëkalim i pasaktë</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Sigurohu që të vendosësh ID dhe fjalëkalim të saktë.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Hyrja me sukses.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Regjistrohu me LG TV për të shijuar shërbimin Premium, aplikacionet TV, Aplikacionet e mia, e më shumë.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Fjalëkalim i papërshtatshëm.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Telekomanda Magic Motion</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>Aplikacionet e mia</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Informacionet e mia</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Këtë aplikacion nuk mund ta redaktosh.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Ka nevojë për përditësim. Dëshiron ta përditësosh?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Defekt në përditësim</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Dështoi të lidhej me rrjetin.Dëshironi ta vendosni rrjetin?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Të tjera</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Ky shërbim nuk disponohet në vendin e zgjedhur.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Përditësimi përfundoi!</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Nuk gjenden aplikacione të instaluara.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Nuk ka historik për blerje.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Nuk është instaluar</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>Versioni i ri i softuerit është gati. Dëshironi ta përditësoni?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Rrjeti është shkëputur. Ju lutemi kontrolloni lidhjen.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Shteti</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Aplikacionet e blera</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Fjalëkalimi: 4~12 karaktere, germa dhe numra</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Nëse e fshin, nuk do të jetë më në Aplikacionet e mia. A je i sigurt se dëshiron të fshish?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Dëshiron ta instalosh?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Dëshiron të blesh?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Dëshiron vërtet të fshish?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Klasifikimet</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Futeni përsëri fjalëkalimin</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Regjistro</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Regjistrimi dështoi.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Ky aplikacion kërkon pajisjen(et) e mëposhtme:</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Rishiko</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Gabim autentikimi. Provojeni përsëri më vonë.</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>KRYESORE</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Lidhja me mediat</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>I RI</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Së Shpejti</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Shfletuesi i uebit</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Emri</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Autentikimi për të rritur</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Autentikimi për anëtarësimin me pagesë.</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Totali</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Falas</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Shko te Aplikacionet e mia</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Ky aplikacion është i instaluar.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Asnjë e dhënë</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Versioni </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Përditësimi dështoi.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Përditësuar</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>Lidhja me pajisjen me USB</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Memorie e pamjaftueshme për të blerë këtë aplikacion.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Memorie e pamjaftueshme për të blerë këtë aplikacion.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Dëshiron ta formatosh tani? Kur përdor këtë USB si pajisje ruajtjeje, të gjitha të dhënat e memories USB do të fshihen.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Formatimi u krye. Pajisja e jashtme e ruajtjes mund të përdoret si memorie shtesë për Aplikacionet.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Formatimi po kryhet. Gjatë formatimit, mos e mbyll TV apo lidhjen USB.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Të dhënat janë ruajtur në memorien e jashtme me USB.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>E përdorur</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Kamera</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Mirë se vjen në Smart TV</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Mbrapa</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Kërko</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Lidhu</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Shkëputu</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Së Shpejti</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Njoftim</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Njoftimi</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Është gjetur një version i ri i aplikacionit. Dëshiron ta përditësosh tani?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Përditësimi dhe shkarkimi i softit duke u kryer. MOS e fik pajisjen dhe mos e hiq spinën e rrjetit gjatë përditësimit.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Përditësimi i softuerit përfundoi.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Vendi i parametr. aktual</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>Mos e fik TV dhe mos e shkëput nga rrjeti gjatë përditësimit të softuerit të ri.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Është gjetur dhe përditësuar një version i ri i softit.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Përditësim i softuerit</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Në ngarkim...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Konfigurimi</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Ky shërbim nuk disponohet në vendin e zgjedhur.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Shfletuesi i uebit</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Lidhja me mediat</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Nis</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Nuk mund të gjendet shteti për shërbimin. Dëshironi ta zgjidhni shtetin tani?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Përditësoni softuerin nga paneli i Cilësimeve.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Parametri i shtetit</word>
+	</item>
+	<item/>
+</BBKR_string>

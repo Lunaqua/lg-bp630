@@ -1,0 +1,1285 @@
+[ LG browser release notes ]
+
+22 Feb. 2011 (r1567)
+    - headweb browser crash problem issue fixed
+      > scroll bar modification(for web browser) made problem, so fix this issue
+    - For BBCP, when browser is closed browser process is killed(Back/Premium/Home/Exit)
+      > but, when loading icon is running and Back/Premium/Home/Exit key - stop loading - then browser is not killed
+      > this means, as soon as browser is launched, opens init.html and go to background
+    - For BBCP, set the max memory size(run3556, MAX_USED_SYSTEM_MEMORY, 70MB) and if browser is using more than the valuem then browser is killed
+      > and go to HOME (no popup error message and to go HOME only)
+    - other full browser issue
+      > Flash, 4-way cursor navi
+
+21 Feb. 2011 (r1555)
+    - iFrame(or subframe) can use NetCast Extended API
+      > till now, when extended api is called from iframe then 'undefined api log' was up
+    - other full browser issue
+    
+18 Feb. 2011 (r1541)
+    - addon library : rev 37702 (gp3 1q)
+    - if Web browser and browser apps is closed, then browser is killed, it is for following application
+      > Web Browser and browser Apps could use too much memory, so when browser is closed normally, browser is killed
+      > Back/Premium/Home/Exit key and mouse click on Back, Exit button
+    - for 'network is disconnected' error message, additional message is added : 'Please check the connection'
+    - for Orange, when a image is missed, or broken, js processing is not stopped. and missing icon is appeared for messing image
+    - for BBTV, repeat key speed is contolled, 110ms (if repeat is passed too fast, then browser can not follow the speed, so some bad effect could be happened)
+      > For Web Browser, 4-way cursor enabled or virtual keyboard is enabled then browser bypass the repeat key to contents
+      > otherwise, browser control the speed
+    - media plugin
+      > if URL has space then remove space.
+    - other full browser issue
+      > fix 4-way cursor position       
+      
+14 Feb. 2011 (r1495)
+    - addon library : rev 36224, gp3 1.5 addon library
+    - browser key processing mechanism is changed : dfb keyboard input driver --> gdk function call
+      > browser binary is made with noinputdriver option!!
+      > in version 17 Nov. 2010 (r945) we applied this mechanism, but later we returned it back (for some CP, usage was changed for some CP)
+      > but, new mechanism has more effective for CPs and Web Browser
+    - in BBC, select video play link(browser will load player.html to play mp4) and press HOME/Premium/Exit key very fastly, then selcom media plugin is not destroyed.
+      > Fix this situation
+    - GIF image(animated gif and static gif) : uses webkit s/w decoder not DFB decoder
+    - Media plugin
+      > for Web Browser, HOA_TV_SetDisplayArea(ex) is not called after video playing is finished; unless screen blinking
+    - Flash plugin
+      > when Web Browser is on, when TV UI ON, then make flash processing slow (because of single buffering(FRONTONLY), UI and OSD4 is flickering)
+    - other Web Browser issue
+      > when webui is launched, it's initial backgrounc color is black (webui modification not webkit)
+      > network disconnected network error message is applied(temporal, will be changed soon)
+      > resolution change function : in run3556, if you set BROWSER_RESOLUTION_WIDTH_FB with other value(like 1024,576) then this is applied to web browser
+      > infinite scroll bar scrolling is fixed (because of CPU load, mouse release event is not passed to webkit)
+      
+09 Feb. 2011 (r1458)
+    - addon library : rev 36224, gp3 1.5 addon library
+    - browser version is changed : LG Browser 4.1.1 --> 4.1.2
+      > from this version, resolution option and widget mode option can be applied
+      > resolution option : 0 - 1280x720, 1 : 960x540, 2 : 1024x576
+      > widget option : 0 - NONE, 1 : widget mode(it is about init display mode, FULL UI, TVWITHUI)
+    - for Fidel(using flash plugin), with pressing EXIT, TV was not on; fix this problem
+      > this is about display mode, after init.html is opened, flash plugin is destroyed and change display mode FULLUI.
+    - some network Error string modified for pt-br and pt
+    - media plugin
+      > for Orange VOD, add downloadable property.
+    - other Full browser issue
+      > 4-way cursor on/off issue changed
+      > some network error string modified for pt-br and pt
+      
+28 Jan. 2011 (r1414)
+    - addon library : rev 34707, gp3 1.5 addon library
+    - added India(hidi) font : it will be /mnt/browser/etc/font/India.ttf
+    - To test, when full browser openes, browser sends a notification to Flash, let Netcast remove loaded images
+      > And when go to NetCast from full browser, browser sends a notificatio to Flash again
+      > this source code is for test, can b removed.
+      > In gp3 trunk version, flash will not do anything when it receives a noficitation from browser
+    - media plugin
+      > for the case extension is wmv or wma, data parsing property is true
+      > isScanable property is supported
+      > device plugin, tvlanguage is changed for columbia spanish and US spanish : es-419 --> es-co ; it is same with libtv.so
+    - other full browser issue
+      
+26 Jan. 2011 (r1396)
+    - when Out Of Memory(system memory) is happened, then kernel kill browser only when now full browser is ON!!
+      > browser calls a function to set current  mode(kernel can kill browser because it is full browser!!)
+      > this function will be working with kernel modification!! (rev ??)
+    - For columbia, es-co is used, so accept-language : es-co, es-419, es, en will be taken
+    - other full browser issue
+
+21 Jan. 2011 (r1360)
+    - addon library : rev 32846, gp3-1q addon library
+    - flash plugin : fixed focus change problem in aljazeera(when mouse is moving on flash plugin object, other web contents is affected)
+    - media plugin : for http live streaming, send media url to MSDL directly(does not read a data from the url first)
+    - other full browser issue
+
+20 Jan. 2011 (r1348)
+    - addon library : rev 32846, gp3-1q addon library
+    - other full browser issues
+
+17 Jan. 2011 (r1328)
+    - addon library : rev 32846, gp3-1q addon library
+    - media plugin
+      > for widevine, fixed condition for buffering thread not to be skipped in fast playback
+      > even in fast playback, when it meets EOF, close plugin well.
+    - other full browser issues
+
+14 Jan. 2011 (r1324)
+    - addon library : rev 32846, gp3-1q addon library
+    - For full browser, downloadable font disabled : no effect to CP contents      
+    - SVG font disable
+    - media plugin
+      > fixed browser crash issue : when Asx playlist has syntax error browser was crashed      
+    - other full browser issues
+
+12 Jan. 2011 (r1311)
+    - addon library : rev 32716, gp3-1q addon library
+    - applied weighted language code for accept-language of http header
+      > chrome brower based
+    - browser default encoding change : UTF-8 --> ISO-8859-1(Latin 1)
+    - accummulated image file size : 3 MB, each image size after decoding : 11 MB
+    - media plugin
+      > for Orange WMDRM, storeLicense(), getSystemInfo() are added
+      > subtitle issue : when 'subtitle' property is called, subtitle path coule be changed      
+      > for Widevine, to check PLAYEND status, plugin calls getPlayInfo() repeatedly, and if it is PLAYEND status, then close stream
+    - other full browser issues
+    
+05 Jan. 2011 (r1287)
+    - addon library : rev 31768, gp3-1Q addon library
+    - no-init-layer option removed in DFB initialization
+      > transparent init.html could not be opened well
+      > when video is started only audio is available, no video on display(tv-url was not working)
+    - browser loading progress is enabled again : temporarily blocked since rev 1157, fixed
+    - test server is changed : fb.browser.lge.com
+    - full browser
+      > according to tv language setting, full browser web ui's language is changed too.
+      > QMENU key is available for full browser now.
+
+05 Jan. 2011 (r1276)
+    - addon library : rev 30934, gp3-1Q addon library
+    - browser version is changed : LG Browser 4.1.0 --> 4.1.1
+      > from this version, external plugin can be used
+    - argument of NetCastMouseOff(int) can be optional, originally, this argument was optional alread, but with some modification there was a side effect, so modified
+    - external plugin can be used, if the THIRD_PARTY_PLUGIN_DIR is defined by somewhere,
+      > run3556 has MOZ_PLUGIN_PATH = $DEPLOY_DIR/plugins:$THIRD_PARTY_PLUGIN_DIR now, defining of THIRD_PARTY_PLUGIN_DIR is up to thirdparty
+    - when browser is launched, no-init-layer option is added
+    - test server is changed : 10.177.34.44
+    - connect NetCastGetMouseOnOff() to addon api, not using local flags
+    - flash plugin
+      > flash plugin is not played in full video mode : region was clipped but fixed
+      > in the contents having flash plugin like iPlayTV or zapak, when user clicks flash plugin obejct and web contents alternatively, then screen was flickering
+        - in previous version, this issues was not fixed, so re-modified
+    - other full browser issues for flash plugin and memory
+
+27 Dec. 2010 (r1240)
+    - in the contents having flash plugin like iPlayTV or zapak, when user clicks flash plugin obejct and web contents alternatively, then screen was flickering
+      > it was fixed, flash plugin is updated
+    - in the contents having flash plugin like iPlayTV, when user moves mouse from keyhelp to flash contents, 'mouseout' event was missed
+      > issue : keyhelp heightlight(focus) was not disappeared
+      > current : resolved!
+    - full browser
+      > kbs(in search result page(virtual keyboard was shown up), user clicks 'search' buttton, then browser was crashed) : fixed
+      > full browser bookmarks function works well, add, remove and the bookmarks page
+      > nate.com (in weather information browser was crashed) : fixed
+      > Web UI is updated
+      > etc.
+
+23 Dec. 2010 (r1225)
+    - for HK platform, when the locale group is HK, then browser was crashed when browser CP is selected : fixed, now browser can handle 'HK' local info
+    - Media plugin
+      > treated following three cases in setPluginRegins function(plugin regins is inside of screen, outside of screen and crossed on the screen border)
+    - full browser
+      > In www.tringa.com, registrate, after virtual keyboard, browser was crashed : fixed, it is about focus
+      > webui is updated : rev 1225
+
+21 Dec. 2010 (r1207)
+    - full browser
+      > remove duplicated 'keep-alive' property, in some server, this duplicated 'keep-alive' property was problem, 'bad request' response
+  
+20 Dec. 2010 (r1202)
+    - built with addon library GP3 rev 29625
+    - fix flash plugin for flash plugin key navigation
+      > it was side effect from full browser modification
+    - full browser
+      > media plugin modification : bug fixed when media is playing and scroll action is happened, then there was a problem
+
+16 Dec. 2010 (r1173)
+    - build with bbcp addon library : addon revision 1241
+    - flash plugin is working now, in previous version, flash plugin could not be created
+      - because there is no lgexc.so which stagecraft needs
+
+14 Dec. 2010 (r1161)
+    - build with bbcp addon library : addon revision 1241
+    - browser version is changed : LG Browser 4.0.12 --> 4.1.0
+      > it means, full browser is enabled, some part of browser engines are extended!!
+    - scroll bar option for CPs is disable : especially KBO (contents set scroll option so enabled)
+    - the way how to define extended NetCastApis : but usage is the same.
+    - new Extended API : NetCastLaunch3DMENU() to display 3D releated menu
+    - for full browser : smart text input function enabled, when virtual keyboard is displayed, so is iPod
+
+10 Dec. 2010 (r1116)
+    - FullBrowser integrated
+
+06 Dec. 2010 (r1085)
+    - changed debug listening port to 9998
+    - added 'Connection: keep-alive' header for all HTTP Request
+      - Some old web server which does not know HTTP/1.1 expect this header for persistent connection
+    - Page Scroll performance enhancement.
+      - This patch makes page scrool faster (arrow up/down, page up/down)
+    - Media Plugin
+      > changed to save seeking position and use before completing seeking
+    - Sound Plugin
+      > removed memory leak
+
+29 Nov. 2010 (r1025)
+    - build with addon library : GP3 addon revision 1150
+    - modify to handle front menu key
+
+24 Nov. 2010 (r994)
+    - build with addon library : GP3 addon revision 1110
+    - Return back the browser key event delivery mechanism which is release (17 Nov. 2010 (r945))
+      - for multiple fast key press events, not repeat key, some keys are missed. so It feels a little unadaptable
+      - Especially, maxdome login page, when user presses direction key to enter user-id, then a little unadaptable.
+
+23 Nov. 2010 (r976)
+    - build with addon library : GP3 addon revision 1110
+    - browser key event delivery mechanism modification
+      - in previous version, "(0,0) mouse move event for mouseoff" was missed
+      - now, if the option is set in browser_application.txt, then when mouse is off, (0,0) mouse move event is occured after mouseoff event
+    - parameters of HOA_TV_SetMotionRemoconSupport() are changed, but the values are just 0, 1, only enum type is changed
+
+17 Nov. 2010 (r945)
+    - build with addon library : GP3 addon revision 1056
+    - browser key event delivery mechanism modification
+      > no more keyboard input driver for DFB module
+      > from libtv.so --> gdk library, direct fb key events are passed to directly
+      > page up/down key and key events for sub-window(dialog) are working well
+    - browser application option is changed : full browser UI --> progress
+      > according to the value of browser_application.txt, progress, screen will be opened for entry page
+       - ex) if progress values is 50, when the loading 50% is done screen will be opened, for only entry page
+       - if the value is 0, then default 95% is applied
+    - browser can support 500 entries of browser_application.txt, previously only 100 entries are supported
+
+    - Media plugin
+      > media channel reset when it is PlayList of detectMediaType function
+      > widevine property (WV_errorStatus)
+
+    - Flash plugin
+      > Fixed to make Q-manu work only when it is 1280x720 full size and video is playing
+       - Previously, On Zapak which has a 1280x720 full size plugin object, Q-menu opens a quick menu dialog
+       - Now, On Zapak which has a 1280x720 full size plugin object, Q-menu does not openes quick menu dialog
+      > Fixed Flash plugin not to be locked-up
+       - Previously, There was lockup in Aljazeera while changing pages
+
+
+10 Nov. 2010 (r903)
+    - build with addon library : GP3 addon revision 1017
+    - LG Browser version : 4.0.11 --> 4.0.12
+    - LG NETCAST_VERSION : LG NetCast.TV-2010 --> LG NetCast.TV-2011
+    - New extended API : NetCastGetMagicRCUAvailability()
+      > this is used in player.js which is control player for media file which are played with <a>
+    - setenv, unsetenv are replaced to lg_setenv, lg_unsetenv is modifed to manage memory
+      > As QE part checks, no license is for these lg_setenv, lg_unsetenv (actually it is LGPL)
+    - HOST_EVT_SDP_PATH_UPDATE is handled by browser
+      > after this message, information from new browser_application.txt is applied to browser without re-launching
+      > but this new information can be applied to next try, not current browser contents!!
+      > but, need to varios test for this situation
+    - browser bg color setting method is changed
+      > for each CP, bg color can be set by just color itself, like ARGB : FFFF0000 (red), FF00FF00 (blue), FF0000FF (green)
+      > For backward compatibility, 0 : just back, 1 : current dark grey, but if you set FF202020 the you can see darker bg color
+
+    - Media plugin
+      > Widevine property is added
+      > Added a play list feature for vTuner.
+      > Added HTTP Live Streaming type ( application/vnd.apple.mpegurl )
+
+01 Nov. 2010 (r833)
+    - build with addon library : GP3 rev 19841, addon revision 971
+      > some enum values are changed, so mouseon, mouseoff events were not delivered correctly
+    - Media plugin
+      > rev 819 ISM function was added but, not included in this release, addon is not ready yet!!
+
+27 Oct. 2010 (r807)
+    - Changes browser default character encoding to UTF-8.
+    - Added NetCastDisableMagicRCU().
+      Contents with option of 'No magic' can enable the magic remote while playing VOD with NetCastEnableMagicRCU().
+      And disable the magic remote after finishing VOD with NetCastDisableMagicRCU().
+    - Changes a browser icon database folder from /mnt/browser/etc to /mnt/cache/browser.
+      Previously the icon database was created in a read only folder(/mnt/browser/etc) which resulted in failure.
+    - Media plugin
+      > Changed to call HOA_MEDIA_PauseClip when user call 'play(0)' while pre-buffering also.
+      > Added 'country4google' API
+        This returns the country code as 3 characters.
+      > Changed to check parameter type properly on subtitleOn property.
+      > Added 3d_video attribute in object tag. ADDON_DISP_FULLVIDEOWITH3D parameter is used in this case.
+      > Added 'buildDate' attribute, this value is set during compile time.
+
+19 Oct. 2010 (r743)
+    - LG Browser version change : 4.0.10 --> 4.0.11
+    - For search application, browser can handle app_id --args query=qurey_sttring last_launcher=search, then browser concatenates url of app_id and query_string with & or ?
+    - outofmemory event is added
+      > when remaining system memory reaches MIN_REST_SYSTEM_MEMORY so image processing request is ignored, outofmemory event is occued and passed to contents
+      > 'how to use' is the same with mouseon, mouseoff event
+    - For US platform, accept-language 'es' --> 'es-419'
+    - Media plugin
+      > for Widevine, some apis are added, it is for credenatial information
+      > devide plugin : added localeProduct property(locale group of product)
+
+11 Oct. 2010 (r706)
+    - browser checkes system memory for every 3 sec
+      > and remaning system memory are less than MIN_REST_SYSTEM_MEMORY(run3556) then browser will ignore image process request
+      > after this moment, all images are display as empty area
+      > and if the remaning system memory is returned back(greater than MIN_REST_SYSTEM_MEMORY) then image process request are accepted
+      > by default, MIN_REST_SYSTEM_MEMORY are set as 20 MB, if you wanna change this value, modify run3556 script
+
+09 Oct. 2010 (r705)
+    - build with addon library : rev 832.
+    - Media plugin
+      > fix small memory leak
+
+08 Oct. 2010 (r701)
+    - run3556 script revision : rev 704
+    - browser version changed : 4.0.9 --> 4.0.10
+    - add extended JS API : NetCastEnableMagicRCU()
+      > contents can set magic remocon enable even though it has 'disable' option in browser_aplication.txt
+    - add extended JS API : NetCastEnableMagicRCU()
+    - added LGBROWSER_MAX_SYSTEM_MEMORY environment variable.
+      > This variable is used to limit browser maximum memory usage.
+      > E.g, To limit to 100 MB then use 'export LGBROWSER_MAX_SYSTEM_MEMORY=100000000'
+    - flash plugin
+      > Fix for a key handling error where HTML couldn't get keys after swf got a focus. (Yahoo7, Zapak)
+        * Scenario
+        1) A content has a Flash plug-in object in a html file.
+        2) JavaScript of the page calls 'document.getElementById('id_swf').focus()' to send keys to swf since then.
+        3) Swf gets keys.
+        4) Go to a new page.
+        5) The new page couldn't get keys via keydown events of JavaScript because the previous swf took the focus from the browser.
+      > Delete a swf file when destroy the plug-in.
+
+07 Oct. 2010 (r683)
+    - browser version changed : 4.0.8 --> 4.0.9
+    - For GP3, display node change(NONE) routine was removed when it is moving from browser application to homedash board
+      > it is about that quick menu of TV was displayed on browser application, so fix this
+    - For GP3, font of network error page are changed to GP3 font, at previous version, GP2 font was set
+    - bug fix on 'font-family', CP can list multiple fonts using this font fallback feature
+    - browser exit on network disconnected event
+    - media plugin
+      > added WMDRM methods ( getResponseFailMessage, getClockStatus )
+      > pause function is added in buffering
+      > preBufferingTime property added
+    - flash plugin
+      > Disable fscommand FullScreen feature
+
+26 Sep. 2010(r621)
+    - added intermidiate CA certificate into trusted list for facebook, twitter
+
+25 Sep. 2010(r615)
+    - Build on add-on revision 725(GP3 rev 13042)
+
+    - Browser version changed : 4.0.6 --> 4.0.8
+       >> it means from LG Browser 4.0.8, repeat key events are passed to contents like PC, down - down - down - up
+
+    - lb4wk is built without lgexc library, so no callstack print when browser is killed.
+
+    - Fixed the browser to go to CP pages properly even when a user selects CPs at boot up.
+      Previously when a CP was selected just after booting a TV then sometimes it failed launching the CP page.
+
+    - Fixed a browser crash in GoogleMap and DaumMap with the motion remote.
+      Previously LB4 crashed when using the motion remote in those pages.
+
+    - Clear abnormal sockets after network disconnect.
+      Previously there were abnormal sockets even after network disconnect and re-connect.
+      And this prevented LB4 from opening Sapo page.
+
+    - Delete cached resources which have no data after loading init.html
+      Previously some cached resources were not cleared and used again.
+      This resulted in blank images in BBC iPlayer.
+
+    - Max system memory limit feature is added. : 30 MB for GP2 and GP3
+      Added a resource monitor which checks system memory usage of LB4.
+      This monitor checks the memory usage every 10 seconds.
+      If the memory usage exceeds MAX_SYSTEM_MEMORY then no more resource request is allowed.
+      If the memory usage goes under MAX_SYSTEM_MEMORY (e.g. by changing pages) then resource request is allowed since then.
+      Use MAX_SYSTEM_MEMORY environment variable in a run script.
+      E.g. To limit to 100 MB then use 'export MAX_SYSTEM_MEMORY=100000000'
+
+      This value is set to 220 MB for GP2 and GP3, this value can be tunned later
+
+    - Kills and re-launches the browser when a user presses Netcast or Exit keys four times after the browser latches.
+      Previously when the browser was working very heavy jobs such as a big Javascript file parsing then there was no key response at all.
+      Now when the browser is doing this kind of heavy jobs and a user presses Netcast or Exit keys four times
+      then we regards it as the browser latch and re-launch it.
+
+    - Fixed the browser to go to CP pages and Netcast menu properly.
+      Previously when the Netcast key was pressed before finishing CP page loading then couldn't go to any CP page from that on sometimes.
+      Or we could see the airplane loading image stop for several seconds before returning back to the Netcast menu.
+      Or we couldn't see any airplane loading image while going to the CP page.
+
+    - Fixed a bad visual effect issue in Sapo.
+      Previously some parts of the screen do not display in Futebol -> VIDEOS menu.
+
+    - Changed the way how to dispatch keys to pages from A to B when a user presses a key firmly continuously.
+      A) Now : down, up, down, up, down, up, ¡¦¡¦ down, up
+      B) Soon : down, down, down, down, down, ¡¦¡¦ down, up
+
+      PC browsers (IE, Safari, Firefox..) use B.
+      To be compatible with the PC browsers we need to change LG browser from A to B.
+
+      When we changed from A to B a focus moves differently in some pages which use keyup instead of keydown.
+
+      1) A focus moves just once when a user releases a key event though presse the key firmly for long time.
+      2) A focus starts moving just after a user releases a key in the remote which results in slow focus movement.
+
+    - Media plugin
+        > We support only one 'HREF' in one <ENTRY> while parsing asx.
+          If there are multiple 'HREF', we get the first one.
+        > Support another type of playlist which has just URL per line without any syntax.
+
+14 Sep. 2010 (r569)
+    - Build on add-on revision 703(GP3 rev 12271)
+    - Browser version change : 4.0.5 --> 4.0.6
+    - from this version, new browser option is applied. it is about EXIT key.
+      > For now, BigPond can get the EXIT key itself(if the 14th option is set 1)
+      > default value is 0 and it means Contents can not take EXIT key.
+    - For GP3, at everytime browser opens CP pages, browser sets browser resolution as 1280x720
+      > it is for GP3, USBB having yahoo widget application
+      > yahoo widget changes DFB layer resolution to 960x540
+    - Fixed the browser to goto CP page and NetCast menu properly(stop loading situation)
+      > Previously when the NetCast key was pressed before finishing CP page loading then couldn't go to any CP page from that on sometimes
+    - Modified netError page to use 'history.back()' instread of 'NetCastBack()' in case of mouse events
+
+    - Flash plugin
+      > when there are swf files with the same names in a page then they were not launched properly before.
+        Now they launch well altogether.
+    - Media plugin
+      > re-build with new addon library, enabled widevine
+
+
+10 Sep. 2010 (r551)
+    - after back key rushing in a media playing page(ex, yota) for leaving contents, user can not access any other page.
+    	- only key press is passed to launcher(not release key), so 'open application' routine is moved to key press callback function
+    - For GP3, in insufficient video memory situation, ignores HOA_EVT_OUT_OF_MEMORY for now, later, after verification this function will be applied
+
+09 Sep. 2010 (r545)
+    - LG Browser version change : 4.0.3 --> 4.0.5
+    - Build on add-on revision 692.
+    - ignores all mouse/key events when browser is escaping from any CP contents, EXIT/NetCast/Back
+    - Added HTML5 local storage feature.
+
+    - The browser frees the video memory it uses in case the video memory is out.
+      This feature is only available at gp3_bcm35230.
+
+    - Added 'MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_FORCED' and 'MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_ON_INIT_PAGE_FORCED' feature.
+      MEMORY_CACHE_SIZE_FORCED
+        -> This environment variable is used to limit the maximum size of the system memory cache.
+           The system memory cache contains CSS, JS and image files before decoding.
+      MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_FORCED
+        -> This environment variable is used to limit the maximum size of the video memory cache.
+           The video memory cache contains image data after decoding.
+      MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_ON_INIT_PAGE_FORCED
+        -> This environment variable is used to shrink the video memory cache size on CP exit to Netcast.
+
+      (Example)
+      export MEMORY_CACHE_SIZE_FORCED=20000000
+      export MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_FORCED=15000000
+      export MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_ON_INIT_PAGE_FORCED=1000000
+
+    - Restores the motion remote enabled when CP exits.
+
+    - Fixed unicode URL issue in BBC iPlayer.
+      If there are %uxxxx style encoding for unicode characters in URL then decode to ' ' (space).
+    - Modified the network errors page to change layout and back feature is added.
+    - Added an disable-mouse option in the browser_application.txt.
+      If you want disable the mouse feature for a CP then add '0' in front of the cp specific user agent string field.
+      By default the mouse is enabled for CPs.
+    - Media plugin
+	> Change default value of m_lowerLimit ( 6 -> 4 )
+	> various minor changes
+        > Check return value from HOA_MEDIA_PauseClip/HOA_MEDIA_ResumeClip on playMedia()/pauseMedia()
+    - Flash plugin
+        > Compiled with gp3 trunk revision : built with rev 11752
+        > Modified an argument of DispatchKeyDown() which means 'keys should not be cumulated in the queue of Stagecraft'.
+        > Adds Q-menu function in case of 1280x720 full screen.
+        > Fixed a crash while exiting Flash plug-in pages.
+          Previously sometimes there were crashes while exiting Flash plug-in pages.
+
+02 Sep. 2010 (r481)
+    - Separated the video memory from the system memory in the memory cache.
+      Now CSS, JS, image files are stored in the system memory cache.
+      Decoded image files are stored in the video memory cache.
+      The following environment variables are used in the run script to control the cache size.
+
+      MEMORY_CACHE_SIZE : The maximum system memory size to use for the cache
+      MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE : The maximum video memory size to use for the cache
+      MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_ON_INIT_PAGE : The video memory size to shrink when exit CP pages
+
+      (Example)
+      export MEMORY_CACHE_SIZE=20000000
+      export MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE=15000000
+      export MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_ON_INIT_PAGE=1000000
+
+    - The browser gets a browser application file path from TV in GP3.
+    - For the NetCastReturn(), NetCastBack(), NetCastExit() will act like NetCast, Exit key input
+    - When TV returns back from browser to Home dash board, browser sets the display mode as NONE(not UI, TVwith UI)
+    	- So, after returning back to dashboard, small size tv video is there
+    - The browser gets a browser application file path from TV in GP3.
+    - the arguments of EXECUTE is changed 'last_launcher=' --> '--args last_launcher='
+    - Avoided duplicated history back in the LG embedded player.
+    - Fixed browser crash when pressing 'netcast' key while entering 'viasat' site.
+    - Media plugin
+        > Added mime type 'audio/mp3'
+        > Call HOA_TV_SetDisplayMode only if pluginType is VIDEO.
+        > Changed the default value of m_lowerLimit ( 4 -> 6 )
+    - Flash plugin
+        > Executes FI_CallFunction twice by spec.
+          Previously executed FI_CallFunction once.
+31 Aug. 2010(r449)
+
+	- Fixed a latch-up issue when a user goes to the Orange page
+	- Media plugin
+          > Temporarily excluded INCLUDE_WIDEVINE on gp3_bcm35230
+          > Changed definition name ( FORCE_SEEK -> STOP_BEFORE_SEEKING )
+          > Excluded mp3 case for STOP_BEFORE_SEEKING
+          > Add the property("subtitle", "subtitleLanguage")
+          > Modify the "subtitleOn" property
+	- For GP3, 'back' key function is implemented, browser can parse 'last_launcher=' from pData of EXECUTE
+	  > According to the last_launcher browser will call HOA_APP_ReleaseFocus(proper_exitcode_for_last_launcher)
+	  > this routine works well with traditional parameter which does not have 'last_launcher='
+	- bug fix : void duplicatd history back
+
+
+30 Aug. 2010(r426)
+	- Merge all functions of gp2 bbcp to GP3 : update proxy_config.txt to GP3
+	- From now, this browser version can be 4.0.3(in previous version, browser version of User agent string was 4.0.2 0 it is correct)
+	- updated player page (BBC) : fixed pause problem while loading
+	- When CP goes 'init.html' using history.back(), 'init.html' must go NetCast menu
+	- ** Callback function was rolled back(MUTEX could make key lock)
+	- browser_application option was added!!, the option is about auto generation of (0,0) when mouse off situation
+		- if this option is not set(0) then just mouseoff event is passed to contents
+		- else (1) after mouseoff event, browser generates (0,0) mouse move event
+		- for some case, this mouse move event can make 'mouseout' effect
+		- this option is located before cp specific user agent string
+		- if cp wanna sett 0 and cp does not have cp specific user agent string, then nothing to do with this
+	- addon library version : gp3 rev 9790 (libtv.so and media plugin are compiled)
+	- flash plugin
+		> on GP3, flash engine(stagecraft) was not merged yet. so flash plugin is just dummy now
+		> support directFB surface
+		> fixed assertion problem when exit
+		> Added the scriptability feature from ActionScript to JavaScript.
+	- media plugin
+		> current media plugin does not support Widevine because of addon header file
+		> when tv lose and reconnect to media server, plugin should escape from buffering state.
+		> check return value on HOA_MEDIA_PauseClip, HOA_MEDIA_ResumeClip
+
+23 Aug.2010(r361)
+	- Browser version : 4.0.3
+	- GP3 only : Browser Crash Problem is solved : double values are copied through memcpy(not assignment operator, =) in TimerBase::setNextFireTime
+	- Flash plugin is added : only for ATS (it is not related to browser)
+	- added commit(60sec) - loading(300sec) timeout : Can not Access this service message
+	- For POWER OFF function, a handling routine was missed - browser can be terminated well when TV powef off
+	- in User Agent String Operation System information part, there was 'c' char as a locale info  --> change it to 'en'
+	- added proxy_config.txt setting
+	- added trusted CA for SFAnytime
+	- added Sound Plugin	
+	- media plugin version : 1.0.0.9
+		> changed secureSerialNumber implementation using base64 encoding
+		> fire changePlayState (playing -> playing)
+		> fix bug(plugin wait NewStream when 'data' attribute is appeared earlier than 'oneshot_url')
+		> add the property('tvlanguage') of device info (for googleMap site)
+
+10 Aug. 2010(r276)
+	- Browser version : 4.0.2
+	- This is the first release of LB4 for GP3
+	- Almost parts of this version are same with gp2_bbcp browser binary
+	- Notes
+	  - Browser can process EXECUTE and url only from master(till now browser just could accept only browser application id with EXECUTE)
+	  	> For APP Store application, all other browser application options are set with default values
+	  - TV interface module use callback scheme
+    	  - Updated media plug-in (plugin version 1.0.0.8)
+      		> [BDP] set g_lastPlayedInstance in CPlugin:initMediaChannel()
+      		> [win32] browser die when media url is set on 'src' attribute in 'object' or 'embed' tag
+      		> [BBC iPlayer] pass media URL as base64 encoded format on PLUGIN FULL MODE
+      		> [Subtitle] added subtitle, subtitleLanguage, subtitleOn, preferredSubtitleLanguage attributes
+
+06 Jul. 2010 (r1322)
+
+        - Browser version : 3.0.23 and it is compiled with add-on in GP3 rev 3760
+
+	- Modified browser initial routine : when TV is powered off before browser is initialized, then in some models TV could not turn off immediately
+	  (TV was not tuned off for 20 sec)
+	  Fix this problem : if power off message is occurred before browser is initialized, just kill browser.
+
+	- GP3 addon library were used to build libtv.so, media plugin and flash plugin
+
+	- For GP3(not GP2 trunk) flash plugin, sound plugin are applied - but currently no CP is using this plugins
+
+30 Jun. 2010 (r1286)
+
+        - Browser version changed to 3.0.23 (compiled with add-on in GP2 r42458)
+
+        - Added NetCastGetMouseOnOff().
+          This returns 'on' when the motion remote is being used.
+          This returns 'off' when the motion remote is not being used.
+
+        - Modified the timeout of the network error page to 2 seconds.
+          Previously there was no timeout in the error page by mistake.
+
+        - Modified the media player page embedded in the browser to handle exceptional cases.
+
+        - Modified the user agent string.
+
+          Added a TV capability field (e.g. mouse, 3d screen, tuner).
+          Modified LG_NetCastVersion.
+          Before)      LG NetCast-2010
+          After) TV  : LG NetCast.TV-xxxx
+                 BDP : LG NetCast.Media-xxxx
+
+          [ The userAgent string in LG Browser ]
+          Mozilla/5.0 ( operating system information ) AppleWebKit/WebKit version; LG Browser/LG Browser version(capabilities; LGE; modelName; softwareVersion; hardwareVersion;); LG_NetCastVersion
+
+          [ Example userAgent string of LG Browser ]
+          Mozilla/5.0 (DirectFB; U; Linux mips; en) AppleWebKit/528.5+ (KHTML, like Gecko, Safari/528.5+); LG Browser/3.0.13(+mouse+3D+SCREEN+TUNER; LGE; 42LE7500-ZA; 03.05.04; 0x00000001;); LG NetCast.TV-2010
+
+          See 'The Technical Specification for LG Netcast TV 2010' for more information.
+
+        - Added a supportPortalKey property on the device plugin.
+
+        - Modified key dispatch mechanism to use the DirectFB input driver.
+          Previously keys are delivered via the DirectFB input driver since r1173 release.
+          The r1173 has some issues regarding Javascript prompt and alert.
+          Now this is rolled back to use the DirectFB driver again.
+
+	- Applied addon library which is released by 06/29 (SWC addon rev. 505)
+
+
+17 Jun. 2010 (r1204)
+
+        - Fixed a small mistake in run3556(env variable PATH setting)
+        - With previous version, when browser is launched, 'mkdir' NOT FOUND, 'grep' NOT FOUND were happened
+        - But no side effect on browser functions
+
+
+16 Jun. 2010 (r1196)
+
+        - Browser version changed to 3.0.22 (compiled with add-on r30853)
+
+        - Added a function which sends a mouse-on event when the cursor of the motion remote control appears.
+          This event will be notified to CPs telling the cursor has appeared.
+
+          window.addEventListener('mouseon', , ).
+          window.onmouseon = functionmouseon;
+
+        - Modified the browser network error page to use a WebTV icon instead of a Netcas icon in Korean models.
+
+
+14 Jun. 2010 (r1189)
+
+        - Browser version changed to 3.0.21 (compiled with add-on r30853)
+
+        - Modified NetCastMouseOff().
+          When this API is called the cursor is supposed to disappear in the specified seconds.
+          Before the seconds if a user presses the mouse then the cursor should not disappear.
+          Previously the cursor disappeared regardless user's mouse reaction.
+          Now the cursor remains still when the user clicks mouse buttons before the time out.
+
+
+10 Jun. 2010 (r1173)
+
+        - Browser version changed to 3.0.20 (compiled with add-on r30853)
+
+        - Added support for the client certificate.
+
+        - Modified the embedded media player html template.
+
+        - Added a feature in run3556 to load extra configurations from a separate file.
+
+        - Modified key dispatch mechanism not to use the DirectFB input driver.
+          Previously keys are delivered via the DirectFB input driver.
+          Now keys are delivered directly to the browser engine without using the DirectFB driver.
+
+
+
+3 Jun. 2010 (r1137)
+
+        - Browser version changed to 3.0.19 (compiled with add-on r30853)
+
+        - Fixed the media plug-in (plugin version 1.0.0.5)
+           Ignored calling changePlayState when fromState and toState are same
+           Convert relative to absolute when 'data' attribute in object tag is changed to relative URL
+           Added properties( support3D, supportMouse ) on device plugin
+
+        - Fixed mouse event dispatch logic not to send the events to CPs when a TV pop-up dialog is on.
+          Previously the mouse events were sent to CPs regardless of the TV pop-up dialog.
+          (e.g. Qmenu, Aspect ratio)
+
+
+1 Jun. 2010 (r1125)
+
+        - Browser version changed to 3.0.18 (compiled with add-on r30853)
+
+        - Added a function which sends a mouse-off event when the cursor of the motion remote control disappears.
+          This event will be notified to CPs telling the cursor has disappeared.
+          CPs will manage highlighted images with the normal remote control from that on.
+
+        - Added CLEAR_MEMORY_CACHE_ON_INIT_PAGE and MEMORY_CACHE_SIZE_FORCED support.
+          These two environment variables can be set out of the browser (e.g. by TV)
+          [ MEMORY_CACHE_SIZE_FORCED ]
+          Specifies the maximum size of the memory cache.
+
+          [ CLEAR_MEMORY_CACHE_ON_INIT_PAGE ]
+          Specifies whether to clear the memory cache on entering the init page.
+          (e.g. CP page -> NetCast screen)
+
+
+20 May. 2010 (r1079)
+
+        - Browser version changed to 3.0.17
+
+        - Added an extended API 'NetCastLaunchRATIO'.
+          This API opens a TV pop-up dialog with which users can change the aspect ratio of the video.
+
+        - Added an extended API 'NetCastLaunchQMENU'.
+          This API opens a TV pop-up dialog just like Q-menu key is pressed in the remote.
+
+
+18 May. 2010 (r1051)
+
+        - Browser version changed to 3.0.16
+
+        - Applied the latest Add-on libraries.
+          addon_key.h added.
+          HOA_APP_DebugVPrint va_list
+          MEDIA_TRANSPORT_T MEDIA_TRANS_MSDL_ONESHOT=0x07
+
+        - Fixed the media plug-in (plugin version 1.0.0.4)
+          If oneshot_url flag is set then uses MEDIA_TRANS_MSDL_ONESHOT param on HOA_MEDIA_PlayClipFile.
+          Added a local player html page.
+
+        - Fixed a NSU TV dialog issue on which the browser didn't show the NSU dialog.
+
+
+12 May. 2010 (r1025)
+
+        - Browser version changed to 3.0.15
+
+        - Applied the latest Add-on libraries (gp2 r39318 or later)
+
+
+7 May. 2010 (r1011)
+
+        - Browser version changed to 3.0.14
+
+        - Fixed the media plug-in (plugin version 1.0.0.3)
+          Added secureSerialNumber property
+
+        - Added a browser profiler which shows elapsed time for network, Javascript and rendering.
+          You can use this as following
+          1) Enter the browser debug mode
+          2) [5] Profile Performance
+          3) [1] Profile Performance On
+          Please contact browser members for more information.
+
+
+23 Apr. 2010 (r983)
+
+        - Fixed a mouse event feature to deliver mouse events more properly.
+          Previously some mouse events were not passed if the events are generated too frequently. (press, release..)
+          Now the events are delivered properly including press, release, move and drag.
+
+        - Fixed a network error page in the browser to work with mouse events.
+
+        - Added a mime type "application/ce-html+xml".
+          Previously if files with extension of cehtml and ce-html are open then the browser showed a loading fail page.
+          Now files with extension of cehtml and ce-html are open as html pages.
+
+        - Fixed exceptional handlings for NetCast APIs (netCastReturn, netCastSetDefaultAspectRatio, netCastSetPageLoadingIcon)
+          Previously the APIs didn't stop executing on running with invalid parameters.
+          Now the APIs fail silently with invalid parameters.
+
+        - Fixed the media plug-in (plugin version 1.0.0.2)
+          Added oneshot_url attribute on objectTag
+
+
+16 Apr. 2010 (r907)
+
+        - Fixed the version of the browser to 3.0.13.
+
+        - Added an extended API 'NetCastLaunchNSU'.
+
+        - Fixed the media plug-in (plugin version 1.0.0.1)
+          Added a plugin version property
+          Pass a URL to MSDL when the URL is denoted in src1 attribute of object tags.
+
+
+9 Apr. 2010 (r883)
+
+        - Fixed the media plug-in
+         Changed an internal state of media plug-in before firing an event
+         Previously Bigpond crashed in playing a VOD.
+
+
+8 Apr. 2010 (r876)
+
+        - Fixed the browser to use IPV4 only
+
+        - Fixed the media plug-in
+         Fire onPlayStateChange as the last one on changePlayState() function.
+         This is because content usually destroy plugin after this event.
+         Previously Bigpond crashed after finishing playing a VOD.
+
+
+7 Apr. 2010 (r871)
+
+        - Fixed user agent adding NetCast version
+          Before : LG Browser/3.0.12(; LGE; platform; S/W version; H/W version)
+          After : LG Browser/3.0.12(; LGE; platfirm; S/W version; H/W version; LG NetCast-2010)
+
+        - Fixed the media plug-in
+          Continue loop when state:play, duration:0, currentPosition:0, remainSec:0 in bufferingThread
+          Applyed FORCE_SEEK on mms:// and mp3
+          Respond m_currentPositionLast while seeking in case of FORCE_SEEK
+          Removed redundant HTTP request for getting media data
+          Respond prop_bufRemain as (prop_bufEdn - prop_currentPosition)
+          Removed 'bufferInfoStr' property
+          Added special treatment of bufRemainSec
+            : if the first byte of bufRemainSec is 0xFF, bufferingThread quit
+            : if the second byte of bufRemainSec is 0xFF, bufRemainSec is multiplied by 2 from TV.
+                When content try to get this value, it should be devided by 2.
+          Added bufferingLowerLimit, bufferingUpperLimit attribute for object tag
+          If playState:PLAY, duration:0, currentPosition:0, return previous values in getPlayInfo()
+
+
+31 Mar. 2010 (r847)
+
+        - Fixed an issue which couldn't open a web page after changing network settings.
+          Previously after a user changes any network setting(dns, gateway, ip address)
+          the browser couldn't open a web page. (e.g. Orange)
+
+        - Fixed an issue where there were image flickerings when moving a focus.
+          Previously in some pages when moving a focus images are drawn partially first
+          and drawn fully again which made users feel the images flicker.
+
+          The scenario 1
+          - Open TerraTV. (http://terratvlg.terra.com.br/)
+          - Press down to move a focus to a bottom left poster image.
+          - Press right to move a focus.
+          - The center of a poster image are drawn first and right and left areas are drawn later which makes users feel the images flicker.
+
+          The scenario 2
+          - Open Maxdome Mini IFA Showcase page. (http://zap-test02.web.de/client/mxdmini-ifa4/coverflow.html#)
+          - Press right to move a focus.
+          - The center of a poster image are drawn first and upper and bottom areas are drawn later which makes users feel the images flicker.
+
+          The scenario 3
+          - Open EMOL. (http://www.emol.com/LG/)
+          - Press yellow to enter ¡®Fotos¡¯
+          - Move a focus to right
+          - Move a focus to down.
+          - Some images are drawn first and some are drawn later.
+
+        - Fixed the media plug-in
+          Added CHECK_HOA_LOCK feature, disabled by default
+          Corrected computation between msec and sec in bufferinThread
+          Avoid thread cancel while calling HOA function in printMonitoringInfo on bufferingThread
+          Redirect Media Player page when plugin is invoked as a NP_FULL mode
+          Minor text change
+
+
+25 Mar. 2010 (r835)
+
+        - Fixed an issue where no key was working after pressing an EXIT key while opening CPs.
+          The browser had a focus even after the browser exited.
+
+
+22 Mar. 2010 (r833)
+
+	- Fixed the media plug-in
+	  removed pthread_join
+
+22 Mar. 2010 (r831)
+
+	- Fixed the media plug-in
+	  removed unused code ( SUSPEND_BUFFERING )
+	  avoid thread cancellation while calling HOA function in bufferingThread
+	  start bufferingThread on unresolved media plugin
+	  added buffering attribute in object tag
+
+19 Mar. 2010 (r828)
+
+        - Fixed the media plug-in
+          avoid calling HOA_MEDIA_GetPlayInfo after receiving PLAYEND message
+
+19 Mar. 2010 (r826)
+
+        - Fixed the media plug-in
+          Removed defects ( null check ... )
+          Three bugs are fixed about buffering event ( in MMS protocol )
+            : Before starting movie, sometimes loading image is not displayed
+            : If you seek while playing, sometimes loading image is not shown, sometimes is shown but never disappeared
+            : If you seek while playing in buffeing, loading image is never disappeared
+          Clear m_durationLast, m_currentPositionLast on stopMedia, PLAYEND
+          Call changePlayState(buffering) first in seekMedia()
+
+
+19 Mar. 2010 (r820)
+
+        - Added language codes for Colombia and Panama Spanish
+
+
+15 Mar. 2010 (r814)
+
+        - Added an extended API 'NetCastExit'.
+
+        - Fixed an 'key not responding issue' in BigPond.
+          Previously no key was working and no video was displaying when exit BigPond by pressing
+          the EXIT key while watching a video in BigPond.
+
+        - Fixed media plug-in
+          NPP_Destroy do not call any HOA functions, just delete plugin instance
+          If plugin is for device information, it does not call HOA functions
+
+
+15 Mar. 2010 (r810)
+
+        - Fixed media plug-in
+          Do detectMediaType again if the media URL is redirected.
+          Device plugin do not call HOA_MEDIA_StopClip in NPP_Destroy
+          Get bufferingProgress from TV before getting PLAYSTART message.
+          Added object mime type ( video/mpeg )
+          Play can be started in playMedia() though playState is 'error'
+          Changed to make bufferingProgress property for each request
+          Changed associated file extension ( mp4 -> mpg ) for 'video/mpeg' MIME type
+          Changed not to stop buffering thread on MEDIA_CB_MSG_ERR_PLAYING message
+
+
+8 Mar. 2010 (r794)
+
+        - Fixed an a crash when exit from BigPond (#12589)
+          The crash scenario is
+            Try to load bigpond : http://bptv.bigpond.com/lg
+            Just before loading is done try to load another page. (press EXIT key and this loads an empty page)
+            We see segmentation fault (20%)
+
+
+5 Mar. 2010 (r786 + r787, r793)
+
+        - Fixed an issue which didn't show network error pages in case of network disconnected.
+
+        - Fixed an issue which didn't show the TV video properly after exiting BigPond.
+          Previously when exited while opening BigPond there was sometimes no TV video displaying.
+
+
+2 Mar. 2010 (r786)
+
+        - Fixed an issue which didn't show network error pages all the time
+          Previously network error pages didn't work well
+
+
+2 Mar. 2010 (r782)
+
+        - Fixed number of maximum connection from 10 to 30
+          Fixed number of maximum connection for a host from 2 to 20
+
+
+26 Feb. 2010 (r779)
+
+        - Fixed memory leakage.
+          Previously there was memory leakage while watching VOD in sending information from
+          a media plug-in to contents.
+
+        - Fixed an garbage dots issue.
+          Previously there were some garbage dots in text areas in some pages(BigPond, Orange)
+
+        - Fixed media plug-in
+          Added support for MSDL 1.1. Now under MSDL 1.1 all the VOD of CPs work well.
+          Added object mime type (audio/mpeg)
+          Redesigned probing media URL which has following procedure
+          1) getting redirected last URL
+          2) open stream and read some date from the URL
+          3) try to parse as asx format
+          If content set 'data' attribute, plugin should do 'probing media URL' again.
+          ( it is for Orange's multi redirection )
+
+
+23 Feb. 2010 (r765)
+
+        - Fixed an exceptional case of a network error message.
+          Previously sometimes page loading cancellation could be regarded as a network error.
+          This bug is fixed
+
+
+19 Feb. 2010 (r762)
+
+        - Fixed background color from black to dark gray.
+
+        - Fixed Accuweathe accept language for South America.
+          Support es-419, es for Spanish South America
+          Support en-gb
+
+        - Fixed not to use 'INET_DISABLED' message.
+          This message page can make users annoyed when they wait for the original page loaded.
+
+        - Fixed media plug-in
+          Set buffering lower/upper limit from environment variable
+          Change media codec ( AAC -> ASF ) for wma audio
+          Used pthread_cancel to terminate bufferingThread
+          Used pthread_detach on bufferingThread
+          Restore display mode to ADDON_DISP_FULLUI when plugin is destroyed
+          Added trick_speed to manage speed for trickplay
+          If user do fastforward or fastreverse while buffering, it should be changed to 'play' state.
+          Added mime type ( audio/x-ms-wma )
+          Process content-type( video/x-ms-wmv, audio/x-ms-wma ) from web server
+
+
+17 Feb. 2010 (r732)
+
+        - Fixed a cumulated key event issue.
+          Previoulsy if a user kept pressing a key then key events were sent to contents so frequently
+          that a focus navigated too slowly in some pages (e.g. UOL)
+          This was because CPU had no time to paint a focus handling too many key events.
+
+        - Fixed a browser loading icon image to use a new one.
+
+        - Added an extended API 'NetCastSetPageLoadingIcon'.
+          Contents can turn on/off a loading icon using this api.
+
+        - Added a message 'INET_DISABLED' which is used when not able to use the internet.
+
+        - Fixed an exceptional case when press an EXIT key while opening a page in the browser.
+          Previously sometimes no page was open and no key was working in this case.
+
+        - Added an option for the browser background color in browser_application.txt.
+          1 : white, 0 : black, default : black
+
+        - Fixed media plug-in
+          Added AVI media type
+	  Detect audio type using Content-Type header from webserver
+	  Used NPN_PluginThreadAsyncCall for onReadyStateChange
+          Make two code blocks same for Invoke(play) in plugin.cpp, controls.cpp
+          Changed to set prop_speed quickly at Invoke(play)
+
+
+10 Feb. 2010 (r700)
+
+        - Fixed an exceptional case when press an ORANGE key while opening an Orange page.
+          Previously in this case the browser tried to open the Orange page again and again.
+          Now the browser ignores duplicate ORANGE keys since the first call.
+
+        - Fixed media plug-in
+          Added mutex locking for callEventHandler
+          Cached PluginObject, WindowObject for performance
+          Switched to use NPN_Invoke instead of NPN_Evaluate
+          Changed prop_readyState to 3 after video is resumed
+          Used NPN_PluginThreadAsyncCall instead of sending signal SIGUSR2
+          Mutex lock on onPlayStateChange
+
+
+9 Feb. 2010 (r689)
+
+        - Fixed the way how to decode images
+          Previously images which are not on the screen are decoded on page load.
+          Now images which are not on the screen are decoded just when the images are on screen(e.g. by scroll).
+          This way reduces page load time and uses the memory efficiently.
+
+        - Fixed an exceptional case when press an EXIT key while initializing plugins in the browser.
+          Previously sometimes no video was displayed and no key was working in this case.
+
+        - Fixed 'netError' page to exit automatically in 2 seconds.
+
+        - Fixed media plug-in
+          after seeking, bufferingThread fire event (on)ReadyStateChange(5)
+          processError with file_not_found
+          used NPN_GetURLNotify instead of NPN_GetURL to get the result
+          when HOA_GetPlayInfo fail, return previous retrived data ( currentPosition, duration )
+          While contents is displaying animated gif over the plugin region, browser calls NPP_SetWindow repeatedly.
+          It may depends on frame per second of animated gif. In this case, browser have a lot of working to process this calls
+          and sometimes could not do another task. I changed to quit quickly in NPP_SetWindow, when the region of plugin is not changed.
+          In getPlayInfo(), if HOA_MEDIA_GetPlayInfo failed, return previous duration or currentPosition.
+
+
+5 Feb. 2010 (r673)
+
+        - Fixed memory leakage in a browser memory cache
+          Previously the max memory cache size was ignored
+          So sometimes it resulted in out of video memory errors
+          Now the max memory cache size works OK
+
+        - Fixed the size of a memory cache from 8 MB to 18 MB
+          This increases the performance in the page transition
+
+        - Added ISO 639-1 support
+          LG LANG CODE : SSC - serbian - sr
+          LG LANG CODE : SCR - croatian - rh
+
+        - Added multi language support in an error message box
+
+        - Added Accept-Encoding field in HTTP requests
+          Previously some pages don't open well when they require this field (e.g. https://www.paypal.com)
+
+        - Fixed media plug-in
+          avoid calling NPN_Evaluate while plugin is destroying or destroyed
+          clear g_lastReceivedMessage on stopMedia()
+          compute bufEndSec from elapsedMS + bufRemainSec * 1000
+          added another implementation of firing event using NPN_Invoke instead of NPN_Evaluate (but disabled)
+
+
+2 Feb. 2010 (r642)
+
+        - Added a browser loading message image
+          This is activated only when 5th option (loading message) is set to 1 in browser_application.txt
+
+        - Added DirectFB input driver
+          We need to remove DirectFB input driver in the TV stack to use this driver
+
+        - Added a log manager
+          To use the log manager press '1 4 7 8 9' in any web page
+
+        - Fixed a loading application status issue
+          Previously if EXECUTE is called before the browser is launched then the Flash loading icon is
+          displayed without any browser action.
+          Now if EXECUTE is called before the browser is launched then the browser opens the selected application.
+
+        - Fixed a front key code
+          SELECT --> ENTER 10F7
+
+
+29 Jan. 2010 (r603 + media2)
+        - Fixed media plug-in
+          change definition ( TESTING -> MMS_SEEK ) and enable
+          buffering thread do nothing when duration is zero
+
+27 Jan. 2010 (r603 + media)
+        - Added new addon api NetCastSetDefaultAspectRatio
+          it has new aspect ratio parameters : zoom, fullscreen
+
+        - Added SSL
+          Previously some pages using HTTPS don¡¯t work
+
+        - Added a NetCast extended API: NetCastSetDefaultAspectRatio()
+
+        - Fixed small font issue
+          Previously some fonts display smaller than normal in pages (e.g. iPlayer)
+
+        - Fix for text input field issue (login to "Maxdome mini" text field)
+
+        - Fix the way how to send keys to key listeners of contents
+          Previously some keys are sent as keypress instead of keydown. (Arrow, page up/down, color and etc)
+          Now those keys are sent as keydown instead of keypress.
+          Contents should use keydown to get keys properly.
+          This is to enhance compatibility with Safari and Chrome.
+
+        - Fixed media plug-in
+	  added mediaPlayInfo() that return object to pass multiple values
+	  added some debug log
+	  fix crach problem ( m_pMediaPlayInfoObject not initialized )
+	  initialization of MediaPlayInfoObject class
+	  changed property names ( bitrateInstant, bitrateAverage, bitrateTarget )
+	  added TESTING code for seeking on MMS ( disabled in Plugin.h )
+
+20 Jan. 2010 (r561)
+        - Removed a disk cache
+          The disk cache makes some sites be loaded slowly.
+          The disk cache can also store broken files.
+
+        - Fixed media plug-in
+          when user want to resume media, skip calling trickPlay(1.0)
+          if difference between currentPosition and duration is below 1000 msec, set end_position into currentPosition
+          do not call NPP_GetURL when data attribute is not set.
+          make initMediaChannel, call initMediaChannel once
+          move HOA_MEDIA_RegisterPlayCallback to playMedia()
+          remove calling  ReadyStateChange when video reach end of stream
+
+19 Jan. 2010 (r547)
+        - Added a disk cache
+          Ths size of the disk cache is set to 50 MB
+
+        - Fixed media plug-in
+          include "MIME type" in Cplugin
+          add "is_up" property
+          fixed a problem about the value of network type
+          change mime ( systeminfoobject/globalconfigobject -> systeminfoobject )
+          complete a "setDrmAccount" function.
+          transfer DRM related errors
+          remove SUSPEND_BUFFERING feature
+          Add method 'SetDrmAccount' for bigpond. (this function need to modify)
+          add and modify MIME_TYPES ( modify : lanconfigobject, add : wlanconfigobject )
+          finish bufferingThread when error message is received
+          set prop_speed in fastforward, fastreverse
+
+
+18 Jan. 2010 (r535)
+        - Fixed image double decoding problem
+          Previously images are decoded twice in some pages. (e.g. BigPond, Sina)
+          This consumed more video memory which resulted in out-of video memory error and broken images on the screen
+        - Added an error message box in case of network disconnection
+
+
+13 Jan. 2010 (r515)
+        - Added mouse function
+          If the addon manager sends mouse events then browser reacts (e.g. mouse over, mouse click)
+          For this function the latest DFB input driver need to be applied.
+
+        - Fixed media plug-in
+          use browser memory management ( NPN_MemAlloc, NPN_MemFree instead of malloc, free )
+          remove code 'sleep 10 seconds when content call seek function'
+          process double type in set property fuction ( object.CurrentPosition, object.Controls.CurrentPosition )
+          temporary trial to set plugin region to (x,y,1280,720) -> (0,0,1280,720)
+          change play speed between 1 and not 1 value.
+          support more values ( 1, 3, 4 ) for readyState, ReadyStateChange, onReadyStateChange
+          bug fix: maxdome play <-> pause toggle ( CPlugin::toWmPlayState )
+          add API ( next, previous, play ... ) on plugin_object.controls.
+          make changeClip() which does not change play state.
+          skip buffering while trickplay
+
+
+7 Jan. 2010 (r498)
+	- Fixed the way how to send keys to key listeners of contents
+	  Previously some keys are sent as keypress instead of keydown. (Arrow, page up/down, color and etc)
+	  Now those keys are sent as keydown instead of keypress.
+	  Contents should use keydown to get keys properly.
+	  This is to enhance compatibility with Safari and Chrome.
+
+	- Added a function to support TV Front keys (ch up/down, vol up/down key, select)
+
+	- Fixed FAV key not to work as TAB key by default.
+	  If you want to use FAV as TAB key then set spatial navigation column to 1 in browser_application.txt.
+	  By default FAV doesn't work as TAB key.
+
+6 Jan. 2010
+	- Fix for crashes in Brazil CP sites (UOL, Globo)
+	- Fix for a crash in BigPond
+	- Fix for a bug which couldn't launch plugins in NFS mode
+	- This image doesn't include Flash engine
+
+5 Jan. 2010
+	- Fix for crashes in Brazil CP sites
+	- Media plugin : DTVSVN rev.483
+	  > Fix for a crash when terminating WMV plugin
+
+5 Jan. 2010
+	- run3556 is updated
+	  > plugin path is inserted
+	  > without this, plugin could not be loaded properly in NFS mode
+	- kill_browser is added
+	  > to kill webkit browser, this script is used after TV reset, clear cache and cookie file
+	- Media plugin updated : released 10_01_05 released by krahn
+	- For EURO DV5 test
+
+31 Dec. 2009
+	- DTVSVN rev.468
+	- First Official Release of Webkit browser
+	- Browser application URLs from /mnt/addon/browser/browser_application.txt
+	- Browesr background color is Black now
+	- Timezone of TV is applied to browser Date()
+	- libtv.so is compiled with Addon libraries of GPII rev 22976
+	 > mouse event call back function is added : but not verified
+	- Media plugin : DTVSVN rev.464
+         > In case playlist, to call playMedia in main tread
+         > add -Wall compile option
+         > Because browser call NPP_NewStream with the redirected URL, copy this url to sURL.
+         > ignore MessageCallback while destroying plugin
+         > bufferingThread sleep 5 or 10 seconds after receiving PALYSTART and calling HOA_Seek
+         > remove potenial memory leak ( not yet completed )
+
+
+24 Dec. 2009
+	- Fixed a bug which caused the browser malfunction so that users couldn't open Maxdome or AccuWeather from Netcast sometimes.
+
+
+23 Dec. 2009
+	- Animated GIF is supported.
+	- User agent string changed from Mozilla to WebKit style
+	- CP URLs are changed.
+		BROWSER_APP_8=http://bbtv.pq.dev.globo.com/LG/
+		BROWSER_APP_9=http://wap.uol.com.br/natv-stc/
+		BROWSER_APP_10=http://terratvlg.terra.com.br/
+		BROWSER_APP_12=http://bbtv.bazuca.com/
+		BROWSER_APP_13=http://www.emol.com/LG/
+
+
+22 Dec. 2009
+        - Window resize is supported in media plugin
+        - Broken OSD when scroll is fixed
+        - Add key codes (red, green, yellow, blue, info, stop, play, fastforward, rewind, portal)
+        - Add UserAgent workaround to make it work as Mozilla
+        - Window.NetCastReturn() is implemented
+        - Accept-language is implemented
+        - Cookie is saved in a Flash memory

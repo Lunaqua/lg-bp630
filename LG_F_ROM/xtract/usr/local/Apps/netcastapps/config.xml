@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config_appstore>
+	<social_center_auto_install>false</social_center_auto_install>
+	<3d_auto_install>false</3d_auto_install>
+	<smart_map_auto_install>false</smart_map_auto_install>
+	<manual_app_auto_install>false</manual_app_auto_install>
+	<cinema_tv>false</cinema_tv>
+	<tv_area>
+		<x>57</x>
+		<y>249</y>
+		<width>438</width>
+		<height>258</height>
+	</tv_area>
+	<nsu_3q>true</nsu_3q>
+	<test_mode>false</test_mode>
+	<web_browser>
+		<execution_name>/usr/local/browser/run7632</execution_name>
+		<param>file:///usr/local/browser/pages/webui/index.html</param>
+	</web_browser>
+</config_appstore>

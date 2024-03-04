@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Request PUBLIC "Request" "app_contentlist.dtd">
+<app_contentlist>
+  <num_apps>0</num_apps>
+  <storage_base_path>
+    <internal_memory>/mnt/appstore/contents/installed/</internal_memory>
+    <usb>/mnt/usb1/Drive1/lg_contents/installed/</usb>
+  </storage_base_path> 
+  
+</app_contentlist>

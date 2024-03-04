@@ -1,0 +1,29 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">8NJJ969NI9376J3CJN96S7CK9I8829ON9C65PNJ3S9PN36996JK578CZ2OP596ISOC3JS78CNC5PIO76Z2JKJN7NKNIJS3I7J78OSNN328755ZPPK2P2I3K2NK8P62CJJZCZK89PC72899N93CIKCKC7S75I956Z3859</Value>
+  <Value Key="UserName">JP3KI3S5875Z5O298PSZ286S976CS92P9IK88S8N8N7N29KNN55ICSZC7OJJCI3JPIIO6ZO2C9568IPJ22N2CSI7878P7CN8KIOOOCO3NOKINOICPCKIO8O222NPKSI77656</Value>
+  <Value Key="Password">SN95OP5SS5C25I9JI7S3IC29S3KKNJ6S923NZP23PJS565S8Z2I2JK7NKC672P798CP877JK9NJZS26Z8S6Z3NIC39K72C5OJP7SNZN7SSSSOZJZ2OI2ZNI728ZI7JC88KNZ7OP72CPJ95K853K3NPZ55Z9SZ5979072</Value>
+  <Value Key="DestinationTypeID">51</Value>
+  <Value Key="DeviceTypeName">Ubuntu</Value>
+  <Value Key="StoreName">CinemaNow</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">20971520</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort">8080</Value>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">700</Value>
+  <Value Key="StoreURL">http://www.cinemanow.com</Value>
+  <Value Key="ActivationURL">www.cinemanow.com/start</Value>
+  <Value Key="SupportURL">www.cinemanow.com/support</Value>
+  <Value Key="BillingURL">www.cinemanow.com/billing</Value>
+  <Value Key="ServiceBaseURL"/>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">true</Value>
+  <Value Key="HideTechnicalDetail">true</Value>
+  <Value Key="EnableCalcOrderTax">false</Value>    
+</Settings>

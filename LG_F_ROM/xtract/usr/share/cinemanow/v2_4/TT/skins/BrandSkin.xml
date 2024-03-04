@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin>
+  <Sets>
+    <Set resolution="1080" img="BrandSkin1080.png"/>
+    <Set resolution="720" img="BrandSkin720.png"/>
+    <Set resolution="540" img="BrandSkin540.png"/>
+  </Sets>
+  <Bitmaps>
+    <Bitmap id="brandLogoLarge" x="0" y="0" w="716" h="674"/>
+    <Bitmap id="brandLogoMedium" x="728" y="0" w="418" h="378"/>
+    <Bitmap id="brandLogoSmall" x="728" y="390" w="96" h="100"/>
+    <Bitmap id="brandLogoPlayer" x="836" y="390" w="158" h="140"/>
+  </Bitmaps>
+</Skin>

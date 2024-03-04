@@ -1,0 +1,20 @@
+#application_id(1)<tab>url(2)<tab>spatialnavigation(3)<tab>virtualkeyboard(4)<tab>loadingmessage(5)<tab>keycodes(6)<tab>accept-language(7)<tab>fullbrowserUI(8)
+#The (1) is application id : is numeric
+#The (2) is Application URL : is char string
+#The (3)(4)(5)(7) have 1 or 0, 1 means true, 0 means false
+#The (6) has 1(hbbtv) or 2(others)
+#The (7) is option for accuweather application, but, there could be other application like that, so it can be a option
+#The (8) is option for full browser UI, actually for the full browser this option have to be 1, but other application can be optional
+#The (9) is option for saving cookie as a file in /tmp
+#The (10) is what default language in HTTP header
+#The (11) is background color : 1 means dark gray, 0 means black
+#ORANGE = 2, BIGPOND = 3, FULLBROWSER = 4, ACCUWEATHER = 5, MAXDOME = 6
+#SINA = 7, GLOBO = 8, UOL = 9, TERRA = 10, SDP = 11
+#application_id(1)<tab>url(2)<tab>spatialnavigation(3)<tab>virtualkeyboard(4)<tab>
+#loadingmessage(5)<tab>keycodes(6)<tab>accept-language(7)<tab>fullbrowserUI(8)<tab>
+#cookiefilesave(9)<tab>defaultlanguage(10)<tab>
+#backgroundcolor(11)(0,0)forMouseOff(12)<tab>magic_remocon(13)<tab>CPcantakeEXITkey(14)<tab>
+#CPSpecificUAString(15)
+0	file:///usr/local/browser/pages/init.html	0	0	0	1	0	0	0	en	1
+6	http://mini.maxdome.de/lg/index.html	0	0	1	1	1	0	1	de	1
+14	http://terratvlg.terra.cl/	0	0	0	1	0	0	0	en	0

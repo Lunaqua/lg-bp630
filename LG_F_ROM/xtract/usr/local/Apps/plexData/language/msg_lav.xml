@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<word>1</word>
+	</item>
+	<item>
+		<id>2</id>
+		<word>2</word>
+	</item>
+	<item/>
+	<item>
+		<id>IDSTR_ACC_MANAGER</id>
+		<word>Konta iestatīšana</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL</id>
+		<word>Pieaugušo saturs nav pieejams.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL_GUIDE</id>
+		<word>Lai palaistu pieaugušo lietojumprogrammu, pierakstieties ar iegādāto ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_FAIL2</id>
+		<word>Pieaugušo autentifikācija neizdevās</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Lai piekļūtu pieaugušo saturam, nepieciešama pieaugušo verificēšana.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_MASK</id>
+		<word>Lai piekļūtu šai lietojumprogrammai, nepieciešama pieaugušo verificēšana.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_CHECK_ID_DUP</id>
+		<word>Pārbaudīt šī ID pieejamību.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_PAID_MEMBER</id>
+		<word>Jūs neesat maksas dalībnieks. Lai iegādātos šo programmu, reģistrējieties kā maksas dalībnieks vietnē www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_ALERT_NOT_SUPPORT</id>
+		<word>Televizors neatbalsta šo programmu.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPLY_GRADE_DONE</id>
+		<word>Kategorija tiek pielietota.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD1</id>
+		<word>Atmiņā nepietiek vietas šīs programmas iegādei.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_ADD3</id>
+		<word>Jūs jau novērtējāt šo programmu.</word>
+	</item>
+	<item>
+		<id>IDSTR_APPSTORE_NO_REVIEWS</id>
+		<word>Nav pārskatu</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AT</id>
+		<word>Austrija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_AU</id>
+		<word>Austrālija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BE</id>
+		<word>Beļģija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_BR</id>
+		<word>Brazīlija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CH</id>
+		<word>Šveice</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CN</id>
+		<word>Ķīna</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_CZ</id>
+		<word>Čehija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DE</id>
+		<word>Vācija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_DK</id>
+		<word>Dānija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_ES</id>
+		<word>Spānija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_EU7</id>
+		<word>Citas</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FI</id>
+		<word>Somija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_FR</id>
+		<word>Francija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GB</id>
+		<word>Lielbritānija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_GR</id>
+		<word>Grieķija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HR</id>
+		<word>Horvātija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_HU</id>
+		<word>Ungārija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_IT</id>
+		<word>Itālija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_KR</id>
+		<word>Dienvidkoreja</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_LU</id>
+		<word>Luksemburga</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NL</id>
+		<word>Nīderlande</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_NO</id>
+		<word>Norvēģija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_PT</id>
+		<word>Portugāle</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_RU</id>
+		<word>Krievija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_SE</id>
+		<word>Zviedrija</word>
+	</item>
+	<item>
+		<id>IDSTR_AS_US</id>
+		<word>ASV</word>
+	</item>
+	<item>
+		<id>IDSTR_AUTH_PAID_FAIL</id>
+		<word>Maksas dalībnieka autentifikācija neizdevās.</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO</id>
+		<word>Pamatinformācija</word>
+	</item>
+	<item>
+		<id>IDSTR_BASIC_INFO_EDIT</id>
+		<word>Lai mainītu konta iestatījumu, lūdzu, apmeklējiet www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>diena(-as)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>stunda(-as)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_ITEM</id>
+		<word>Vienums</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MINUTE</id>
+		<word>minūte(-es)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>mēnesis(-ši)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_PAYMENT_INQUIRY</id>
+		<word>Maksājuma pieprasījums</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TIMES</id>
+		<word>reize(-es)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_TOTAL_PAYMENT_AMOUNT</id>
+		<word>Maksājuma kopsumma</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_UNLIMITED</id>
+		<word>Neierobežots</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_YEAR</id>
+		<word>gads(-i)</word>
+	</item>
+	<item>
+		<id>IDSTR_BT_INFO_EDIT</id>
+		<word>Rediģēt</word>
+	</item>
+	<item>
+		<id>IDSTR_BUY</id>
+		<word>Iegādāties</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_FREE</id>
+		<word>Bezmaksas tops</word>
+	</item>
+	<item>
+		<id>IDSTR_CARD_TOP_PAID</id>
+		<word>Apmaksāto tops</word>
+	</item>
+	<item>
+		<id>IDSTR_CHANGE_USER</id>
+		<word>Mainīt lietotāju</word>
+	</item>
+	<item>
+		<id>IDSTR_CHECK_ID_DUP</id>
+		<word>Pārbaudīt ID</word>
+	</item>
+	<item>
+		<id>IDSTR_CL_BACK</id>
+		<word>Atpakaļ</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CANCEL</id>
+		<word>Atcelt</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_CLOSE</id>
+		<word>Aizvērt</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_DELETE</id>
+		<word>Dzēst</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_EXIT</id>
+		<word>Iziet</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_NO</id>
+		<word>Nē</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Lapa</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_YES</id>
+		<word>Jā</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_AUTO_SIGN_IN</id>
+		<word>Autom. pieraks.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_HOME</id>
+		<word>Sākums</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MOVE</id>
+		<word>Pārvietot</word>
+	</item>
+	<item>
+		<id>IDSTR_DATEOF_BIRTH</id>
+		<word>Dzimšanas datums</word>
+	</item>
+	<item>
+		<id>IDSTR_DIVA_PASSWORD</id>
+		<word>Parole</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED</id>
+		<word>Neizdevās lejupielādēt</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_DISK_ERROR</id>
+		<word>Neizdevās lejupielādēt diska kļūdas dēļ.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_FAILED_SERVER_ERROR</id>
+		<word>Neizdevās lejupielādēt servera kļūdas dēļ.</word>
+	</item>
+	<item>
+		<id>IDSTR_DOWNLOAD_SUCCESS</id>
+		<word>Lejupielāde veiksmīga</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_DVR_TOTAL</id>
+		<word>Kop.</word>
+	</item>
+	<item>
+		<id>IDSTR_EMAIL</id>
+		<word>E-pasts</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_USB_EJECT</id>
+		<word>USB ierīce ir atvienota.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_ADULT</id>
+		<word>Lai lietotu tikai pieaugušajiem paredzētas programmas, ievadiet savu ID un paroli.</word>
+	</item>
+	<item>
+		<id>IDSTR_EXPLAIN_AUTH_PAID</id>
+		<word>Lai apstiprinātu maksas dalībnieka statusu, ievadiet savu ID un paroli.</word>
+	</item>
+	<item>
+		<id>IDSTR_EZSCAN_ALL</id>
+		<word>Visi</word>
+	</item>
+	<item>
+		<id>IDSTR_FAIL_INSTALL</id>
+		<word>Neizdevās instalēt</word>
+	</item>
+	<item>
+		<id>IDSTR_FAILED_GRADING</id>
+		<word>Neizdevās pielietot kategoriju.</word>
+	</item>
+	<item>
+		<id>IDSTR_FEATURE_HEAD</id>
+		<word>Lai izmantotu šo lietojumprogrammu, vajadzīgas turpmāk norādītās funkcijas.</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER</id>
+		<word>Dzimums</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_MAN</id>
+		<word>Vīrietis</word>
+	</item>
+	<item>
+		<id>IDSTR_GENDER_WOMAN</id>
+		<word>Sieviete</word>
+	</item>
+	<item>
+		<id>IDSTR_GIVE_GRADES</id>
+		<word>Piešķirt kategorijas</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_NOT_MATCH_COUNTRY</id>
+		<word>ID vai valsts neatbilst.</word>
+	</item>
+	<item>
+		<id>IDSTR_ID_RANGE_D</id>
+		<word>ID: 6~12 zīmes - alfabēta burti vai cipari</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL</id>
+		<word>instalēt</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_COMPLETE</id>
+		<word>Instalācija pabeigta.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALL_EXCEED</id>
+		<word>Lietojumpr. jau ir instalēta 5 TV ierīcēs.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED</id>
+		<word>Instalēts</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLED_APPS</id>
+		<word>Instalētās lietojumpr.</word>
+	</item>
+	<item>
+		<id>IDSTR_INSTALLING</id>
+		<word>Instalēšana</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGAL_NOTICE_SIGN_OUT</id>
+		<word>Veikta izrakstīšanās, jo nav apstiprināta piekrišana jaunajiem Lietošanas noteikumiem.</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_AGREE</id>
+		<word>Piekrītu</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_DISAGREE</id>
+		<word>Nepiekrītu</word>
+	</item>
+	<item>
+		<id>IDSTR_LEGALNOTICE_TITLE</id>
+		<word>Pakalpojuma lietošanas noteikumi</word>
+	</item>
+	<item>
+		<id>IDSTR_LGTV_REGISTER</id>
+		<word>LG TV reģistrācija</word>
+	</item>
+	<item>
+		<id>IDSTR_LOCK_PWDLG_MATCH_PWD</id>
+		<word>Parole neatbilst.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CHECK_CREDIT_CARD</id>
+		<word>Pārbaudiet savas kredītkartes informāciju tīmekļa vietnē.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_CREDIT_CARD_NOT_VALID</id>
+		<word>Kredītkartes informācija nav derīga.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_ERROR_TIME_EXCEED</id>
+		<word>Pieļaujamais paroles atteices reižu skaits ir pārsniegts.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_GRADE_WITH_ID</id>
+		<word>Piešķiriet kategorijas ar ID, ko iegājāties šajā liet. pr.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_LIMIT_EXCEED</id>
+		<word>Atteikts - pārsniegts apjoma limits.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_NETWORK_UNSTABLE</id>
+		<word>Tīkla vai servera savienojums ir nestabils. Mēģiniet vēlreiz vēlāk.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOG_PLEASE_SIGN_IN</id>
+		<word>Pieteikties TV</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_ACTIVATE_UPTO_5</id>
+		<word>Varat aktivizēt līdz 5 TV ar vienu ID. TV ierīcei, kam esat reģistrējies iepriekš, atspējojiet ID sadaļā Smart TV iestatījums &gt; ID pārvaldība.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_0</id>
+		<word>Ja neesat dalībnieks</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_1</id>
+		<word>Nospiediet šo pogu.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_10</id>
+		<word>Jūs no sava TV varat reģistrēties tikai kā bezmaksas dalībnieks. Ja vēlaties kļūt par maksas dalībnieku vai mainīt savu informāciju, lūdzu, izmantojot datoru, apmeklējiet www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_11_D</id>
+		<word>Nepiemērota parole. Ievadiet 4~12 zīmes - tikai alfabēta burtus un ciparus.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_13</id>
+		<word>Tagad jūs esat reģistrēts kā bezmaskas dalībnieks.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_15_D</id>
+		<word>Nepiemērots ID. Ievadiet 6~12 zīmes - tikai alfabēta burtus un ciparus.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_16</id>
+		<word>Tāds ID jau tiek izmantots. Lūdzu, mēģiniet citu ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_17</id>
+		<word>ID ir pieejams.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_2</id>
+		<word>Ar vienu ID varat aktivizēt līdz 5 TV ierīcēm. Pārbaudiet aktivizācijas iestatījumus, izmantojot datoru un apmeklējot www.lgappstv.com.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_3</id>
+		<word>Serveris ir atvienots. Mēģiniet vēlreiz vēlāk.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_4</id>
+		<word>Nepareizs ID un/vai parole</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_5</id>
+		<word>Pārliecinieties, ka preizi ievadījāt ID un paroli.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_6</id>
+		<word>Pierakstīšanās izdevās.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_9</id>
+		<word>Reģistrējieties ar LG TV, lai baudītu Premium pakalpojumu, TV lietojumprogr., Manas lietojumprogr. un daudz ko citu.</word>
+	</item>
+	<item>
+		<id>IDSTR_LOGIN_DESC_RESTRICT</id>
+		<word>Nepiemērots ID.</word>
+	</item>
+	<item>
+		<id>IDSTR_MAGIC_REMOCON</id>
+		<word>Tālvadības pults Magic Motion</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_APPS</id>
+		<word>Manas lietojumpr.</word>
+	</item>
+	<item>
+		<id>IDSTR_MY_INFORMATION</id>
+		<word>Mana informācija</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_CANNOT_EDIT</id>
+		<word>Varat rediģēt šo liet. pr.</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_NEED_UPDATE</id>
+		<word>Tā jāatjaunina. Vai vēlaties to atjaunināt?</word>
+	</item>
+	<item>
+		<id>IDSTR_MYAPPS_UPDATE_ERROR</id>
+		<word>Atjauninājuma kļūda</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_FAIL_NETWORK</id>
+		<word>Neizdevās pievienoties tīklam. Vai vēlaties iestatīt tīklu?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS</id>
+		<word>Citas</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Izvēlētajā valstī pakalpojums nav pieejams.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETWORK_UPDATE_COMPLETE</id>
+		<word>Atjaunināšana pabeigta.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_INSTALLED</id>
+		<word>Nav atrasta neviena instalēta programma.</word>
+	</item>
+	<item>
+		<id>IDSTR_NO_DATA_PURCHASE</id>
+		<word>Nav pirkumu vēstures.</word>
+	</item>
+	<item>
+		<id>IDSTR_NOT_INSTALLED</id>
+		<word>Nav instalēts</word>
+	</item>
+	<item>
+		<id>IDSTR_NSU_NEW_SOFTWARE_READY</id>
+		<word>Ir sagatavota jauna programmatūras versija. Vai vēlaties to atjaunināt?</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_CHECK_NETWORK_CABLE</id>
+		<word>Tīkls ir atvienots. Lūdzu, pārbaudiet savienojumu.</word>
+	</item>
+	<item>
+		<id>IDSTR_OPTION_COUNTRY</id>
+		<word>Valsts</word>
+	</item>
+	<item>
+		<id>IDSTR_PURCHASED_APPS</id>
+		<word>Iegādātās lietojumpr.</word>
+	</item>
+	<item>
+		<id>IDSTR_PWD_RANGE_D</id>
+		<word>Parole: 4~12 zīmes - alfabēta burti un cipari</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_DELETE</id>
+		<word>Ja vēlaties to dzēst, tā vairs nebūs pieejama sadaļā Manas lietojumpr. Vai tiešām vēlaties to dzēst?</word>
+	</item>
+	<item>
+		<id>IDSTR_Q_INSTALL</id>
+		<word>Vai vēlaties to instalēt?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_BUY</id>
+		<word>Vai vēlaties to iegādāties?</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_DELETE</id>
+		<word>Vai tiešām vēlaties to dzēst?</word>
+	</item>
+	<item>
+		<id>IDSTR_RATINGS</id>
+		<word>Vērtējumi</word>
+	</item>
+	<item>
+		<id>IDSTR_RE_ENTER_PWD</id>
+		<word>Ievadiet paroli vēlreiz</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER</id>
+		<word>Reģistrēt</word>
+	</item>
+	<item>
+		<id>IDSTR_REGISTER_FAIL</id>
+		<word>Neizdevās reģistrēt.</word>
+	</item>
+	<item>
+		<id>IDSTR_REQUIRED_DEVICES</id>
+		<word>Lai izmantotu lietojumprogrammu, vajadzīga(-s) turpmāk norādītā(-s) ierīce(-s).</word>
+	</item>
+	<item>
+		<id>IDSTR_REVIEW</id>
+		<word>Pārskats</word>
+	</item>
+	<item>
+		<id>IDSTR_SDP_ERR_AUTHENTICATION</id>
+		<word>Autentifikācijas kļūda. Vēlāk mēģiniet vēlreiz.</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_HOT</id>
+		<word>KARSTS</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_MEDIA_LINK</id>
+		<word>Multivides saite</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_NEW</id>
+		<word>JAUNS</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREMIUM</id>
+		<word>Premium</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_PREPARING_SERVICE</id>
+		<word>Drīzumā</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_HOME_WEB_BROWSER</id>
+		<word>Tīmekļa pārlūks</word>
+	</item>
+	<item>
+		<id>IDSTR_SETUP_MANUALSCAN_NAME</id>
+		<word>Nosaukums</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Pieaugušo autentifikācija</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_PAID</id>
+		<word>Maksas dalībnieka autentifikācija</word>
+	</item>
+	<item>
+		<id>IDSTR_TOTAL_2</id>
+		<word>Kopā</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS_ORIGINAL</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TV_APPS</id>
+		<word>LG Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_FREE</id>
+		<word>Bezmaksas</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_GO_TO_MYAPPS</id>
+		<word>Doties uz My Apps</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_INFORMATION_INSTALLED</id>
+		<word>Šī liet. pr. jau ir instalēta.</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_NO_DATA</id>
+		<word>Nav datu</word>
+	</item>
+	<item>
+		<id>IDSTR_TVAPPS_VERSION</id>
+		<word>Versija </word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATE_FAILED</id>
+		<word>Neizdevās atjaunināt.</word>
+	</item>
+	<item>
+		<id>IDSTR_UPDATED_AT</id>
+		<word>Atjaunināts</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_BACKUP_HDD_LOADING</id>
+		<word>Veido savienojumu ar USB ierīci</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_1</id>
+		<word>Lai nopirktu šo liet. pr., nepietiek atmiņas.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_CANT_BUY_2</id>
+		<word>Lai nopirktu šo liet. pr., nepietiek atmiņas.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_ALERT</id>
+		<word>Vai vēlaties formatēt tūlīt? Lietojot šo USB atmiņas ierīci, tiks dzēsti visi USB atmiņas dati.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMAT_DONE</id>
+		<word>Formatēšana ir pabeigta. Ārējo atmiņu var izmantot kā papildu atmiņu liet. programmām.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_FORMATTING</id>
+		<word>Notiek formatēšana. Formatēšanas laikā neizslēdziet TV vai USB savienojumu.</word>
+	</item>
+	<item>
+		<id>IDSTR_USB_SAVED_AT_USB</id>
+		<word>Dati ir saglabāti ārējā USB atmiņā.</word>
+	</item>
+	<item>
+		<id>IDSTR_USED</id>
+		<word>Izmantots</word>
+	</item>
+	<item>
+		<id>IDSTR_WEBCAM</id>
+		<word>Tīkla kamera</word>
+	</item>
+	<item>
+		<id>IDSTR_WELCOME_NETCAST</id>
+		<word>Laipni lūdzam Smart TV</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Atpakaļ</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ID</id>
+		<word>ID</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SEARCH</id>
+		<word>Meklēt</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Pierakstīties</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_OUT</id>
+		<word>Izrakstīties</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMING_SOON</id>
+		<word>Drīzumā</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTICE</id>
+		<word>Paziņojums</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_NOTIFICATION</id>
+		<word>Paziņojums</word>
+	</item>
+	<item>
+		<id>IDSTR_QUESTION_UPDATE</id>
+		<word>Atrasta jaunāka lietojumpr. versija. Vai vēlaties to atjaunot tūlīt?</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATE_CAUTION</id>
+		<word>Notiek programmatūras atjaunināšana un lejupielāde. Atjaunināšanas laikā NEIZSLĒDZIET ierīci un neatvienojiet tīkla kabeli.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_COMPLETE_SDP_UPDATE</id>
+		<word>Programmatūras atjaunināšana ir pabeigta.</word>
+	</item>
+	<item>
+		<id>IDSTR_CURRENT_SETTING_COUNTRY</id>
+		<word>Pašreizējā iestatītā valsts</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SDP_UPDATING_CAUTION</id>
+		<word>Kamēr atjauninās programmatūra, neizslēdziet TV un tīkla savienojumu.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_DONE_SDP_UPDATE</id>
+		<word>Atrasta un atjaunināta jaunāka programmatūras versija.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SOFT_UPDATE</id>
+		<word>Programm. atjaunināšana</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_LOADING</id>
+		<word>Ielādē...</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SETUP</id>
+		<word>Iestatīt</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_SERVICE_NOT_AVAILABLE</id>
+		<word>Izvēlētajā valstī pakalpojums nav pieejams.</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_WEB_BROWSER</id>
+		<word>Tīmekļa pārlūks</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEDIA_LINK</id>
+		<word>Multivides saite</word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_MEMORY_INIT</id>
+		<word>Inicializēt </word>
+	</item>
+	<item>
+		<id>IDSTR_NETCAST_OTHERS_CAUTION</id>
+		<word>Nevar atrast pakalpojuma valsti. Vai vēlaties atlasīt valsti tūlīt?</word>
+	</item>
+	<item>
+		<id>IDSTR_DO_SW_UPDATE</id>
+		<word>Atjaunināt programmatūru no iestatījumu paneļa.</word>
+	</item>
+	<item>
+		<id>IDSTR_COUNTRY_SETTING</id>
+		<word>Valsts iestatīšana</word>
+	</item>
+	<item/>
+</BBKR_string>

@@ -1,0 +1,23 @@
+Version 1.1.
+- msdl
+	- 4th release
+	- -s and -r options added, now Fast streaming is (partly) available.
+	- some cleanup on rtsp-related codes
+
+Version 1.0.
+- msdl
+	- third release
+	- fixed memory leaks
+	- ftp support added
+	- WMP ver.11 useragent string
+
+Version 0.9.
+- msdl
+	- Second release
+	- added auto fallback of rtsp->mmst
+
+
+Version 0.8.
+
+- msdl
+	- First release

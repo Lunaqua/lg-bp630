@@ -1,0 +1,21 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+68552         0x10BC8         Mediatek bootloader
+118624        0x1CF60         Mediatek bootloader
+412325        0x64AA5         Certificate in DER format (x509 v3), header length: 4, sequence length: 1284
+412441        0x64B19         Certificate in DER format (x509 v3), header length: 4, sequence length: 1288
+417544        0x65F08         CRC32 polynomial table, little endian
+429476        0x68DA4         CRC32 polynomial table, little endian
+505936        0x7B850         uImage header, header size: 64 bytes, header CRC: 0x4A0DFD5C, created: 2014-11-25 06:03:20, image size: 1818256 bytes, Data Address: 0xDA00000, Entry Point: 0xDA00000, data CRC: 0x24F720FE, OS: Linux, CPU: ARM, image type: OS Kernel Image, compression type: none, image name: ""
+506000        0x7B890         Linux kernel ARM boot executable zImage (little-endian)
+511700        0x7CED4         LZO compressed data
+512016        0x7D010         LZO compressed data
+1647475       0x192373        mcrypt 2.5 encrypted data, algorithm: "!", keysize: 18475 bytes, mode: "L",
+1687027       0x19BDF3        mcrypt 2.5 encrypted data, algorithm: "\", keysize: 637 bytes, mode: "F",
+1892942       0x1CE24E        Linux kernel version 2.6.35
+4969680       0x4BD4D0        Squashfs filesystem, little endian, version 4.0, compression:gzip, size: 147256248 bytes, 4755 inodes, blocksize: 65536 bytes, created: 2014-11-25 06:13:28
+152356048     0x914C4D0       PNG image, 720 x 480, 8-bit/color RGBA, non-interlaced
+152356133     0x914C525       Zlib compressed data, best compression
+152358805     0x914CF95       Zlib compressed data, best compression
+

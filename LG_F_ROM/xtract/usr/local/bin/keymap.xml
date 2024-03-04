@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+    <entry>
+        <input type="flashkey">Key.SPACE</input>
+        <output type="aekey">AEKEY_PLAY</output>
+    </entry>
+    <entry>
+        <input type="flashkey">Key.SPACE</input>
+        <output type="aekey">AEKEY_PAUSE</output>
+    </entry>
+    <entry>
+        <input type="char">'a'</input>
+        <output type="aekey">AEKEY_REWIND</output>
+    </entry>
+    <entry>
+        <input type="char">'s'</input>
+        <output type="aekey">AEKEY_FAST_FORWARD</output>
+    </entry>
+    <entry>
+        <input type="char">'x'</input>
+        <output type="aekey">AEKEY_EXIT</output>
+    </entry>
+    <entry>
+        <input type="char">'z'</input>
+        <output type="aekey">AEKEY_STOP</output>
+    </entry>
+    <entry>
+        <input type="flashkey">Key.END</input>
+        <output type="aekey">AEKEY_STOP</output>
+    </entry>
+    <entry>
+        <input type="flashkey">Key.SHIFT</input>
+        <output type="aekey">AEKEY_REWIND</output>
+    </entry>
+    <entry>
+        <input type="flashkey">Key.CONTROL</input>
+        <output type="aekey">AEKEY_FAST_FORWARD</output>
+    </entry>
+    <entry>
+        <input type="flashkey">Key.INSERT</input>
+        <output type="aekey">AEKEY_PLAY</output>
+    </entry>
+    <entry>
+        <input type="flashkey">Key.DELETEKEY</input>
+        <output type="aekey">AEKEY_PAUSE</output>
+    </entry>        
+    <entry>
+        <input type="flashkey">Key.ESCAPE</input>
+        <output type="aekey">AEKEY_EXIT</output>
+    </entry>
+</keymap>
+

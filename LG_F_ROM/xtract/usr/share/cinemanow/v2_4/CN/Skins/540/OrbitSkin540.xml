@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin version="1.0" img="Orbit540.png">
+  <Bitmap id="creditCardIcons" x="0" y="0" w="29" h="18" count="4"/>
+  <Bitmap id="eyeIcons" x="0" y="18" w="28" h="28" count="4"/>
+  <Bitmap id="boxartBackground" x="0" y="46" w="107" h="147"/>
+  <Bitmap id="merchTitlesBackground" x="107" y="46" w="10" h="168" scale9Grid="1 1 8 166"/>
+  <Bitmap id="dialogBackground" x="0" y="193" w="45" h="45" scale9Grid="20 20 5 5"/>
+  <Bitmap id="backIcon" x="45" y="193" w="30" h="17" count="2" direction="vertical"/>
+  <Bitmap id="textFieldGlow" x="75" y="193" w="13" h="30" scale9Grid="4 4 5 22"/>
+  <Bitmap id="textFieldBack" x="88" y="193" w="15" h="30" scale9Grid="8 10 5 20"/>
+  <Bitmap id="blueGlow" x="86" y="223" w="27" h="27" scale9Grid="11 11 5 5"/>
+  <Bitmap id="newCustStart" x="45" y="227" w="19" h="18"/>
+  <Bitmap id="infoIcon" x="64" y="227" w="22" h="22"/>
+  <Bitmap id="roundedBoxGray24" x="0" y="238" w="15" h="15" scale9Grid="5 5 5 5"/>
+  <Bitmap id="textEntryBackground" x="15" y="238" w="14" h="14" scale9Grid="9 8 4 4"/>
+  <Bitmap id="welcomeGetStarted" x="117" y="0" w="212" h="220" count="2"/>
+</Skin>

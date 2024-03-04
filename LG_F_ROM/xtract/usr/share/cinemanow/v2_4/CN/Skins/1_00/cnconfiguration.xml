@@ -1,0 +1,27 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">8J9C5NS3NIJ3S559P567S9OCK8JPKK9C388C89S8PCJ6N26I8Z3K3325CJ8JZ2CZOZZ223KISN9Z2NSC6Z6SIN92PJI2CJ9SZ62PK92Z88CI35ZN7CSCJKPI3SI6KC6KNNO7ZK6Z7JI7K5ZI99C6NO2NI9P966ZS1547</Value>
+  <Value Key="UserName">K38K83PK2Z5K2NZJS2ZZ7I8P3NP326978C927J38OJON5J3K8SI36C599OK3285N3540</Value>
+  <Value Key="Password">73N3ZJ537NONJS2OOS8CZ9JK5N6CIS66PNOS9N8K5P98PCSO5KN35579O8PO69ICI6JC3JS8792JPZ698IKPKC98K5I9CZSP1159</Value>
+  <Value Key="DestinationTypeID">51</Value>
+  <Value Key="DeviceTypeName">Blu-ray Player</Value>
+  <Value Key="StoreName">CinemaNow</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">20971520</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort">8080</Value>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">700</Value>
+  <Value Key="StoreURL">http://www.cinemanow.com</Value>
+  <Value Key="ActivationURL">www.cinemanow.com/start</Value>
+  <Value Key="SupportURL">www.cinemanow.com/support</Value>
+  <Value Key="BillingURL">www.cinemanow.com/billing</Value>
+  <Value Key="ServiceBaseURL"></Value>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">true</Value>      
+</Settings>

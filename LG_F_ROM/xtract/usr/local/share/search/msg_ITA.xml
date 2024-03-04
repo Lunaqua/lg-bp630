@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <item>
+    <id>IDSTR_CMN_PREV</id>
+    <word>Prec.</word>
+  </item>
+  <item>
+    <id>IDSTR_CMN_CLOSE</id>
+    <word>Chiudi</word>
+  </item>
+  <item>
+    <id>IDSTR_RESV_DELETE_ALL</id>
+    <word>Elimina tutti</word>
+  </item>
+  <item>
+    <id>IDSTR_YOUTUBE_SEARCH</id>
+    <word>Cerca</word>
+  </item>
+  <item>
+    <id>IDSTR_BACK</id>
+    <word>INDIETRO</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_ENTER_A_SEARCH_REQUEST</id>
+    <word>Inserire una richiesta di ricerca.</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_SEARCH</id>
+    <word>Cerca</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_MSG_NO_RESULTS</id>
+    <word>Nessun risultato trovato.</word>
+  </item>
+  <item>
+    <id>IDSTR_Extend</id>
+    <word>Estendi</word>
+  </item>
+</BBKR_string>

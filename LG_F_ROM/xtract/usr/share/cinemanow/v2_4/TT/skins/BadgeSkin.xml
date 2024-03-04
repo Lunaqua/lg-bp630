@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin>
+  <Sets>
+    <Set resolution="1080" img="BadgeSkin1080.png"/>
+    <Set resolution="720" img="BadgeSkin720.png"/>
+    <Set resolution="540" img="BadgeSkin540.png"/>
+  </Sets>
+  <Bitmaps>
+    <!-- MPAA Ratings -->
+    <Bitmap id="mpaaRatingG" x="0" y="0" w="36" h="32"/>
+    <Bitmap id="mpaaRatingPG" x="0" y="34" w="61" h="32"/>
+    <Bitmap id="mpaaRatingPG13" x="0" y="68" w="114" h="32"/>
+    <Bitmap id="mpaaRatingR" x="0" y="102" w="37" h="32"/>
+    <Bitmap id="mpaaRatingNR" x="0" y="136" w="59" h="32"/>
+    <Bitmap id="mpaaRatingNC17" x="0" y="170" w="101" h="32"/>
+    <Bitmap id="mpaaRatingTVY" x="0" y="204" w="48" h="32"/>
+    <Bitmap id="mpaaRatingTVY7" x="0" y="238" w="48" h="32"/>
+    <Bitmap id="mpaaRatingTVG" x="0" y="272" w="48" h="32"/>
+    <Bitmap id="mpaaRatingTVPG" x="0" y="306" w="48" h="32"/>
+    <Bitmap id="mpaaRatingTV14" x="0" y="340" w="48" h="32"/>
+    <Bitmap id="mpaaRatingTVMA" x="0" y="374" w="48" h="32"/>
+    
+    <!-- Title Badges -->
+    <Bitmap id="badgeHDSD" x="120" y="0" w="102" h="32"/>
+    <Bitmap id="badgeHD" x="120" y="34" w="52" h="32"/>
+    <Bitmap id="badgeSD" x="120" y="68" w="52" h="32"/>
+    <Bitmap id="badgeUV" x="174" y="34" w="34" h="34"/>
+    <Bitmap id="badgeCC" x="174" y="68" w="52" h="32"/>
+    <Bitmap id="bullsEyeLogo" x="120" y="102" w="34" h="34"/>
+    <Bitmap id="rottenTomato" x="120" y="136" w="42" h="52"/>
+    <Bitmap id="rottenTomatoSplattered" x="208" y="136" w="42" h="52"/>
+    <Bitmap id="flixster" x="164" y="136" w="42" h="52"/>
+    <Bitmap id="badgeAAC" x="120" y="190" w="112" h="58"/>
+    <Bitmap id="badgeDTS" x="0" y="408" w="276" h="48"/>
+    <Bitmap id="badgeDolby51" x="0" y="458" w="232" h="34"/>
+    <Bitmap id="badgeDolby" x="0" y="494" w="158" h="34"/>
+    <Bitmap id="badgeDTSSmall" x="0" y="530" w="196" h="34"/>
+    <Bitmap id="badgeTHX" x="0" y="566" w="168" h="34"/>
+  </Bitmaps>
+</Skin>

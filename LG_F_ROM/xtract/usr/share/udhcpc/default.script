@@ -1,0 +1,54 @@
+#!/bin/sh
+
+# udhcpc script edited by Tim Riker <Tim@Rikers.org>
+
+[ -z "$1" ] && echo "Error: should be called from udhcpc" && exit 1
+
+RESOLV_CONF="/etc/resolv.conf"
+[ -n "$broadcast" ] && BROADCAST="broadcast $broadcast"
+[ -n "$subnet" ] && NETMASK="netmask $subnet"
+
+case "$1" in
+	deconfig)
+		# /sbin/ifconfig $interface 0.0.0.0
+		;;
+
+	renew|bound)
+		/sbin/ifconfig $interface $ip $BROADCAST $NETMASK
+
+		if [ -n "$router" ] ; then
+			echo "deleting routers"
+			while route del default gw 0.0.0.0 dev $interface ; do
+				:
+			done
+
+			metric=0
+			for i in $router ; do
+				route add default gw $i dev $interface metric $((metric++))
+			done
+		fi
+		if [ $interface != "p2p0" ]; then
+		echo -n > $RESOLV_CONF
+		fi
+		[ -n "$domain" ] && echo search $domain >> $RESOLV_CONF
+		for i in $dns ; do
+			echo adding dns $i
+			echo nameserver $i >> $RESOLV_CONF
+		done
+		;;
+esac
+
+if  [ -n "$ip" ] && [ "$ip" != "0.0.0.0" ] ; then
+    #Add for generating information for DHCP restart
+    echo "$ip" > /var/dhcpc.ip
+    echo "$lease" > /var/dhcpc.lease
+
+    #Add for get DNS server adress
+    echo "$serverid" > /var/dhcp_server
+		if [ $interface = "p2p0" ]; then
+		mkdir -p /tmp/wpa_supplicant
+    echo "$serverid" > /tmp/wpa_supplicant/p2p_s_ip
+		fi    
+fi 
+
+exit 0

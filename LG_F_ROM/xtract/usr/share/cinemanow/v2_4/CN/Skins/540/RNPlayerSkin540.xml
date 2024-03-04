@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin version="1.0" img="RNPlayerSkin540.png">
+  <Bitmap id="playIcons" x="0" y="0" w="18" h="14" count="7"/>
+  <Bitmap id="positionLocator" x="0" y="14" w="42" h="42" count="2"/>
+  <Bitmap id="hdIcon" x="133" y="0" w="23" h="14"/>
+  <Bitmap id="51Icon" x="133" y="14" w="21" h="14"/>
+  <Bitmap id="thxIcon" x="86" y="45" w="79" h="16"/>
+
+  <Bitmap id="dd20Logo" x="948" y="0" w="54" h="25"/>
+  <Bitmap id="dd51Logo" x="948" y="25" w="54" h="25"/>
+  <Bitmap id="dtsLogo" x="948" y="50" w="75" h="13"/>
+
+  <Bitmap id="transportBar" x="86" y="14" w="34" h="17" scale9Grid="28 1 4 15"/>
+  <Bitmap id="transportBarFill" x="120" y="15" w="5" h="15" scale9Grid="0 0 5 10"/>
+  <Bitmap id="transportBarDarkFill" x="125" y="15" w="5" h="15" scale9Grid="0 0 5 10"/>
+
+  <Bitmap id="playbackControlPrev" x="165" y="0" w="79" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlRew" x="244" y="0" w="77" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlPause" x="321" y="0" w="77" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlPlay" x="398" y="0" w="77" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlStop" x="475" y="0" w="77" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlFfwd" x="552" y="0" w="77" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlNext" x="629" y="0" w="80" h="34" count="2" direction="vertical"/>
+
+  <Bitmap id="flvPlaybackControlPause" x="709" y="0" w="79" h="34" count="2" direction="vertical"/>
+  <Bitmap id="flvPlaybackControlPlay" x="788" y="0" w="79" h="34" count="2" direction="vertical"/>
+  <Bitmap id="flvPlaybackControlStop" x="867" y="0" w="80" h="34" count="2" direction="vertical"/>
+
+  <Bitmap id="playbackControlClosedCaptioningOff" x="1024" y="0" w="52" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlClosedCaptioningOn" x="1076" y="0" w="52" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlClosedCaptioningUnavailableOff" x="1128" y="0" w="52" h="34" count="2" direction="vertical"/>
+  <Bitmap id="playbackControlClosedCaptioningUnavailableOn" x="1180" y="0" w="52" h="34" count="2" direction="vertical"/>
+</Skin>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin>
+  <Sets>
+    <Set resolution="1080" img="SpinnerSkin1080.png"/>
+    <Set resolution="720" img="SpinnerSkin720.png"/>
+    <Set resolution="540" img="SpinnerSkin540.png"/>
+  </Sets>
+  <Bitmaps>
+    <Bitmap id="spinner" x="0" y="0" w="100" h="100" spacing="8" count="8" direction="vertical" />
+    <Bitmap id="spinnerSmall" x="108" y="0" w="78" h="78" spacing="8" count="8" direction="vertical" />
+    <Bitmap id="spinnerSmaller" x="194" y="0" w="62" h="62" spacing="8" count="8" direction="vertical" />
+  </Bitmaps>
+</Skin>

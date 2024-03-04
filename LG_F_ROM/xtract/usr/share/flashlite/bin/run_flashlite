@@ -1,0 +1,43 @@
+#!/bin/sh
+
+BASE_DIR=`pwd`
+
+export HOME=/usr/share/flashlite
+
+export BASE_DIR=`pwd`
+export DEPLOY_DIR=$HOME
+export BROWSER_HOME=/usr/share/browser
+export BDP_HOME=
+export CACHE_HOME=/usr/share/flashlite/cache
+
+export LD_LIBRARY_PATH=$BROWSER_HOME/lib:$DEPLOY_DIR/lib:$BDP_HOME/lib:/usr/local/lib:$BASE_DIR/../lib:$BASE_DIR/../../local/lib:$LD_LIBRARY_PATH
+export PATH=$DEPLOY_DIR/bin:/usr/local/bin:$PATH:$BASE_DIR:$BASE_DIR/../../
+export DISPLAY=""
+export XDG_DATA_HOME=$DEPLOY_DIR/etc
+
+export PANGO_FONT_PATH=$BROWSER_HOME/etc/fonts
+export PANGO_RC_FILE=$BROWSER_HOME/etc/pango/pangorc
+export FONTCONFIG_FILE=$BROWSER_HOME/etc/fonts/fonts.conf
+
+
+# make fontconfig know where its configuration
+export FLASHLITE_FILE=$@
+
+case ${0} in
+  bash | -bash | sh | -sh)
+    echo ".................................."
+    env
+    echo ".................................."
+    return 1 ;;
+esac
+
+grep -q loglevel=0 /proc/cmdline
+echo "loading... $FLASHLITE_FILE";
+
+
+#echo "" 
+#echo "----------------------------------------------"
+#echo "             Launching Stagecraft1.2          "
+#echo "----------------------------------------------"
+/usr/share/flashlite/bin/stagecraft $FLASHLITE_FILE
+

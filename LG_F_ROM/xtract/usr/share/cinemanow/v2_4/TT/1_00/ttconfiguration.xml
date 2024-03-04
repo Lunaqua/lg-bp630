@@ -1,0 +1,29 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">INZ27OSK575CJKJSZK98K8JC57CO53CIJ7S639PIS58O8NSJO859SI73IOI639K833CJJ9C6K235K25933J99I83PP5ZI698J855SJP2I8K2IJ773PK3KJ87NJZSKZ3C32P6P755I36JZ8386N9OCNK9P95OI7IJ0000</Value>
+  <Value Key="UserName">CI3IK9KKNIOCZZ83S9ZPP3ZINCI3J673JSZP9IN5ICCSSPJSKCO3PINJINJNC9CSSNJC2N8JZ7IO3PI9PJ7OZ5SCNO69S9O7ONI33N525J7COS67S6PN282SPI5J288J3892I77KJNZCS96ZO2CO7S6P2K8SCN327047</Value>
+  <Value Key="Password">Z8C887298I6CZ6O3856C9K63NINS6767N8N6K8SOOS27O9ZZPJOKPO9P6P65C5PS866S588JP396OI75O56965P6SO336KSP66ZO3PKCKPZ7K3C9K96I2O36J968J52PKSZSCZN7KI66J3CN55N3376KPPI6NCC72208</Value>
+  <Value Key="DestinationTypeID">1121</Value>
+  <Value Key="DeviceTypeName">Ubuntu</Value>
+  <Value Key="StoreName">TARGET Ticket</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">20971520</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort">8080</Value>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">700</Value>
+  <Value Key="StoreURL">http://www.targetticket.com</Value>
+  <Value Key="ActivationURL">www.targetticket.com/start</Value>
+  <Value Key="SupportURL">www.targetticket.com/support</Value>
+  <Value Key="BillingURL">www.targetticket.com/billing</Value>
+  <Value Key="ServiceBaseURL"/>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">true</Value>
+  <Value Key="HideTechnicalDetail">true</Value>
+  <Value Key="EnableCalcOrderTax">false</Value>
+</Settings>

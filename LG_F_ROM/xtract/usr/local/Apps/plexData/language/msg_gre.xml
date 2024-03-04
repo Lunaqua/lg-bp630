@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>IDSTR_YOUTUBE_BACK</id>
+		<word>Πίσω</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_FULL_SCREEN</id>
+		<word>Πλήρης οθόνη</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_ORIGINAL_SCREEN</id>
+		<word>Μόνο σκαναρ.</word>
+	</item>
+	<item>
+		<id>IDSTR_PICASA_BTN_SLIDESHOW</id>
+		<word>Παρουσ.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_OK</id>
+		<word>OK</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_BTN_CANCEL</id>
+		<word>Άκυρο</word>
+	</item>
+	<item>
+		<id>IDSTR_MEDIALINK_MSG_PLAY_FAIL</id>
+		<word>Δεν είναι δυνατή η αναπαραγωγή των μέσων.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_OPTION</id>
+		<word>Επιλογή</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_NETWORK_DISCONNECT</id>
+		<word>Έγινε αποσύνδεση από το δίκτυο.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_MSG_REQUEST_CANNOT_PROCESS</id>
+		<word>Δεν είναι δυνατή η επεξεργασία του αιτήματος.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_MSG_SEARCH</id>
+		<word>Αναζήτηση τώρα!</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_KEYBOARD_MSG</id>
+		<word>Χρησιμοποιήστε το πληκτρολόγιο οθόνης στα δεξιά, για να πληκτρολογείτε σαν να στέλνετε μήνυμα με το πληκτρολόγιο του υπολογιστή.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_INCONVINIENCE</id>
+		<word>Δυστυχώς, η υπηρεσία δεν είναι διαθέσιμη, προς το παρόν.</word>
+	</item>
+	<item>
+		<id>IDSTR_COMMON_UNABLE_CON</id>
+		<word>Δεν έχετε πρόσβαση στην υπηρεσία.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_1</id>
+		<word>Προβολή φωτογραφίας</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_NEWS</id>
+		<word>Προβολή άρθρου</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT</id>
+		<word>Δεν μπορείτε να χρησιμοποιήσετε περιεχόμενο για ενηλίκους.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_USE_TIME</id>
+		<word>Ημερομηνία λήξης : 01-10-2010 18:00</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD</id>
+		<word>Η υπηρεσία έληξε. Θέλετε να υποβάλλετε ξανά νέο αίτημα;</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_FEE</id>
+		<word>Έχετε ήδη αγοράσει μία συνδρομή 30 ημερών.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_BILLING_FLAT_RATE</id>
+		<word>Περίοδος ισχύος: Εντός 30 ημερών από την αγορά. Κατά την περίοδο αυτή δεν είναι δυνατή η διακοπή της υπηρεσίας. Με αυτή την υπηρεσία μπορείτε να αγοράσετε περιεχόμενο με έκπτωση.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PYMENT_METHOD</id>
+		<word>Για πρόσβαση στο αγορασμένο περιεχόμενο συνδεθείτε στην υπηρεσία LG TV. Αν δεν είστε μέλος, συνδεθείτε στη διεύθυνση www.lgappstv.com. Πηγαίνετε στο Η σελίδα μου &gt; Στοιχεία πληρωμών και καταχωρίστε τα στοιχεία σας. Θέλετε να μεταβείτε στη σελίδα σύνδεσης;</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_AUDLT_AUTH</id>
+		<word>Απαιτείται έλεγχος ταυτότητας και ηλικίας για το περιεχόμενο αυτό.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_DAY</id>
+		<word>ημέρα(ες)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_HOUR</id>
+		<word>ώρα(ες)</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_MONTH</id>
+		<word>μήνας(ες)</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_PACK</id>
+		<word>Η συνδρομή 30 ημερών έναντι σταθερού ποσού προσφέρει τη δυνατότητα εύκολων και οικονομικών αγορών.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_ONE_MONTH_TERM</id>
+		<word>Σταθερό ποσό για 30 ημέρες.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>Ημερομηνία λήξης</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_PERIOD_2</id>
+		<word>Η δοκιμαστική περίοδος έχει λήξει. Πραγματοποιήστε πληρωμή για να συνεχιστεί η παροχή της υπηρεσίας.</word>
+	</item>
+	<item>
+		<id>IDSTR_BILLING_AS_EXPIRATION</id>
+		<word>Έληξε</word>
+	</item>
+	<item>
+		<id>IDSTR_TITLE_AUTH_ADULT</id>
+		<word>Επαλήθευση χρήστη ως ενήλικα</word>
+	</item>
+	<item>
+		<id>IDSTR_VALID_DATE</id>
+		<word>Ημερομηνία λήξης.</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_KEYHELP_PAGE_CHANGE</id>
+		<word>Αλλαγή σελίδας</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_AUTO</id>
+		<word>Αυτόματο</word>
+	</item>
+	<item>
+		<id>IDSTR_TIME_ONTIME_PROGRAM</id>
+		<word>Πρόγραμμα</word>
+	</item>
+	<item>
+		<id>IDSTR_CMN_PAGE</id>
+		<word>Σελίδα</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_SIGN_IN</id>
+		<word>Είσοδος</word>
+	</item>
+	<item>
+		<id>IDSTR_EMF_KEYHELP_LIST</id>
+		<word>Λίστα</word>
+	</item>
+	<item>
+		<id>IDSTR_LGAPPS_DETAIL_NEED_SIGNIN</id>
+		<word>Συνδεθείτε για να χρησιμοποιήσετε αυτή την υπηρεσία.</word>
+	</item>
+	<item>
+		<id>IDSTR_ADULT_AUTH_GUIDE</id>
+		<word>Για πρόσβαση σε περιεχόμενο για ενηλίκους, απαιτείται επαλήθευση ταυτότητας ως ενηλίκου.</word>
+	</item>
+	<item>
+		<id>IDSTR_HOTKEY_INFO</id>
+		<word>Πληροφορίες.</word>
+	</item>
+	<item>
+		<id>IDSTR_YOUTUBE_PLAY</id>
+		<word>Αναπαραγ.</word>
+	</item>
+	<item>
+		<id>IDSTR_PLEX_EXPIRED_DATE</id>
+		<word>Ημερομηνία λήξης</word>
+	</item>
+	<item>
+		<id>IDSTR_MP_PAYMENT_AMOUNT</id>
+		<word>Ποσό πληρωμής</word>
+	</item>
+	<item>
+		<id>IDSTR_3DTV_3DMODE_C</id>
+		<word>Κατάσταση λειτουργίας 3D</word>
+	</item>
+</BBKR_string>

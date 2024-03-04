@@ -1,0 +1,9 @@
+<Configs>
+  <Value Key="LogEnabled">true</Value>
+  <Value Key="LogOnScreen">false</Value>
+  <Value Key="Language">en_us</Value>
+  <Value Key="SkinPath">skins</Value>
+  <Value Key="AvailableBoxartSize">65, 77, 95, 102, 126, 137, 153, 160, 175, 177, 203, 269, 321</Value>
+  <Value Key="RegionCheckEnabled">true</Value>
+  <!--<Value Key="KeyInterval">200</Value>-->
+</Configs>

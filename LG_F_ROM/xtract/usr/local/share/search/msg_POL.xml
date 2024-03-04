@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BBKR_string xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <item>
+    <id>IDSTR_CMN_PREV</id>
+    <word>Cofnij</word>
+  </item>
+  <item>
+    <id>IDSTR_CMN_CLOSE</id>
+    <word>Zamknij</word>
+  </item>
+  <item>
+    <id>IDSTR_RESV_DELETE_ALL</id>
+    <word>Usuń wsz.</word>
+  </item>
+  <item>
+    <id>IDSTR_YOUTUBE_SEARCH</id>
+    <word>Szukaj</word>
+  </item>
+  <item>
+    <id>IDSTR_BACK</id>
+    <word>WSTECZ</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_ENTER_A_SEARCH_REQUEST</id>
+    <word>Wprowadź wyrażenie, którego chcesz poszukać!</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_SEARCH</id>
+    <word>Szukaj</word>
+  </item>
+  <item>
+    <id>IDSTR_COMMON_MSG_NO_RESULTS</id>
+    <word>Nie znaleziono wyników.</word>
+  </item>
+  <item>
+    <id>IDSTR_Extend</id>
+    <word>Rozszerz</word>
+  </item>
+</BBKR_string>

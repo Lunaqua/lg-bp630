@@ -1,0 +1,14 @@
+#!/bin/sh
+
+export DEPLOY_DIR=/usr/local/browser
+export PATH=/usr/local/flash/bin:/usr/local/bin:$PATH
+export LD_LIBRARY_PATH=/usr/local/flash/add_lib:/usr/local/lib:$LD_LIBRARY_PATH
+export PANGO_FONT_PATH=$DEPLOY_DIR/etc/fonts
+export PANGO_RC_FILE=$DEPLOY_DIR/etc/pango/pangorc
+export FONTCONFIG_FILE=$DEPLOY_DIR/etc/fonts/fonts.conf
+
+echo ""
+echo "----------------------------------------------"
+echo "             Launching Stagecraft1.2          "
+echo "----------------------------------------------"
+/usr/local/flash/bin/ex_foa_launcher $*

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin>
+  <Sets>
+    <Set resolution="1080" img="Skin1080.png"/>
+    <Set resolution="720" img="Skin720.png"/>
+    <Set resolution="540" img="Skin540.png"/>
+  </Sets>
+  <Bitmaps>
+    <!-- Common -->
+    <Bitmap id="dialogBackground" x="66" y="0" w="100" h="100" scale9Grid="40 40 20 20"/>
+    <Bitmap id="highlightFrame" x="168" y="0" w="100" h="100" scale9Grid="24 24 52 52"/>
+    <Bitmap id="dashedSeparatorSingleHeight" x="176" y="360" w="4" h="40"/>
+    <Bitmap id="dashedSeparatorDoubleHeight" x="182" y="360" w="4" h="96"/>
+    <Bitmap id="windowShade" x="248" y="102" w="20" h="10"/>
+    <Bitmap id="textfieldBackground" x="196" y="346" w="80" h="90" scale9Grid="20 0 40 90"/>
+    <Bitmap id="playerInitBackground" x="958" y="0" w="2" h="780"/>
+    <Bitmap id="playerSpinnerBackground" x="714" y="0" w="124" h="110" scale9Grid="32 30 54 46"/>
+    <!-- Scrollbar -->
+    <Bitmap id="scrollBarKnob" x="196" y="102" w="24" h="40" scale9Grid="0 10 24 10"/>
+    <Bitmap id="scrollBarUpNormal" x="222" y="102" w="24" h="16"/>
+    <Bitmap id="scrollBarDownNormal" x="222" y="120" w="24" h="16"/>
+    <Bitmap id="scrollBarKnobFocused" x="196" y="144" w="24" h="40" scale9Grid="0 10 24 10"/>
+    <Bitmap id="scrollBarUpFocused" x="222" y="138" w="24" h="16"/>
+    <Bitmap id="scrollBarDownFocused" x="222" y="156" w="24" h="16"/>
+    <!-- Buttons -->
+    <Bitmap id="buttonNormal" x="66" y="102" w="128" h="84" scale9Grid="54 0 20 84"/>
+    <Bitmap id="buttonFocused" x="66" y="188" w="128" h="84" scale9Grid="54 0 20 84"/>
+    <Bitmap id="buttonDisabled" x="66" y="274" w="128" h="84" scale9Grid="54 0 20 84"/>
+    <Bitmap id="buttonSelected" x="196" y="188" w="128" h="84" scale9Grid="54 0 20 84"/>
+    <Bitmap id="keypadButton" x="66" y="360" w="108" h="108" scale9Grid="44 44 20 20"/>
+    <Bitmap id="backKeypadButtonIcon" x="286" y="126" w="46" h="34"/>
+    <Bitmap id="checkIcon" x="248" y="126" w="36" h="34"/>
+    <!-- Progress -->
+    <Bitmap id="progressBackground" x="0" y="402" w="30" h="28" scale9Grid="10 10 4 4"/>
+    <Bitmap id="progressFill" x="0" y="446" w="30" h="28" scale9Grid="10 10 4 4"/>
+    <Bitmap id="initProgressBackground" x="0" y="490" w="50" h="26" scale9Grid="21 0 8 26"/>
+    <Bitmap id="initProgressFill" x="0" y="518" w="50" h="26" scale9Grid="21 0 8 26"/>
+    <!-- Dock -->
+    <Bitmap id="dockIconSearchNormal" x="270" y="0" w="40" h="40"/>
+    <Bitmap id="dockIconSettingsNormal" x="312" y="0" w="40" h="40"/>
+    <Bitmap id="dockIconHelpNormal" x="354" y="0" w="40" h="40"/>
+    <Bitmap id="dockIconSearchFocused" x="270" y="42" w="40" h="40"/>
+    <Bitmap id="dockIconSettingsFocused" x="312" y="42" w="40" h="40"/>
+    <Bitmap id="dockIconHelpFocused" x="354" y="42" w="40" h="40"/>
+    <Bitmap id="dockIconSearchSelected" x="270" y="84" w="40" h="40"/>
+    <Bitmap id="dockIconSettingsSelected" x="312" y="84" w="40" h="40"/>
+    <Bitmap id="dockIconHelpSelected" x="354" y="84" w="40" h="40"/>
+    <!-- Navigation Bar -->
+    <Bitmap id="navBarArrowButtonLeftNormal" x="82" y="582" w="66" h="86"/>
+    <Bitmap id="navBarArrowButtonRightNormal" x="150" y="582" w="66" h="86"/>
+    <Bitmap id="navBarArrowButtonLeftNormalSearch" x="82" y="582" w="26" h="86"/>
+    <Bitmap id="navBarArrowButtonRightNormalSearch" x="190" y="582" w="26" h="86"/>
+	<Bitmap id="navBarArrowButtonRightNormalSearchLine" x="150" y="582" w="2" h="86"/>
+	<Bitmap id="navBarButtonNormal" x="218" y="582" w="60" h="86" scale9Grid="20 0 20 86"/>
+    <Bitmap id="navBarButtonSelected" x="280" y="582" w="60" h="86" scale9Grid="20 0 20 86"/>
+    <Bitmap id="navBarArrowLeftNormal" x="82" y="670" w="10" h="16"/>
+    <Bitmap id="navBarArrowLeftFocused" x="94" y="670" w="10" h="16"/>
+    <Bitmap id="navBarArrowLeftDisabled" x="106" y="670" w="10" h="16"/>
+    <Bitmap id="navBarArrowRightNormal" x="118" y="670" w="10" h="16"/>
+    <Bitmap id="navBarArrowRightFocused" x="130" y="670" w="10" h="16"/>
+    <Bitmap id="navBarArrowRightDisabled" x="142" y="670" w="10" h="16"/>
+    <Bitmap id="backIconNormal" x="262" y="670" w="22" h="22"/>
+    <Bitmap id="backIconFocused" x="286" y="670" w="22" h="22"/>
+    <Bitmap id="backIconDisabled" x="310" y="670" w="22" h="22"/>
+    <Bitmap id="backIconSelected" x="334" y="670" w="22" h="22"/>
+    <Bitmap id="upToIconNormal" x="358" y="670" w="22" h="22"/>
+    <Bitmap id="upToIconFocused" x="382" y="670" w="22" h="22"/>
+    <Bitmap id="upToIconDisabled" x="406" y="670" w="22" h="22"/>
+    <Bitmap id="upToIconSelected" x="430" y="670" w="22" h="22"/>
+    <!-- Tab -->
+    <Bitmap id="purchaseTabLeftRoundButton" x="600" y="0" w="52" h="152"/>
+    <Bitmap id="purchaseTabButtonNormal" x="656" y="0" w="24" h="152" scale9Grid="8 0 16 152"/>
+    <Bitmap id="purchaseTabButtonRightRoundEdge" x="700" y="0" w="12" h="152"/>
+    <Bitmap id="purchaseTabSelected" x="438" y="284" w="260" h="176"/>
+    <Bitmap id="purchaseTabFocused" x="438" y="464" w="276" h="186"/>
+    <Bitmap id="purchaseTabMostRightSelectedLeftPart" x="438" y="284" w="240" h="176"/>
+    <Bitmap id="purchaseTabMostRightSelectedRightPart" x="710" y="284" w="20" h="176"/>
+    <!-- Title List -->
+    <Bitmap id="titleItemFocus" x="0" y="0" w="64" h="400" scale9Grid="14 14 36 372"/>
+    <Bitmap id="titleListPagingButton" x="0" y="628" w="80" h="80"/>
+    <Bitmap id="titleListArrowLeftNormal" x="154" y="670" w="16" h="26"/>
+    <Bitmap id="titleListArrowLeftFocused" x="172" y="670" w="16" h="26"/>
+    <Bitmap id="titleListArrowLeftDisabled" x="190" y="670" w="16" h="26"/>
+    <Bitmap id="titleListArrowRightNormal" x="208" y="670" w="16" h="26"/>
+    <Bitmap id="titleListArrowRightFocused" x="226" y="670" w="16" h="26"/>
+    <Bitmap id="titleListArrowRightDisabled" x="244" y="670" w="16" h="26"/>
+    <Bitmap id="sortOptionsBackground" x="342" y="582" w="72" h="64" scale9Grid="24 0 24 64"/>
+    <!-- Rating Stars -->
+    <Bitmap id="ratingStar" x="278" y="346" w="48" h="46" spacing="2" count="3" direction="horizontal"/>
+    <Bitmap id="ratingStarYellow" x="278" y="394" w="48" h="46" spacing="2" count="3" direction="horizontal"/>
+    <Bitmap id="ratingStarLarge" x="52" y="470" w="118" h="110" spacing="2" count="3" direction="horizontal"/>
+    <Bitmap id="changeRatingArrowLeftNormal" x="596" y="154" w="62" h="108"/>
+    <Bitmap id="changeRatingArrowRightNormal" x="660" y="154" w="62" h="108"/>
+    <Bitmap id="changeRatingArrowLeftFocused" x="724" y="154" w="62" h="108"/>
+    <Bitmap id="changeRatingArrowRightFocused" x="788" y="154" w="62" h="108"/>
+    <!-- Pin Entry -->
+    <Bitmap id="pinEntryArrowUpNormal" x="334" y="126" w="34" h="20"/>
+    <Bitmap id="pinEntryArrowDownNormal" x="334" y="148" w="34" h="20"/>
+    <Bitmap id="pinEntryArrowUpFocused" x="370" y="126" w="34" h="20"/>
+    <Bitmap id="pinEntryArrowDownFocused" x="370" y="148" w="34" h="20"/>
+    <Bitmap id="pinEntryFocused" x="438" y="0" w="140" h="140"/>
+    <Bitmap id="pinEntryNormal" x="438" y="142" w="140" h="140"/>
+    <Bitmap id="pinErrorX" x="330" y="188" w="30" h="30"/>
+    <!-- ToggleButton -->
+    <!--Bitmap id="toggleButtonBackground" x="196" y="186" w="100" h="78" scale9Grid="40 0 20 78"/>
+    <Bitmap id="toggleButtonNormal" x="196" y="266" w="78" h="78"/>
+    <Bitmap id="toggleButtonFocused" x="276" y="266" w="78" h="78"/-->
+    <!-- TitleDetails -->
+    <Bitmap id="boxartShadow" x="0" y="710" w="720" h="220"/>
+    <!-- GridView -->
+    <Bitmap id="gridTitleMask" x="742" y="276" w="80" h="360"/>
+    <!-- Pointer mode -->
+    <Bitmap id="gridViewDownArrow" x="722" y="710" w="214" h="220"/>
+  </Bitmaps>
+</Skin>

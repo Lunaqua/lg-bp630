@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Layout version="1.0" tweenDur="3">
+  <!-- optional platform overrides -->
+  <Platform src="RNPlayerPlatform540.xml"/>
+  <Skins>
+    <Skin name="orbit" src="RNPlayerSkin540.xml"/>
+  </Skins>
+  <AttributeSets>
+    <AttributeSet name="normalFont" font="Museo Sans 300"/>
+    <AttributeSet name="semiBoldFont" font="Museo Sans 700"/>
+    <AttributeSet name="dockButtonStyle" x="16" y="-1" w="94" h="47" attrs="semiBoldFont" size="16" color="#dadada" valign="middle"/>
+    <AttributeSet name="detailsButtonStyle" attrs="normalFont" h="24" size="16" color="#cccccc" autoSize="true"/>
+    <AttributeSet name="titleTextStyle" attrs="semiBoldFont" h="24" size="16" color="#dadada" align="left"/>
+    <AttributeSet name="normalTextGrey33" attrs="normalFont" h="24" size="16" color="#999999" align="left"/>
+    <AttributeSet name="normalTextWhite33" attrs="normalFont" h="24" size="16" color="#dadada" align="left"/>
+    <AttributeSet name="wheelTextStyle" attrs="semiBoldFont" size="16" color="#FFFFFF" autoSize="center" multi="true"/>
+  </AttributeSets>
+  <View name="OrbitPlayer">
+    <Subtitle name="subtitle"></Subtitle>
+    <Pages name="pages">
+      <Page name="player">
+        <Controls name="controls">
+          <Pages name="controlPanel">
+            <Page name="none"/>
+            <Mask name="transportPanelMask" y="450" w="960" h="90"/>
+            <Page name="simpleTransportPanel" y="450">
+              <Fill name="background" w="960" h="90" color="#181818" alpha="90"/>
+              <Fill name="bar" w="960" h="2" color="#555555"/>
+              <ProgressBar name="progressBar">
+                <Fill name="hotArea" w="960" h="190" alpha="0"/>
+                <View name="bar" x="110" y="29">
+                  <Bitmap name="background" id="transportBar" x="0" y="0" w="740"/>
+                  <Bitmap name="darkFill" id="transportBarDarkFill" x="27" y="1" w="712"/>
+                  <Bitmap name="fill" id="transportBarFill" x="27" y="1" w="712"/>
+                  <Bitmap name="playStatus" id="playIcons" x="5" y="1"/>
+                </View>
+                <View name="playStatusBackground" x="448" y="-194">
+                  <Fill name="statusBackgroundLeft" x="0" y="0" w="2" h="28" color="#555555"/>
+                  <Fill name="statusBackgroundRight" x="62" y="0" w="2" h="28" color="#555555"/>
+                  <Fill name="statusBackgroundTop" x="2" y="0" w="60" h="2" color="#555555"/>
+                  <Fill name="statusBackgroundBottom" x="2" y="26" w="60" h="2" color="#555555"/>
+                  <Fill name="background" x="2" y="2" w="60" h="24" color="#181818" alpha="90"/>
+                  <Bitmap name="playStatus" id="playIcons" x="23" y="7"/>
+                  <TextField name="statusText" x="18" y="3" w="42" h="52" attrs="normalTextWhite33" size="15" align="right"></TextField>
+                </View>
+                <View name="transportModeIndicator" y="5">
+                  <Bitmap name="playStatus" id="playIcons"/>
+                  <TextField name="trickText" x="20" y="-4" w="88" attrs="normalTextWhite33" align="left"/>
+                </View>
+                <TextField name="timeText" y="26" w="88" attrs="normalTextWhite33" align="left"/>
+                <TextField name="timeRemainingText" x="870" y="26" w="73" attrs="normalTextWhite33" align="left"/>
+                <Button name="positionLocator" x="131" y="17" action="locatorAction">
+                  <Fill name="hotArea" w="42" h="42" alpha="0"/>
+                  <Bitmap name="positionLocator" id="positionLocator" visible="false"/>
+                </Button>
+                <Listeners>
+                  <Listen name="videoTime" handler="onTime"/>
+                  <Listen name="videoStatus" handler="onStatus"/>
+                </Listeners>
+              </ProgressBar>
+              <View name="pointerModePanel" y="60">
+                <Fill name="background" y="30" w="960" h="60" color="#181818" alpha="90"/>
+                <Button name="controlPrev" x="247" y="10" action="previous">
+                  <Bitmap name="icon" id="playbackControlPrev"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="icon" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="icon" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Button name="controlRew" x="326" y="10" action="rewind">
+                  <Bitmap name="icon" id="playbackControlRew"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="icon" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="icon" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Button name="controlPause" x="403" y="10" hideOnDisable="true" action="pause">
+                  <Bitmap name="icon" id="playbackControlPause"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="icon" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="icon" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Button name="controlPlay" x="403" y="10" hideOnDisable="true" action="play">
+                  <Bitmap name="icon" id="playbackControlPlay"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="icon" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="icon" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Button name="controlStop" x="480" y="10" action="stop">
+                  <Bitmap name="icon" id="playbackControlStop"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="icon" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="icon" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Button name="controlFfwd" x="557" y="10" action="fforward">
+                  <Bitmap name="icon" id="playbackControlFfwd"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="icon" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="icon" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Button name="controlNext" x="634" y="10" action="next">
+                  <Bitmap name="icon" id="playbackControlNext"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="icon" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="icon" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Button name="controlClosedCaptioning" x="800" y="10" action="toggleCC">
+                  <Bitmap name="iconOn" id="playbackControlClosedCaptioningOn"/>
+                  <Bitmap name="iconOff" id="playbackControlClosedCaptioningOff" visible="false"/>
+                  <Bitmap name="iconUnavailableOn" id="playbackControlClosedCaptioningUnavailableOn" visible="false"/>
+                  <Bitmap name="iconUnavailableOff" id="playbackControlClosedCaptioningUnavailableOff" visible="false"/>
+                  <States>
+                    <State name="Normal">
+                      <Set name="iconOn" index="0"/>
+                      <Set name="iconOff" index="0"/>
+                      <Set name="iconUnavailableOn" index="0"/>
+                      <Set name="iconUnavailableOff" index="0"/>
+                    </State>
+                    <State name="Selected">
+                      <Set name="iconOn" index="1"/>
+                      <Set name="iconOff" index="1"/>
+                      <Set name="iconUnavailableOn" index="1"/>
+                      <Set name="iconUnavailableOff" index="1"/>
+                    </State>
+                  </States>
+                </Button>
+                <Routes>
+                  <Route name="delegates" default="controlPause"/>
+                  <Route name="controlPrev" left="controlClosedCaptioning" right="controlRew"/>
+                  <Route name="controlRew" left="controlPrev" right="controlPause"/>
+                  <Route name="controlPause" left="controlRew" right="controlPlay"/>
+                  <Route name="controlPlay" left="controlPause" right="controlStop"/>
+                  <Route name="controlStop" left="controlPlay" right="controlFfwd"/>
+                  <Route name="controlFfwd" left="controlStop" right="controlNext"/>
+                  <Route name="controlNext" left="controlFfwd" right="controlClosedCaptioning"/>
+                  <Route name="controlClosedCaptioning" left="controlNext" right="controlPrev"/>
+                </Routes>
+              </View>
+              <Commands name="show">
+                <Set name="pointerModePanel" upNeighbour="progressBar/positionLocator" downNeighbour="progressBar/positionLocator"/>
+              </Commands>
+              <Routes>
+                <Route name="delegates" default="pointerModePanel"/>
+              </Routes>
+            </Page>
+            <Routes>
+              <Route name="delegates" default="simpleTransportPanel"/>
+              <Route name="none"/>
+              <Route name="simpleTransportPanel"/>
+            </Routes>
+            <Listeners>
+              <Listen name="SimpleTransport">
+                <Set name="." page="simpleTransportPanel" hasFocu="true" />
+              </Listen>
+              <Listen name="streamStatusPlay">
+                <Set name="simpleTransportPanel/progressBar/positionLocator" upNeighbour="simpleTransportPanel/pointerModePanel/controlPause" downNeighbour="simpleTransportPanel/pointerModePanel/controlPause"/>
+              </Listen>
+              <Listen name="streamStatusPause">
+                <Set name="simpleTransportPanel/progressBar/positionLocator" upNeighbour="simpleTransportPanel/pointerModePanel/controlPlay" downNeighbour="simpleTransportPanel/pointerModePanel/controlPlay"/>
+              </Listen>
+              <Listen name="ccUnavailableOff">
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning" objectEnabled="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOn" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOff" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOn" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOff" visible="true"/>
+              </Listen>
+              <Listen name="ccUnavailableOn">
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning" objectEnabled="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOn" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOff" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOn" visible="true"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOff" visible="false"/>
+              </Listen>
+              <Listen name="ccAvailableOff">
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning" objectEnabled="true"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOn" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOff" visible="true"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOn" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOff" visible="false"/>
+              </Listen>
+              <Listen name="ccAvailableOn">
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning" objectEnabled="true"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOn" visible="true"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconOff" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOn" visible="false"/>
+                <Set name="simpleTransportPanel/pointerModePanel/controlClosedCaptioning/iconUnavailableOff" visible="false"/>
+              </Listen>
+            </Listeners>
+          </Pages>
+          <Mask name="statusPopupMask" w="960" h="90" />
+          <StatusPopup name="statusPopup" hidden="true">
+            <Fill name="background" w="960" h="90" color="0x181818" alpha="90"/>
+            <Fill name="bar" y="88" w="960" h="2" color="#555555"/>
+            <TextField name="titleName" x="50" y="40" w="400" ellipsis="true" attrs="titleTextStyle"></TextField>
+            <TextField name="subTitleName" x="50" y="60" w="500" attrs="normalTextGrey33" ellipsis="true"></TextField>
+            <View name="bitrateStatus" x="938" y="35">
+              <View name="bitrateMeter" x="0" y="0">
+                <Fill name="bar0Background" x="-2" w="7" h="31" color="#464646"/>
+                <Fill name="bar1Background" x="-2" w="7" h="31" color="#464646"/>
+                <Fill name="bar2Background" x="-2" w="7" h="31" color="#464646"/>
+                <Fill name="bar3Background" x="-2" w="7" h="31" color="#464646"/>
+                <Fill name="bar4Background" x="-2" w="7" h="31" color="#464646"/>
+                <Fill name="bar5Background" x="-2" w="7" h="31" color="#464646"/>
+                <Fill name="bar0" x="-2" w="7" h="31" color="#01A510"/>
+                <Fill name="bar1" x="-2" w="7" h="31" color="#01A510"/>
+                <Fill name="bar2" x="-2" w="7" h="31" color="#01A510"/>
+                <Fill name="bar3" x="-2" w="7" h="31" color="#01A510"/>
+                <Fill name="bar4" x="-2" w="7" h="31" color="#01A510"/>
+                <Fill name="bar5" x="-2" w="7" h="31" color="#01A510"/>
+              </View>
+              <Bitmap name="hdIcon" x="-9" y="0" id="hdIcon"/>
+              <Bitmap name="surround51Icon" x="-9" y="0" id="51Icon"/>
+              <Bitmap name="thxIcon" x="-230" y="0" id="thxIcon"/>
+              <Bitmap name="dtsLogo" x="-160" y="0" id="dtsLogo"/>
+              <Bitmap name="dd51Logo" x="-160" y="0" id="dd51Logo"/>
+              <Bitmap name="dd20Logo" x="-160" y="0" id="dd20Logo"/>
+              <Fill name="separateLine" x="-145" w="1" h="40" color="#8D8D8D"/>
+              <TextField name="bitrateText" x="-9" y="17" w="250" attrs="normalTextWhite33" align="right">44.0 Mbps</TextField>
+            </View>
+            <Listeners>
+              <Listen name="updateBitRate" handler="onUpdateBitRate"/>
+              <Listen name="displayBitRate" handler="onDisplayBitRate"/>
+            </Listeners>
+          </StatusPopup>
+        </Controls>
+        <Routes>
+          <Route name="delegates" default="controls"/>
+          <Route name="controls"/>
+        </Routes>
+        <Commands name="show"></Commands>
+      </Page>
+    </Pages>
+    <TextField name="trace" x="50" y="50" w="860" h="442" attrs="normalTextGrey33" multi="true"/>
+    <!-- Trace info, for debug-->
+    <!--Listeners>
+      <Listen name="keyPress" handler="onKeyPress"/>
+      <Listen name="next" handler="onNext"/>
+      <Listen name="previous" handler="onPrevious"/>
+      <Listen name="play" handler="onPlay"/>
+      <Listen name="pause" handler="onPause"/>
+      <Listen name="stop" handler="onStop"/>
+      <Listen name="rewind" handler="onRewind"/>
+      <Listen name="fforward" handler="onFForward"/>
+      <Listen name="ExtrasMenu" handler="onExtras"/>
+      <Listen name="ResumeMovie" handler="onResumeMovie"/>
+      <Listen name="PlayBonusVideo" handler="onPlayBonusVideo"/>
+      <Listen name="PlayTrailer" handler="onPlayTrailer"/>
+      <Listen name="previousEpisode" handler="onPreviousEpisode"/>
+      <Listen name="nextEpisode" handler="onNextEpisode"/>
+      <Listen name="hideCursor" handler="onHideCursor"/>
+    </Listeners-->
+  </View>
+  <Keys>
+    <Key code="38" down="true" action="up">Up</Key>
+    <Key code="40" down="true" action="down">Down</Key>
+    <Key code="37" down="true" action="left">Left</Key>
+    <Key code="39" down="true" action="right">Right</Key>
+    <Key code="13" action="activate">Enter</Key>
+    <Key code="13" down="true" action="activate">Enter</Key>
+    <Key code="17" action="activate">Ctrl</Key>
+    <Key code="17" down="true" action="activate">Ctrl</Key>
+    <Key code="35" down="true" action="stop">BRCM Stop</Key>
+    <Key code="45" down="true" action="play">BRCM Play</Key>
+    <Key code="46" down="true" action="pause">BRCM Pause</Key>
+    <Key code="16" down="true" action="rewind">BRCM Rewind</Key>
+    <Key code="17" down="true" action="fforward">BRCM FForward</Key>
+    <Key code="16777228" down="true" action="next">BRCM Next</Key>
+    <Key code="16777229" down="true" action="previous">BRCM Previous</Key>
+    <Key code="27" down="true" action="stop">BRCM BACK/RETURN</Key>
+    <Key code="16777240" down="true" action="subtitle">SUBTITLE</Key>
+    <Key code="57" down="true" action="back">9</Key>
+    <Key code="48-57" down="true" action="digit"/>
+    <Key ascii="32-36" down="true" action="printingChars"/>
+    <Key ascii="41-126" down="true" action="printingChars"/>
+    <Key code="8" down="true" action="backspace">Backspace</Key>
+    <Key code="0-12" down="true" action="keyPress"/>
+    <Key code="14-36" down="true" action="keyPress"/>
+    <Key code="41-127" down="true" action="keyPress"/>
+    <Key code="16777223-16777238" down="true" action="keyPress"/>
+  </Keys>
+</Layout>

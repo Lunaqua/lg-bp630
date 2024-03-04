@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Layout version="1.0" tweenDur="3">
+  <!-- optional platform overrides -->
+  <Platform src="FLVPlayerPlatform540.xml"/>
+  <Skins>
+    <Skin name="orbit" src="RNPlayerSkin540.xml"/>
+  </Skins>
+  <AttributeSets>
+    <AttributeSet name="normalFont" font="MuseoSans300"/>
+    <AttributeSet name="semiBoldFont" font="MuseoSans500"/>
+    <AttributeSet name="dockButtonStyle" x="32" w="78" h="47" attrs="semiBoldFont" size="16" color="#FFFFFF" valign="middle"/>
+    <AttributeSet name="detailsButtonStyle" attrs="normalFont" h="24" size="16" color="#8C8C8C" autoSize="true"/>
+    <AttributeSet name="titleTextStyle" attrs="semiBoldFont" h="24" size="16" color="#FFFFFF" align="left"/>
+    <AttributeSet name="normalTextGrey33" attrs="normalFont" h="24" size="16" color="#7B7B7B" align="left"/>
+    <AttributeSet name="normalTextWhite33" attrs="normalFont" h="24" size="16" color="#FFFFFF" align="left"/>
+    <AttributeSet name="wheelTextStyle" attrs="semiBoldFont" size="16" color="#FFFFFF" autoSize="center" multi="true"/>
+  </AttributeSets>
+  <View name="FlashPlayer">
+    <Pages name="pages">
+      <Page name="player">
+	    <Video name="video" w="960" h="540"></Video>
+        <Controls name="controls">
+          <Pages name="controlPanel">
+            <Page name="none"/>
+            <Mask name="transportPanelMask" y="450" w="960" h="90"/>
+            <Page name="simpleTransportPanel" y="450">
+              <Fill name="background" w="960" h="90" color="#181818" alpha="90"/>
+              <Fill name="bar" w="960" h="2" color="#555555"/>
+              <ProgressBar name="progressBar">
+              	<Fill name="hotArea" w="960" h="190" alpha="0"/>
+                <View name="bar" x="110" y="29">
+                  <Bitmap name="background" id="transportBar" x="0" y="0" w="740"/>
+                  <Bitmap name="darkFill" id="transportBarDarkFill" x="27" y="1" w="712"/>
+                  <Bitmap name="fill" id="transportBarFill" x="27" y="1" w="712"/>
+                  <Bitmap name="playStatus" id="playIcons" x="5" y="1"/>
+                </View>
+                <View name="playStatusBackground" x="443" y="-194">
+                  <Fill name="statusBackgroundLeft" x="0" y="0" w="2" h="28" color="#555555"/>
+                  <Fill name="statusBackgroundRight" x="72" y="0" w="2" h="28" color="#555555"/>
+                  <Fill name="statusBackgroundTop" x="2" y="0" w="70" h="2" color="#555555"/>
+                  <Fill name="statusBackgroundBottom" x="2" y="26" w="70" h="2" color="#555555"/>
+                  <Fill name="background" x="2" y="2" w="70" h="24" color="#181818" alpha="90"/>
+                  <Bitmap name="playStatus" id="playIcons" x="27" y="7"/>
+                  <TextField name="statusText" x="22" y="4" w="50" h="52" attrs="normalTextWhite33" align="center"></TextField>
+                </View>
+                <View name="transportModeIndicator" y="5">
+                  <Bitmap name="playStatus" id="playIcons"/>
+                  <TextField name="trickText" x="20" y="-3" w="88" attrs="normalTextWhite33" align="left"/>
+                </View>
+                <TextField name="timeText" y="27" w="88" attrs="normalTextWhite33" align="right"/>
+                <TextField name="timeRemainingText" x="870" y="27" w="73" attrs="normalTextWhite33" align="left"/>
+                <Listeners>
+                  <Listen name="videoTime" handler="onTime"/>
+                  <Listen name="videoStatus" handler="onStatus"/>
+                </Listeners>
+              </ProgressBar>
+              <View name="pointerModePanel" y="60">
+	              <Fill name="background" y="30" w="960" h="60" color="#181818" alpha="90"/>
+	              <Button name="controlPause" x="403" y="10" action="pause">
+	            	  <Bitmap name="icon" id="flvPlaybackControlPause"/>
+	            	  <States>
+	            		  <State name="Normal">
+	            			  <Set name="icon" index="0"/>
+	            		  </State>
+	            		  <State name="Selected">
+	            			  <Set name="icon" index="1"/>
+	            		  </State>
+	            	  </States>
+	              </Button>
+	              <Button name="controlPlay" x="403" y="10" action="play">
+	            	  <Bitmap name="icon" id="flvPlaybackControlPlay"/>
+	            	  <States>
+	            		  <State name="Normal">
+	            			  <Set name="icon" index="0"/>
+	            		  </State>
+	            		  <State name="Selected">
+	            			  <Set name="icon" index="1"/>
+	            		  </State>
+	            	  </States>
+	              </Button>
+	              <Button name="controlStop" x="480" y="10" action="stop">
+	            	  <Bitmap name="icon" id="flvPlaybackControlStop"/>
+	            	  <States>
+	            		  <State name="Normal">
+	            			  <Set name="icon" index="0"/>
+	            		  </State>
+	            		  <State name="Selected">
+	            			  <Set name="icon" index="1"/>
+	            		  </State>
+	            	  </States>
+	              </Button>
+	          </View>
+            </Page>
+            <Routes>
+              <Route name="delegates" default="simpleTransportPanel"/>
+              <Route name="none"/>
+              <Route name="simpleTransportPanel"/>
+            </Routes>
+            <Listeners>
+              <Listen name="HideAll">
+                <Set name="." page="none"/>
+                <Set name="delegates" default="none"/>
+                <Set name="../statusPopup" hidden="true"/>
+              </Listen>
+              <Listen name="SimpleTransport">
+                <Set name="." page="simpleTransportPanel"/>
+                <Set name="delegates" default="simpleTransportPanel"/>
+                <Set name="simpleTransportPanel" hasFocus="true"/>
+              </Listen>
+            </Listeners>
+          </Pages>
+          <Mask name="statusPopupMask" w="960" h="90" />
+          <StatusPopup name="statusPopup" hidden="true">
+            <Fill name="background" w="960" h="90" color="0x181818" alpha="90"/>
+            <Fill name="bar" y="88" w="960" h="2" color="#555555"/>
+            <TextField name="titleName" x="50" y="40" w="400" ellipsis="true" attrs="titleTextStyle"></TextField>
+            <TextField name="subTitleName" x="50" y="60" w="500" attrs="normalTextGrey33" ellipsis="true"></TextField>
+          </StatusPopup>
+        </Controls>
+        <Routes>
+          <Route name="delegates" default="controls"/>
+          <Route name="controls"/>
+        </Routes>
+        <Commands name="show">
+        </Commands>
+      </Page>
+    </Pages>
+    <TextField name="trace" x="50" y="50" w="860" h="442" attrs="normalTextGrey33" multi="true"/>	<!-- Trace info, for debug-->
+    <!--Listeners>
+      <Listen name="keyPress" handler="onKeyPress"/>
+      <Listen name="next" handler="onNext"/>
+      <Listen name="previous" handler="onPrevious"/>
+      <Listen name="play" handler="onPlay"/>
+      <Listen name="pause" handler="onPause"/>
+      <Listen name="stop" handler="onStop"/>
+      <Listen name="rewind" handler="onRewind"/>
+      <Listen name="fforward" handler="onFForward"/>
+      <Listen name="ExtrasMenu" handler="onExtras"/>
+      <Listen name="ResumeMovie" handler="onResumeMovie"/>
+      <Listen name="PlayBonusVideo" handler="onPlayBonusVideo"/>
+      <Listen name="PlayTrailer" handler="onPlayTrailer"/>
+      <Listen name="previousEpisode" handler="onPreviousEpisode"/>
+      <Listen name="nextEpisode" handler="onNextEpisode"/>
+      <Listen name="hideCursor" handler="onHideCursor"/>
+    </Listeners-->
+  </View>
+  <Keys>
+    <Key code="37" down="true" action="left">Left</Key>
+    <Key code="39" down="true" action="right">Right</Key>
+    <Key code="13" action="activate">Enter</Key>
+    <Key code="13" down="true" action="activate">Enter</Key>
+    <Key code="17" action="activate">Ctrl</Key>
+    <Key code="17" down="true" action="activate">Ctrl</Key>
+    <Key code="35" down="true" action="stop">BRCM Stop</Key>
+    <Key code="45" down="true" action="play">BRCM Play</Key>
+    <Key code="46" down="true" action="pause">BRCM Pause</Key>
+    <Key code="16" down="true" action="rewind">BRCM Rewind</Key>
+    <Key code="17" down="true" action="fforward">BRCM FForward</Key>
+    <Key code="16777228" down="true" action="next">BRCM Next</Key>
+    <Key code="16777229" down="true" action="previous">BRCM Previous</Key>
+    <Key code="27" down="true" action="stop">BRCM BACK/RETURN</Key>
+    <Key code="57" down="true" action="back">9</Key>
+    <Key code="48-57" down="true" action="digit"/>
+    <Key ascii="32-36" down="true" action="printingChars"/>
+    <Key ascii="41-126" down="true" action="printingChars"/>
+    <Key code="8" down="true" action="backspace">Backspace</Key>
+    <Key code="0-12" down="true" action="keyPress"/>
+    <Key code="14-36" down="true" action="keyPress"/>
+    <Key code="41-127" down="true" action="keyPress"/>
+    <Key code="16777223-16777238" down="true" action="keyPress"/>
+  </Keys>
+</Layout>
+   <Key code="37" down="true" action="left">Left</Key>
+    <Key code="39" down="true" action="right">Right</Key>
+    <Key code="13" action="activate">Enter</Key>
+    <Key code="13" down="true" action="activate">Enter</Key>
+    <Key code="17" action="activate">Ctrl</Key>
+    <Key code="17" down="true" action="activate">Ctrl</Key>
+    <Key code="37" down="true" action="previousEpisode">BRCM Left</Key>
+    <Key code="39" down="true" action="nextEpisode">BRCM Right</Key>
+    <Key code="35" down="true" action="stop">BRCM Stop</Key>
+    <Key code="45" down="true" action="play">BRCM Play</Key>
+    <Key code="46" down="true" action="pause">BRCM Pause</Key>
+    <Key code="16" down="true" action="rewind">BRCM Rewind</Key>
+    <Key code="17" down="true" action="fforward">BRCM FForward</Key>
+    <Key code="16777228" down="true" action="next">BRCM Next</Key>
+    <Key code="16777229" down="true" action="previous">BRCM Previous</Key>
+    <Key code="27" down="true" action="stop">BRCM BACK/RETURN</Key>
+    <Key code="57" down="true" action="back">9</Key>
+    <Key code="48-57" down="true" action="digit"/>
+    <Key ascii="32-36" down="true" action="printingChars"/>
+    <Key ascii="41-126" down="true" action="printingChars"/>
+    <Key code="8" down="true" action="backspace">Backspace</Key>
+    <Key code="0-12" down="true" action="keyPress"/>
+    <Key code="14-36" down="true" action="keyPress"/>
+    <Key code="41-127" down="true" action="keyPress"/>
+    <Key code="16777223-16777238" down="true" action="keyPress"/>

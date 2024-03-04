@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- browser plugin embedding -->
+<object type="application/x-netcast-service" id="service" width="0" height="0"> </object>
+	
+<title>Service Error Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="netError_webkit.js"></script>
+<script type="text/javascript">
+var err;
+var lang;
+var localegroup;
+function getErrorCode()
+{
+	var url = document.documentURI;
+	var error = url.search(/e\=/);
+	var duffUrl = url.search(/\&c\=/);
+	return decodeURIComponent(url.slice(error + 2, duffUrl));
+}
+function getLang()
+{
+	var url = document.documentURI;
+	var lang = url.search(/\&l\=/);
+	//return decodeURIComponent(url.slice(lang + 3));
+	var language = decodeURIComponent(url.slice(lang + 3));
+
+	if(language == 'ko-kr'){
+		language = 'ko';
+	}else if(language == 'en-kr'){
+		language = 'en-us';
+	}else if(language == null || language ==""){
+		language = 'en';
+	}
+	return language;
+}
+function getLocaleGroup()
+{
+	var url = document.documentURI;
+	var localegroup = url.search(/\&g\=/);
+	var lang = url.search(/\&l\=/);
+	
+	return decodeURIComponent(url.slice(localegroup + 3, lang));
+}
+function getDescription()
+{
+	var url = document.documentURI;
+	var desc = url.search(/d\=/);
+	// desc == -1 if not found; if so, return an empty string
+	// instead of what would turn out to be portions of the URI
+	if (desc == -1)
+  		return "";
+	return decodeURIComponent(url.slice(desc + 2));
+}
+
+function initPage()
+{
+	// error code like "networkDisconnected"
+	err = getErrorCode();
+	localegroup = getLocaleGroup();
+	lang = getLang();
+	console.log("[err :: localegroup :: lang] = "+ err +"::"+localegroup+"::"+lang);
+	
+	// OSD Clear
+	if(service.destroySNSMenu){
+		console.log("service.destroySNSMenu();");
+		service.destroySNSMenu(); 
+	}
+}
+
+function changebgcolor(divObject, oldcolor, newcolor)
+{
+	divObject.style.backgroundColor = newcolor;
+	divObject.onmouseout = function(){
+		divObject.style.backgroundColor = oldcolor
+	}
+}
+function processOnload()
+{
+	addButton(document.getElementById('bakBtn'),'snsSignLine_f','snsSignLine_n');
+	addButton(document.getElementById('exitBtn'),'focusBox','unfocusBox');
+	
+	// console.log("[netError_webkit_sns.html][processOnload] err ::"+err);
+	
+	// set timeout function
+	if(err == 0)	// network disconnected
+	{
+		// go to TV
+		setTimeout("window.NetCastExit()", 3000);
+	}
+	else if(err == 1 || err == 5 || err == 6)	// can not access this service
+	{
+		// goto NetCast(BACK)
+		setTimeout("window.NetCastExit()", 3000);
+	}
+	else // 2, 3, 4 (the request can not be processed or retry)
+	{
+		setTimeout("history.back(-1)", 3000);
+	}
+}
+
+function processOnkeydown(e)
+{
+	var keycode = e.keyCode;
+	if(keycode == 461) {	// NetCast BACK
+		if(err == 0 || err == 1 || err == 5  || err == 6)
+			window.NetCastExit();
+		else // error 2, 3, 4, can not be processed and retry
+			history.back(-1);
+	}
+	/*
+	switch(keycode)
+	{// to block key event
+		//console.log("keycode :: "+keycode);
+	
+		case 38://up
+			if(_currentIndex == 1){
+				focusOut(_currentIndex);
+				focusOn(_currentIndex-1);	
+			}
+			break;
+		case 40://down
+			if(_currentIndex == 0){
+				focusOut(_currentIndex);
+				focusOn(_currentIndex+1);	
+			}
+			break;
+	}
+	*/
+}
+
+function processOnclickBack()
+{
+	if(err == 0 || err == 1 || err == 5  || err == 6){
+		console.log("err : "+ err +" processOnclickBack()");		
+		window.NetCastExit();
+	}
+	else // error 2, 3, 4, can not be processed and retry
+		history.back(-1);
+}
+
+function exit()
+{
+	window.NetCastExit();
+}
+
+var _buttons = [];
+var _currentIndex = 0;
+function focusOn(index)
+{
+	var o = _buttons[index];
+	o.btn.className = o.on;
+	_currentIndex = index;
+}
+
+function focusOut(index)
+{
+	var o = _buttons[index];
+	o.btn.className = o.out;
+}
+
+function addButton(btn, on, out)
+{
+	btn.index = _buttons.length;
+	btn.onmouseover = function ()
+	{
+		focusOn(event.srcElement.index);
+	}
+	btn.onmouseout = function ()
+	{
+		focusOut(event.srcElement.index);
+	}
+	_buttons.push({btn:btn, on:on, out:out});
+}
+</script>
+
+<!-- <link rel="stylesheet" href="netError_webkit.css" type="text/css"/> -->
+<style type="text/css">
+body {
+	background-color: #e8e8e8;
+	margin: 0px;
+	padding: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	font-family: "LG Display";
+}
+
+.message {
+	font-size: 28px;
+	color: #3c3c3c;
+}
+
+.focusBox {
+	padding-top: 8px;
+	width: 96px;
+	height: 54px;
+	background-image: url(assets/Cinema_SNS_Keyhelp_focused.png);
+	background-repeat: no-repeat;
+}
+
+.unfocusBox {
+	padding-top: 8px;
+	width: 96px;
+	height: 54px;
+}
+
+.background {
+	background-image: url(assets/Cinema_SNS_BG.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-left: 14px;
+}
+
+.header {
+	background-image: url(assets/Cinema_SNS_BG_Top.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-left: 14px;
+}
+
+.bottom {
+	background-image: url(assets/Cinema_SNS_Help_BG.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+.snsSignLine_f {
+	width: 214px;
+	height: 57px;
+	line-height: 57px;
+	font-size: 25px;
+	color: #fafafa;
+	text-align: center;
+	background-image: url(assets/Cinema_SNS_sign_Line_F.png);
+	background-position: center center;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+}
+
+.snsSignLine_n {
+	width: 214px;
+	height: 57px;
+	line-height: 57px;
+	font-size: 25px;
+	color: #5a5a5a;
+	text-align: center;
+	background-image: url(assets/Cinema_SNS_sign_Line_N.png);
+	background-position: center center;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+}
+</style>
+</head>
+
+<body onLoad="processOnload(); return false;" onUnload="" onkeyDown="processOnkeydown(event); return false;"
+	onmousedown="return false;" onselectstart="return false;">
+	
+	<script type="text/javascript">
+	initPage();
+	
+	var message = getErrorMessage(err, lang);
+	//var exit = getExit(err, lang);
+	var backM = getBack(err, localegroup, lang);
+	</script>
+
+	<table width="400" height="718" border="0" cellspacing="0" cellpadding="0">
+		<tr id="background" height="664">	<!-- 49 + 615 -->
+			<td class="background" align="center">
+				<div id="errMessage" class="message">
+					<script type="text/javascript">	document.write(message);</script>
+				</div>
+				<div style="height: 20px">&nbsp;</div>
+				<div id="bakBtn" class="snsSignLine_f" onClick="processOnclickBack()">
+					<script type="text/javascript">document.write(backM);</script>
+				</div></td>
+		</tr>
+		<tr height="54">
+			<td valign="middle" class="bottom" id="bottomBox">
+				<div id="bottomTable"
+					style="height: 54px; position: relative; top: 2px;">
+					<div id="exitBtn" style="position: absolute; left: 291px;" class="unfocusBox" align="center" onClick="exit()">
+						<img src="assets/Cinema_SNS_Keyhelp_Icon_Exit_1.png" onmouseover="focusOn(1)" onMouseOut="focusOut(1)">
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

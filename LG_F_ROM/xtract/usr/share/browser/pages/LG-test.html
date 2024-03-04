@@ -1,0 +1,74 @@
+<html>
+
+<script>
+
+var sites = new Array();
+var currentIndex = 0;
+var totalIndex = 0;
+
+function loadPages() {
+	sites[totalIndex++] = new Array('WMV plugins test', 'http://10.178.203.229:9999/video/working.html');
+	sites[totalIndex++] = new Array('Naver', 'http://www.naver.com');
+	sites[totalIndex++] = new Array('LGE BSI browser test', 'http://10.178.203.215/');
+}
+
+function printPages() {
+	var pageObject = document.getElementById('id_pages');	
+	for (i=0; i<sites.length; i++) {
+		pageObject.innerHTML = pageObject.innerHTML + 
+			"<a href='" + sites[i][1] + "' id=id_page_" + i + ">" + sites[i][0] + "</a><br>";
+	}
+	//alert (document.getElementById('id_page_0'));
+	document.getElementById('id_page_' + currentIndex).focus();
+	document.getElementById('id_page_' + currentIndex).style.border="3px solid red";
+}
+
+function init() {
+	loadPages();
+	printPages();
+	
+	document.onkeydown = function keyProcess(e) {
+		var newIndex = currentIndex;
+		//alert (e.keyCode);
+		switch (e.keyCode) {
+			case 38 :		// Up
+				newIndex--;
+				break;
+			case 40 :		// Down
+				newIndex++;
+				break;
+		}
+
+		if (newIndex < 0)
+			newIndex = totalIndex-1;
+		else if (newIndex >= totalIndex)
+			newIndex = 0;
+			
+		document.getElementById('id_page_' + currentIndex).style.border="0px";
+		document.getElementById('id_page_' + newIndex).focus();
+		document.getElementById('id_page_' + newIndex).style.border="3px solid red";
+		
+		currentIndex = newIndex;		
+	}
+}
+</script>
+
+<body onLoad="init()">
+<style type="text/css">
+	body { background-color: #fff; padding: 0 25px; color:#000; font: 18px/23px Arial, sans-serif; }
+	a { color: #360; }
+	h3 { padding-top: 50px; }
+	ol { margin:5px 0 15px 16px; padding:0; list-style-type:square; }
+	.borderit img{border: 1px solid #ccc;}
+}
+
+</style>
+
+<h3>LGE Browser Test</h3>
+
+<div id="id_pages">
+</div>
+
+</body>
+</html>
+

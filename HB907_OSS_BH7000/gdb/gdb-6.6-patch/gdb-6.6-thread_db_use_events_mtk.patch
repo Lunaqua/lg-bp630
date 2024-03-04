@@ -1,0 +1,20 @@
+--- gdb-6.6-orig/gdb/gdbserver/thread-db.c	2006-10-18 00:02:27.000000000 +0800
++++ gdb-6.6/gdb/gdbserver/thread-db.c	2010-11-18 13:16:24.000000000 +0800
+@@ -267,10 +267,13 @@
+ 
+   process->thread_known = 1;
+   process->th = *th_p;
+-  err = td_thr_event_enable (th_p, 1);
+-  if (err != TD_OK)
+-    error ("Cannot enable thread event reporting for %d: %s",
+-           ti_p->ti_lid, thread_db_err_str (err));
++  if(0)
++  {
++    err = td_thr_event_enable (th_p, 1);
++    if (err != TD_OK)
++      error ("Cannot enable thread event reporting for %d: %s",
++             ti_p->ti_lid, thread_db_err_str (err));
++  }
+ }
+ 
+ static int

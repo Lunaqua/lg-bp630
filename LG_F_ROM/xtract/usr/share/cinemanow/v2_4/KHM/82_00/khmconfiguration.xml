@@ -1,0 +1,30 @@
+<Settings>
+  <Value Key="XMLVersion">2.0</Value>
+  <Value Key="APIKey">KZP39OINIOPN56OZ25JZ5J5ON792KK677J8S5ZKISKCJOOJ97J2ZP38CCIOO99NNJNN8NS768728CSZCZ8PSCJZ6I36CK5N225OON78S568KZI578P67SISS3O686II27789N3JSOPIPSZ35S52P8S6S5NKI28597783</Value>
+  <Value Key="UserName">7SIPCS6PNPSJ93987ZI698O7N2863JKS5NINSZ285OJ7KSP63JZCJP7CK68I3ZKKJSJ762P258I2KP32K7SO23363ZP8Z5Z5ZZO7II9I2INP67CN393J57INJ7CSI5SK8953</Value>
+  <Value Key="Password">COOPZ8IKIIO7OZSPCPN2N7Z9ZZ92I6JZC5KKJ9I65752KPN7PP6C6SZOZ2NS2JK7653NI253J5P9PP3725J7CS866N8SJK8JS5JN27I6SN7INIP797SCO76N3S39768I6SI7NIS8OO2JKOIIINJ283SSC5O533PJ2674</Value>
+  <Value Key="DestinationTypeID">1077</Value>
+  <Value Key="DeviceTypeName">LG Blu-ray Player</Value>
+  <Value Key="StoreName">KNOWHOW Movies</Value>
+  <Value Key="CacheType">2</Value>
+  <Value Key="CacheData">7</Value>
+  <Value Key="CacheLimit">10485760</Value>
+  <Value Key="FileFilter">2</Value>
+  <Value Key="ProxyHost"/>
+  <Value Key="ProxyPort"/>
+  <Value Key="ProxyUserName"/>
+  <Value Key="ProxyPassword"/>
+  <Value Key="SDToHDThreshold">4200</Value>
+  <Value Key="HDToSDThreshold">2800</Value>
+  <Value Key="MinimumBandwidth">700</Value>
+  <Value Key="StoreURL">http://www.knowhowmovies.com</Value>
+  <Value Key="ActivationURL">www.knowhowmovies.com/start</Value>
+  <Value Key="SupportURL">www.knowhowmovies.com/help</Value>
+  <Value Key="BillingURL">www.knowhowmovies.com/billing</Value>
+  <Value Key="ServiceBaseURL"/>
+  <Value Key="EnableSelfActivation">false</Value>
+  <Value Key="EnableMerchPage">true</Value>
+  <Value Key="EnableCalcOrderTax">false</Value>
+  <Value Key="NoInternetUpgrade">true</Value>
+  <Value Key="FirstContinuousKeyInterval">2000</Value>
+</Settings>

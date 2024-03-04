@@ -1,0 +1,138 @@
+#!/bin/sh
+
+# BROWSER_NAME : The name of LGE browser
+export BROWSER_NAME="LG Browser/4.1.4"
+export NETCAST_VERSION="LG NetCast.Media-2011"
+export BROWSER_CAPABILITIES="+BDP"
+export ADDON_VERSION="addon ver 2.14.01 - 2011. 08. 26. (Mon) 15:55:58 KST"
+
+export HOME=/mnt/ubi_boot/browser/cache
+export DEPLOY_DIR=/usr/share/browser
+
+#######################
+# kill browser!!!
+$DEPLOY_DIR/kill_browser
+#######################
+
+export LD_LIBRARY_PATH=$DEPLOY_DIR/lib:/usr/local/lib:/usr/share/flashlite/lib/:/lib:$LD_LIBRARY_PATH
+export PATH=$DEPLOY_DIR/bin:$PATH
+export DISPLAY=""
+export XDG_DATA_HOME=$DEPLOY_DIR/etc
+export DATA_HOME=$HOME
+
+# for ERP dvbbridge
+export GLOBSPATH=$XDG_DATA_HOME/mime/globs
+
+####################################
+#         Browser settings         #
+####################################
+export BROWSER_RESOLUTION_WIDTH=1280
+export BROWSER_RESOLUTION_HEIGHT=720
+# set the full browser resolution like 1024, 576 if you want
+export BROWSER_RESOLUTION_FB_WIDTH=1280
+export BROWSER_RESOLUTION_FB_HEIGHT=720
+
+export BROWSER_APPLICATION_FILE_PATH="/mnt/sdpdata/browser_application.txt"
+export PROXY_CONFIG_FILE_PATH="$HOME/proxy_config.txt"
+export INIT_URL="file://$DEPLOY_DIR/pages/init.html"
+export COOKIE_FILE_PATH=$DATA_HOME
+export COOKIE_FILE_NAME="$COOKIE_FILE_PATH/cookies.txt"
+export COOKIE_FILE_NAME_FB="$COOKIE_FILE_PATH/cookies_fb.txt"
+export LOCAL_STORAGE_PATH="$COOKIE_FILE_PATH"
+export MIN_REST_SYSTEM_MEMORY=20000000
+export MAX_USED_SYSTEM_MEMORY=70000000	# Browser(CP) can use 70 MB max
+export MAX_USED_SYSTEM_MEMORY_FB=69206016 # Web Browser can use 66 MB max
+export MEMORY_CACHE_SIZE=30000000
+export MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE=15000000
+export MEMORY_CACHE_SIZE_FOR_DECODED_IMAGE_ON_INIT_PAGE=10000000
+# for fullbrowser : MAXIMUM_DECODED_IMAGE_SIZE
+export MAXIMUM_DECODED_IMAGE_SIZE=20000000
+export FLASH_ACCUMULATED_MAX_MEMORY=921600
+export DISK_CACHE_FILE_PATH="$DATA_HOME/diskcache"
+export DISK_CACHE_SIZE=52428800
+export DISK_CACHE_ON=0
+export MAX_CONNECTION=30
+export MAX_CONNECTION_PER_HOST=20
+export DUMP_GRAPHICS_FILE_PATH=$DATA_HOME
+export PLUGIN_PLAYER_URL="file://$DEPLOY_DIR/pages/player/index.html"
+export BROWSER_LOAD_MSG_PATHNAME="$DEPLOY_DIR/pages/res/loading.gif"
+export BROWSER_NETERR_PG_URL="file://$DEPLOY_DIR/pages/netError/netError_webkit_en.html"
+
+# URLs which will be used in the test mode
+export BROWSER_APP_9002=http://media.browser.lge.com/
+
+if ! test -f "$COOKIE_FILE_PATH"; then
+    mkdir -p "$COOKIE_FILE_PATH"
+fi
+if ! test -f "$DISK_CACHE_FILE_PATH"; then
+    mkdir -p "$DISK_CACHE_FILE_PATH"
+fi
+
+export GTK2_RC_FILES=$DEPLOY_DIR/pages/webui/gtk/gtk-2.0/gtkrc
+export GTK_PATH=$DEPLOY_DIR/lib/gtk-2.0/2.10.0/
+export GDK_PIXBUF_MODULEDIR=$DEPLOY_DIR/lib/gtk-2.0/2.10.0/loaders
+export GDK_PIXBUF_MODULE_FILE=$DEPLOY_DIR/etc/gtk-2.0/gdk-pixbuf.loaders
+
+#############
+# make link for dfb modules
+# These lines are commented temporarily
+export BROWSER_DFB_MODULE_DIR=$DEPLOY_DIR/lib/directfb-1.2-0
+if [ -f /mnt/ubi_boot/lb4_dfb_debug_flag ]; then
+export BROWSER_DFB_ARGS=--dfb:module-dir=$BROWSER_DFB_MODULE_DIR,debug
+else
+export BROWSER_DFB_ARGS=--dfb:module-dir=$BROWSER_DFB_MODULE_DIR
+fi
+export BROWSER_DFB_DLID=0
+
+export PANGO_RC_FILE=$DEPLOY_DIR/etc/pango/pangorc
+export MOZ_PLUGIN_PATH=$DEPLOY_DIR/plugins/common:$DEPLOY_DIR/plugins/bbtv
+export MOZ_PLUGIN_PATH_HBBTV=$DEPLOY_DIR/plugins/common:$DEPLOY_DIR/plugins/hbbtv
+
+# make fontconfig know where its configuration
+export FONTCONFIG_FILE=$DEPLOY_DIR/etc/fonts/fonts.conf
+
+EXTRA_CONF=$DEPLOY_DIR/devicekey/extra_conf
+
+if test -f $EXTRA_CONF; then
+    source $EXTRA_CONF;
+fi
+
+case ${0} in
+  bash | -bash | sh | -sh)
+    echo ".................................."
+    env
+    echo ".................................."
+    return 1 ;;
+esac
+
+#######################################################################
+export WRITABLE_PATH=$DATA_HOME/write
+
+if test -d $HOME/webkit/databases; then
+    echo "sqlite databases folder  ... OK"
+else
+    mkdir -p $WRITABLE_PATH/snapshots
+    cp $DEPLOY_DIR/pages/snapshots/* $WRITABLE_PATH/snapshots -r
+
+    mkdir -p $HOME/webkit/databases
+    cp $DEPLOY_DIR/etc/webkit/databases/* $HOME/webkit/databases -r
+fi
+#######################################################################
+
+grep -q loglevel=0 /proc/cmdline
+
+if [ "$?" == "0" ]; then
+lb4wk $* > /dev/null 2>&1
+else
+echo ""
+echo "----------------------------------------------"
+echo "             Launching LGBrowser4             "
+echo "     Revision: 3686. build_20130718_115209"
+echo "	     ADDON_VERSION : 2.30.02			"
+echo "----------------------------------------------"
+if [ -f /mnt/ubi_boot/lb4_debug_flag ]; then
+lb4wk $*
+else
+lb4wk $* > /dev/null 2>&1
+fi
+fi
